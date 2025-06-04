@@ -1,3 +1,11 @@
+# 20250604_Wed
+
+- **计算机视觉：[20250604_Wed_cv](./daily_papers/20250604_Wed/video.md)**
+
+- **自然语言处理：[20250604_Wed_nlp](./daily_papers/20250604_Wed/text.md)**
+
+- **音频：[20250604_Wed_audio](./daily_papers/20250604_Wed/audio.md)**
+
 # 20250603_Tue
 
 - **计算机视觉：[20250603_Tue_cv](./daily_papers/20250603_Tue/video.md)**

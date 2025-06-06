@@ -1,3 +1,13 @@
+# 20250606_Fri
+
+- **计算机视觉：[20250606_Fri_cv](./daily_papers/20250606_Fri/video.md)**
+
+- **自然语言处理：[20250606_Fri_nlp](./daily_papers/20250606_Fri/text.md)**
+
+- **音频：[20250606_Fri_audio](./daily_papers/20250606_Fri/audio.md)**
+
+- **机器人：[20250606_Fri_robotics](./daily_papers/20250606_Fri/robotics.md)**
+
 # 20250605_Thu
 
 - **计算机视觉：[20250605_Thu_cv](./daily_papers/20250605_Thu/video.md)**

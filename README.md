@@ -1,3 +1,13 @@
+# 20250616_Mon
+
+- **计算机视觉：[20250616_Mon_cv](./daily_papers/20250616_Mon/video.md)**
+
+- **自然语言处理：[20250616_Mon_nlp](./daily_papers/20250616_Mon/text.md)**
+
+- **音频：[20250616_Mon_audio](./daily_papers/20250616_Mon/audio.md)**
+
+- **机器人：[20250616_Mon_robotics](./daily_papers/20250616_Mon/robotics.md)**
+
 # 20250613_Fri
 
 - **计算机视觉：[20250613_Fri_cv](./daily_papers/20250613_Fri/video.md)**

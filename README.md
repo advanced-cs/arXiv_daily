@@ -1,3 +1,39 @@
+# 20251104_Tue
+
+- **计算机视觉：[20251104_Tue_cv](./daily_papers/20251104_Tue/video.md)**
+
+- **自然语言处理：[20251104_Tue_nlp](./daily_papers/20251104_Tue/text.md)**
+
+- **音频：[20251104_Tue_audio](./daily_papers/20251104_Tue/audio.md)**
+
+- **机器人：[20251104_Tue_robotics](./daily_papers/20251104_Tue/robotics.md)**
+
+- **计算机与社会：[20251104_Tue_society](./daily_papers/20251104_Tue/society.md)**
+
+# 20251104_Tue
+
+- **计算机视觉：[20251104_Tue_cv](./daily_papers/20251104_Tue/video.md)**
+
+- **自然语言处理：[20251104_Tue_nlp](./daily_papers/20251104_Tue/text.md)**
+
+- **音频：[20251104_Tue_audio](./daily_papers/20251104_Tue/audio.md)**
+
+- **机器人：[20251104_Tue_robotics](./daily_papers/20251104_Tue/robotics.md)**
+
+- **计算机与社会：[20251104_Tue_society](./daily_papers/20251104_Tue/society.md)**
+
+# 20251104_Tue
+
+- **计算机视觉：[20251104_Tue_cv](./daily_papers/20251104_Tue/video.md)**
+
+- **自然语言处理：[20251104_Tue_nlp](./daily_papers/20251104_Tue/text.md)**
+
+- **音频：[20251104_Tue_audio](./daily_papers/20251104_Tue/audio.md)**
+
+- **机器人：[20251104_Tue_robotics](./daily_papers/20251104_Tue/robotics.md)**
+
+- **计算机与社会：[20251104_Tue_society](./daily_papers/20251104_Tue/society.md)**
+
 # 20251103_Mon
 
 - **计算机视觉：[20251103_Mon_cv](./daily_papers/20251103_Mon/video.md)**

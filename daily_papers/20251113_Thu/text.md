@@ -11,7 +11,7 @@
 
 - **简介: 该论文研究大模型对齐中多样性丧失问题，指出KL正则化导致模型偏向主流观点。提出Soft Preference Learning，解耦熵与交叉熵项，提升输出多样性与准确性，实现更优的多元观点表征与校准。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08594v1](https://arxiv.org/pdf/2511.08594v1)**
 
 > **作者:** Stewart Slocum; Asher Parker-Sartori; Dylan Hadfield-Menell
 >
@@ -23,7 +23,7 @@
 
 - **简介: 论文提出SynClaimEval框架，评估合成数据在长文本主张验证任务中的效用，解决人工标注成本高的问题。通过控制输入、合成逻辑与解释质量，验证合成数据可提升模型性能与解释一致性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09539v1](https://arxiv.org/pdf/2511.09539v1)**
 
 > **作者:** Mohamed Elaraby; Jyoti Prakash Maheswari
 >
@@ -35,7 +35,7 @@
 
 - **简介: POTSA提出一种跨语言语音对齐框架，用于低资源语音到文本翻译任务，解决源语言语义共性被忽视导致的偏差问题。通过最优传输与偏差补偿模块，实现跨语言表征对齐，在仅10小时数据下显著提升翻译性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09232v1](https://arxiv.org/pdf/2511.09232v1)**
 
 > **作者:** Xuanchen Li; Chenrui Cui; Tianrui Wang; Meng Ge; Zikang Huang; Jin Li; Yizhou Peng; Longbiao Wang; Jianwu Dang; Nyima Tashi
 >
@@ -49,7 +49,7 @@
 
 - **简介: 该论文提出一种神经符号框架，将自然语言政策转化为可验证的形式化逻辑，解决LLM在合规领域因随机性导致的不可靠问题，通过多步自动生成与交叉验证，实现超99%的逻辑正确性与可审计性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09008v1](https://arxiv.org/pdf/2511.09008v1)**
 
 > **作者:** Sam Bayless; Stefano Buliani; Darion Cassel; Byron Cook; Duncan Clough; Rémi Delmas; Nafi Diallo; Ferhat Erata; Nick Feng; Dimitra Giannakopoulou; Aman Goel; Aditya Gokhale; Joe Hendrix; Marc Hudak; Dejan Jovanović; Andrew M. Kent; Benjamin Kiesl-Reiter; Jeffrey J. Kuna; Nadia Labai; Joseph Lilien; Divya Raghunathan; Zvonimir Rakamarić; Niloofar Razavi; Michael Tautschnig; Ali Torkamani; Nathaniel Weir; Michael W. Whalen; Jianan Yao
 >
@@ -63,7 +63,7 @@
 
 - **简介: 该论文提出一种基于大语言模型（LLM）的超级学习器MEDAS，用于医疗急诊诊断建议。通过集成五种主流LLM并结合元学习器，提升急性病诊断准确率至70%，超越单个模型表现，解决急诊决策辅助的精度与可靠性问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08614v1](https://arxiv.org/pdf/2511.08614v1)**
 
 > **作者:** Sergey K. Aityan; Abdolreza Mosaddegh; Rolando Herrero; Haitham Tayyar; Jiang Han; Vikram Sawant; Qi Chen; Rishabh Jain; Aruna Senthamaraikannan; Stephen Wood; Manuel Mersini; Rita Lazzaro; Mario Balzaneli; Nicola Iacovazzo; Ciro Gargiulo Isacco
 >
@@ -77,7 +77,7 @@
 
 - **简介: 该论文研究大语言模型在生成式与多选式任务中的自修正机制差异，揭示开放生成利于灵活重构，多选依赖选项边界但受限。工作旨在指导自修正设计，优化知识推理与决策应用。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09381v1](https://arxiv.org/pdf/2511.09381v1)**
 
 > **作者:** Hossein A. Rahmani; Satyapriya Krishna; Xi Wang; Mohammadmehdi Naghiaei; Emine Yilmaz
 >
@@ -91,7 +91,7 @@
 
 - **简介: 该论文面向安多藏语流式语音识别，提出上下文感知动态分块机制，解决固定分块导致的上下文截断问题，结合正字法词典与外部语言模型，显著降低词错误率并减少延迟。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09085v1](https://arxiv.org/pdf/2511.09085v1)**
 
 > **作者:** Chao Wang; Yuqing Cai; Renzeng Duojie; Jin Zhang; Yutong Liu; Nyima Tashi
 >
@@ -103,7 +103,7 @@
 
 - **简介: 论文提出BioVerge基准与Agent框架，解决生物医学假设生成缺乏标准化评估的问题，通过ReAct架构实现自评估，融合结构化与文本数据，提升假设的新颖性与相关性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08866v1](https://arxiv.org/pdf/2511.08866v1)**
 
 > **作者:** Fuyi Yang; Chenchen Ye; Mingyu Derek Ma; Yijia Xiao; Matthew Yang; Wei Wang
 >
@@ -115,7 +115,7 @@
 
 - **简介: 该论文面向高棉语情感分类任务，解决模型缺乏解释性的问题，通过微调Qwen-3模型实现自解释预测，识别情感关键词，并构建了首个公开的高棉语情感数据集。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09313v1](https://arxiv.org/pdf/2511.09313v1)**
 
 > **作者:** Marry Kong; Rina Buoy; Sovisal Chenda; Nguonly Taing
 >
@@ -127,7 +127,7 @@
 
 - **简介: TiDAR提出一种混合架构，在单次前向传播中用扩散模型并行草稿（Thinking），再用自回归模型采样输出（Talking），在保持AR级质量的同时提升吞吐量4.71–5.91倍，解决扩散与自回归模型在效率与质量间的权衡难题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08923v1](https://arxiv.org/pdf/2511.08923v1)**
 
 > **作者:** Jingyu Liu; Xin Dong; Zhifan Ye; Rishabh Mehta; Yonggan Fu; Vartika Singh; Jan Kautz; Ce Zhang; Pavlo Molchanov
 >
@@ -141,7 +141,7 @@
 
 - **简介: 该论文研究LLM能否生成逼真的多用户社交对话，属于AI生成内容真实性评估任务。通过对比Reddit真实对话与Llama 3、GPT-4o生成对话，发现人类误判率高达39%，证明LLM可伪造可信社交内容，警示其潜在滥用风险。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08592v1](https://arxiv.org/pdf/2511.08592v1)**
 
 > **作者:** Azza Bouleimen; Giordano De Marzo; Taehee Kim; Nicol`o Pagan; Hannah Metzler; Silvia Giordano; David Garcia
 >
@@ -153,7 +153,7 @@
 
 - **简介: C³TG提出一种无需修改模型的文本可控生成框架，解决多属性冲突与协同控制难题，通过分类器加权与迭代优化实现高精度、低毒性、多维度文本生成。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09292v1](https://arxiv.org/pdf/2511.09292v1)**
 
 > **作者:** Yu Li; Zhe Yang; Yi Huang; Xin Liu; Guilin Qi
 >
@@ -167,7 +167,7 @@
 
 - **简介: 论文提出Mina，一个面向孟加拉国的多语言LLM法律助手，解决低收入群体因语言障碍和高成本难以获取法律服务的问题。通过RAG框架实现法律推理与文档生成，在巴国律师考试中表现媲美人类，推动普惠司法AI部署。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08605v1](https://arxiv.org/pdf/2511.08605v1)**
 
 > **作者:** Azmine Toushik Wasi; Wahid Faisal; Mst Rafia Islam
 >
@@ -179,7 +179,7 @@
 
 - **简介: 该论文研究大语言模型在引文推荐中的幻觉问题，提出引用频次可作为训练数据冗余的代理，揭示高被引论文因记忆效应而降低幻觉率，并发现超千次引用后出现逐字记忆与记忆干扰现象。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08877v1](https://arxiv.org/pdf/2511.08877v1)**
 
 > **作者:** Junichiro Niimi
 >
@@ -191,7 +191,7 @@
 
 - **简介: 论文提出mmJEE-Eval双语多模态基准，评估VLMs在科学推理中的真实能力，揭示现有模型依赖模式匹配而非深度推理，区分闭源与开源模型的推理差距。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09339v1](https://arxiv.org/pdf/2511.09339v1)**
 
 > **作者:** Arka Mukherjee; Shreya Ghosh
 >
@@ -205,7 +205,7 @@
 
 - **简介: 该论文研究LLM在理解美国《法典》第18编第175条时的安全风险，提出结合知识图谱与RAG的方法，评估其法律推理能力与生成非法内容的漏洞，旨在构建更安全、合规的法律辅助系统。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08593v1](https://arxiv.org/pdf/2511.08593v1)**
 
 > **作者:** Abha Jha; Abel Salinas; Fred Morstatter
 >
@@ -217,7 +217,7 @@
 
 - **简介: LoopTool提出一种闭环数据训练框架，解决LLM工具调用中数据与训练脱节、噪声标签问题，通过能力探查、标签校验与错误驱动生成，自动优化数据与模型，显著提升8B模型性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09148v1](https://arxiv.org/pdf/2511.09148v1)**
 
 > **作者:** Kangning Zhang; Wenxiang Jiao; Kounianhua Du; Yuan Lu; Weiwen Liu; Weinan Zhang; Lei Zhang; Yong Yu
 >
@@ -229,7 +229,7 @@
 
 - **简介: HalluClean是一个轻量级、任务无关的框架，用于检测与修正大语言模型生成文本中的幻觉问题，通过规划-执行-修订三阶段推理机制，在无需外部知识或监督的情况下实现零样本泛化，显著提升输出事实一致性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08916v1](https://arxiv.org/pdf/2511.08916v1)**
 
 > **作者:** Yaxin Zhao; Yu Zhang
 >
@@ -241,7 +241,7 @@
 
 - **简介: 该论文研究LLMs在日式幽默“Oogiri”中的生成与评估能力，提出多维评价体系（新颖性、共情等），发现LLMs缺乏共情，导致与人类幽默判断偏离，并发布标注数据集推动情感智能对话系统发展。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09133v1](https://arxiv.org/pdf/2511.09133v1)**
 
 > **作者:** Ritsu Sakabe; Hwichan Kim; Tosho Hirasawa; Mamoru Komachi
 >
@@ -253,7 +253,7 @@
 
 - **简介: 该论文面向帕金森病认知评估，利用NLP模型从患者自述文本中自动识别七类抽象认知维度（如思维、情绪）。比较了Bio_ClinicalBERT、微调Llama-3和GPT-4o的性能，发现微调Llama-3表现最优，为无创长期认知监测提供新路径。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08806v1](https://arxiv.org/pdf/2511.08806v1)**
 
 > **作者:** Varada Khanna; Nilay Bhatt; Ikgyu Shin; Sule Tinaz; Yang Ren; Hua Xu; Vipina K. Keloth
 >
@@ -267,7 +267,7 @@
 
 - **简介: 论文提出GSAP-ERE，一个面向机器学习领域的细粒度实体与关系抽取数据集，包含63K实体和35K关系，用于提升知识图谱构建与可复现性监测，并验证监督模型远优于大语言模型提示方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09411v1](https://arxiv.org/pdf/2511.09411v1)**
 
 > **作者:** Wolfgang Otto; Lu Gan; Sharmila Upadhyaya; Saurav Karmakar; Stefan Dietze
 >
@@ -281,7 +281,7 @@
 
 - **简介: 该论文验证了仅用上下文信息的序列性度量在作文评分中的有效性，解决原方法因主题选择引入偏差的问题。实验表明，上下文版本更贴近人工评估，且与语言特征结合优于零样本LLM预测。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09185v1](https://arxiv.org/pdf/2511.09185v1)**
 
 > **作者:** Amal Sunny; Advay Gupta; Vishnu Sreekumar
 >
@@ -295,7 +295,7 @@
 
 - **简介: 论文提出OKBench，一个自动化生成动态知识基准的框架，解决静态评测集无法反映实时知识的问题。聚焦新闻领域，实现知识获取、构建与验证的全流程自动化，提升LLM在检索增强场景下的公平评估。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08598v1](https://arxiv.org/pdf/2511.08598v1)**
 
 > **作者:** Yanhong Li; Tianyang Xu; Kenan Tang; Karen Livescu; David McAllester; Jiawei Zhou
 >
@@ -307,7 +307,7 @@
 
 - **简介: 该论文提出DoPE，一种无训练的旋转位置编码去噪方法，通过截断矩阵熵检测并抑制注意力中的异常频段，缓解注意力下沉问题，显著提升长上下文（达64K）的检索与推理性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09146v1](https://arxiv.org/pdf/2511.09146v1)**
 
 > **作者:** Jing Xiong; Liyang Fan; Hui Shen; Zunhai Su; Min Yang; Lingpeng Kong; Ngai Wong
 >
@@ -321,7 +321,7 @@
 
 - **简介: GMTRouter面向多轮用户-LLM交互的个性化路由任务，解决现有方法因数据稀疏、结构简单导致的个性化不足问题。通过构建异构图并设计轻量图学习框架，实现仅用少量样本精准建模用户偏好，高效适配新用户与偏好演化。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08590v1](https://arxiv.org/pdf/2511.08590v1)**
 
 > **作者:** Encheng Xie; Yihang Sun; Tao Feng; Jiaxuan You
 >
@@ -335,7 +335,7 @@
 
 - **简介: 该论文聚焦语言模型在演绎推理中的诚实对齐任务，解决强化学习训练早期因负奖励导致的崩溃问题。提出Anchor方法，通过注入真实轨迹稳定训练，在两个衍生数据集上显著提升推理性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09222v1](https://arxiv.org/pdf/2511.09222v1)**
 
 > **作者:** Jiarui Liu; Kaustubh Dhole; Yingheng Wang; Haoyang Wen; Sarah Zhang; Haitao Mao; Gaotang Li; Neeraj Varshney; Jingguo Liu; Xiaoman Pan
 >
@@ -347,7 +347,7 @@
 
 - **简介: 该论文提出“Self-HarmLLM”新场景，探究LLM是否可能通过自身生成的模糊有害查询实现自我越狱，揭示现有防御机制的盲区，并发现自动化评估严重高估 jailbreak 成功率，呼吁重构安全评估体系。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08597v1](https://arxiv.org/pdf/2511.08597v1)**
 
 > **作者:** Heehwan Kim; Sungjune Park; Daeseon Choi
 >
@@ -359,7 +359,7 @@
 
 - **简介: 该论文提出GrADS方法，用于大语言模型的监督微调，通过梯度分析自适应选择高效数据子集，解决资源消耗大与灾难性遗忘问题，在仅用5%数据下即超越全集微调效果，并显著缓解遗忘。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08620v1](https://arxiv.org/pdf/2511.08620v1)**
 
 > **作者:** Yibai Liu; Shihang Wang; Zeming Liu; Zheming Song; Junzhe Wang; Jingjing Liu; Qingjie Liu; Yunhong Wang
 >
@@ -373,7 +373,7 @@
 
 - **简介: 该论文提出TACT数据集与新指标，解决对话系统在任务型与闲聊模式间切换能力不足的问题，通过结构化多模式对话数据与DPO优化，显著提升代理的模式切换与意图识别能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08835v1](https://arxiv.org/pdf/2511.08835v1)**
 
 > **作者:** Yejin Yoon; Yuri Son; Namyoung So; Minseo Kim; Minsoo Cho; Chanhee Park; Seungshin Lee; Taeuk Kim
 >
@@ -387,7 +387,7 @@
 
 - **简介: 论文提出EVADE框架，利用大语言模型自动生成与验证NLI任务中的解释，以检测标注错误。相比人工两轮标注，该方法更高效，能提升数据质量与模型微调性能，缓解标签变异带来的标注难题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08949v1](https://arxiv.org/pdf/2511.08949v1)**
 
 > **作者:** Longfei Zuo; Barbara Plank; Siyao Peng
 >
@@ -399,7 +399,7 @@
 
 - **简介: MTQ-Eval提出一种多语言文本质量评估框架，通过自动生成高低质量文本偏好数据，微调开源LLM，提升其跨115种语言的通用文本质量评估能力，并增强下游任务表现。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09374v1](https://arxiv.org/pdf/2511.09374v1)**
 
 > **作者:** Rhitabrat Pokharel; Ameeta Agrawal
 >
@@ -413,7 +413,7 @@
 
 - **简介: SpiralThinker提出一种迭代式潜变量推理框架，通过文本与潜变量交替更新，解决潜变量推理中表示不稳定、显隐推理脱节问题，在数学、逻辑等任务上超越现有方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08983v1](https://arxiv.org/pdf/2511.08983v1)**
 
 > **作者:** Shengmin Piao; Sanghyun Park
 >
@@ -425,7 +425,7 @@
 
 - **简介: 该论文面向序列分类任务，解决固定删除率随机平滑在变长输入下性能不佳的问题，提出AdaptDel方法，动态调整删除率，扩展随机平滑理论，显著提升对编辑距离扰动的认证鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09316v1](https://arxiv.org/pdf/2511.09316v1)**
 
 > **作者:** Zhuoqun Huang; Neil G. Marchant; Olga Ohrimenko; Benjamin I. P. Rubinstein
 >
@@ -439,7 +439,7 @@
 
 - **简介: 论文提出Bi-RAR，面向检索增强推理任务，解决多步推理中中间步骤缺乏监督导致的奖励欺骗问题。通过双向信息距离评估推理状态，结合多目标强化学习优化前后向对齐，提升推理质量与效率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09109v1](https://arxiv.org/pdf/2511.09109v1)**
 
 > **作者:** Wenda Wei; Yu-An Liu; Ruqing Zhang; Jiafeng Guo; Lixin Su; Shuaiqiang Wang; Dawei Yin; Maarten de Rijke; Xueqi Cheng
 >
@@ -451,7 +451,7 @@
 
 - **简介: 该论文面向芬兰语及周边语言，预训练了六种规模的ModernBERT模型，解决多语言上下文建模问题，尤其提升长文本（>512词）任务性能，实验验证数据策略有效性，并开源模型与代码。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09213v1](https://arxiv.org/pdf/2511.09213v1)**
 
 > **作者:** Akseli Reunamo; Laura-Maria Peltonen; Hans Moen; Sampo Pyysalo
 >
@@ -463,7 +463,7 @@
 
 - **简介: 该论文提出S2CLite，一种无依赖的规则式SPARQL转Cypher解析器，解决跨图数据库查询语言转换难题，并构建Spider4SSC多语言数据集，提升翻译准确率至77.8%，显著优于现有方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09354v1](https://arxiv.org/pdf/2511.09354v1)**
 
 > **作者:** Martin Vejvar; Yasutaka Fujimoto
 >
@@ -475,7 +475,7 @@
 
 - **简介: 论文提出MM-CRITIC基准，首次系统评估大多模态模型（LMMs）的多模态批判能力，涵盖基本、修正与比较三维度，构建500+任务与专家标注评分体系，提升评估可靠性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09067v1](https://arxiv.org/pdf/2511.09067v1)**
 
 > **作者:** Gailun Zeng; Ziyang Luo; Hongzhan Lin; Yuchen Tian; Kaixin Li; Ziyang Gong; Jianxiong Guo; Jing Ma
 >
@@ -489,7 +489,7 @@
 
 - **简介: 该论文面向LLM代理的工具调用任务，解决用户指令模糊导致的调用错误问题，提出结构化不确定性建模方法SAGE-Agent，通过POMDP与EVPI优化澄清提问，提升任务覆盖率并减少冗余交互，同时构建ClarifyBench基准并推动RL训练。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08798v1](https://arxiv.org/pdf/2511.08798v1)**
 
 > **作者:** Manan Suri; Puneet Mathur; Nedim Lipka; Franck Dernoncourt; Ryan A. Rossi; Dinesh Manocha
 >
@@ -501,7 +501,7 @@
 
 - **简介: 该论文针对孟加拉语NLI数据稀缺且质量差的问题，构建了BNLI——一个语义清晰、类别平衡的高质量孟加拉语自然语言推理数据集，并验证了其对模型训练的有效性，推动低资源语言推理研究。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08813v1](https://arxiv.org/pdf/2511.08813v1)**
 
 > **作者:** Farah Binta Haque; Md Yasin; Shishir Saha; Md Shoaib Akhter Rafi; Farig Sadeque
 >
@@ -513,7 +513,7 @@
 
 - **简介: 论文提出SeerSC框架，用于大语言模型测试时自洽推理的预算优化。通过System 1快速估算答案熵，动态决定是否启动System 2并行生成，显著降低令牌消耗与推理延迟，兼顾效率与性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09345v1](https://arxiv.org/pdf/2511.09345v1)**
 
 > **作者:** Shiyu Ji; Yixuan Wang; Yijun Liu; Qingfu Zhu; Wanxiang Che
 >
@@ -525,7 +525,7 @@
 
 - **简介: 该论文提出一种轨迹评估框架，解决LLM情感支持评估静态化问题，通过模拟动态情感变化与心理学策略约束，构建大规模基准并定义三项新指标，实现对模型长期情感支持能力的系统评估。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09003v1](https://arxiv.org/pdf/2511.09003v1)**
 
 > **作者:** Zhouxing Tan; Ruochong Xiong; Yulong Wan; Jinlong Ma; Hanlin Xue; Qichun Deng; Haifeng Jing; Zhengtong Zhang; Depei Liu; Shiyuan Luo; Junfei Liu
 >
@@ -537,7 +537,7 @@
 
 - **简介: 该论文提出AMaPO，用于语言模型对齐的离线偏好优化任务，解决传统方法中正确样本过拟合与错误样本欠拟合的困境，通过自适应边际动态调整梯度，显著提升排序精度与对齐效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09385v1](https://arxiv.org/pdf/2511.09385v1)**
 
 > **作者:** Ruibo Deng; Duanyu Feng; Wenqiang Lei
 >
@@ -551,7 +551,7 @@
 
 - **简介: 该论文面向低资源语言（巴斯克语）的多模态大模型构建，通过自建图文数据集，探索不同数据混合策略，发现少量巴斯克语数据即可实现高性能，且无需专用巴斯克语言模型作为骨干，为低资源语言的多模态模型开发提供新路径。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09396v1](https://arxiv.org/pdf/2511.09396v1)**
 
 > **作者:** Lukas Arana; Julen Etxaniz; Ander Salaberria; Gorka Azkune
 >
@@ -563,7 +563,7 @@
 
 - **简介: 该论文面向证券报告中的复杂表格问答任务，解决LLM难以理解表格结构的问题，提出一种无需人工标注的混合检索方法，通过语义相似度定位行/列头，精准提取答案单元格，准确率达74.6%，优于GPT-4o mini。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09179v1](https://arxiv.org/pdf/2511.09179v1)**
 
 > **作者:** Daiki Shirafuji; Koji Tanaka; Tatsuhiko Saito
 >
@@ -577,7 +577,7 @@
 
 - **简介: 该论文针对Tree-of-Thought推理中语义冗余导致的高计算开销问题，提出SSDP方法，通过在线语义相似性聚类实现动态剪枝，显著加速推理（最高2.3倍）并减少85-90%搜索节点，兼顾准确性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08595v1](https://arxiv.org/pdf/2511.08595v1)**
 
 > **作者:** Joongho Kim; Xirui Huang; Zarreen Reza; Gabriel Grand; Kevin Zhu; Ryan Lagasse
 >
@@ -591,7 +591,7 @@
 
 - **简介: 该论文提出一种个性化阅读理解测试生成方法，通过GPT-4o将标准试题转创为契合学生兴趣的版本，解决传统材料缺乏吸引力的问题，提升EFL学习者的理解与动机。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09135v1](https://arxiv.org/pdf/2511.09135v1)**
 
 > **作者:** Jieun Han; Daniel Lee; Haneul Yoo; Jinsung Yoon; Junyeong Park; Suin Kim; So-Yeon Ahn; Alice Oh
 >
@@ -603,7 +603,7 @@
 
 - **简介: 论文提出CARE-Bench，一个基于专家指导的动态客户模拟基准，用于评估LLM在心理咨询服务中的综合能力，解决现有评估方式专业性不足、维度单一的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09407v1](https://arxiv.org/pdf/2511.09407v1)**
 
 > **作者:** Bichen Wang; Yixin Sun; Junzhe Wang; Hao Yang; Xing Fu; Yanyan Zhao; Si Wei; Shijin Wang; Bing Qin
 >
@@ -615,7 +615,7 @@
 
 - **简介: 该论文将DisCoCirc框架从英语扩展至孟加拉语，研究其在英孟翻译任务中的有效性，发现其因语言结构差异存在局限，虽部分有效但仍难处理简单句，并探讨改进方向。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08601v1](https://arxiv.org/pdf/2511.08601v1)**
 
 > **作者:** Nazmoon Falgunee Moon
 >
@@ -629,7 +629,7 @@
 
 - **简介: 该论文面向摘要溯源任务，解决自动摘要中信息来源不明的问题，提出混合摘要方法（ paraphrase + extractive）并设计拓扑结构，以精准关联摘要句与源文本，提升 attribution 可解释性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08589v1](https://arxiv.org/pdf/2511.08589v1)**
 
 > **作者:** Violet B; John M. Conroy; Sean Lynch; Danielle M; Neil P. Molino; Aaron Wiechmann; Julia S. Yang
 >
@@ -641,7 +641,7 @@
 
 - **简介: 该论文提出BIG5-TPoT模型，用于从文本中预测大五人格特质、 facets 和条目。通过语义筛选相关文本（TPoT策略），解决大模型输入长度限制问题，提升预测精度与MAE指标。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09426v1](https://arxiv.org/pdf/2511.09426v1)**
 
 > **作者:** Triet M. Le; Arjun Chandra; C. Anton Rytting; Valerie P. Karuzis; Vladimir Rife; William A. Simpson
 >
@@ -653,7 +653,7 @@
 
 - **简介: 该论文针对社交媒体中自杀意念检测问题，提出一种CNN-BiGRU与注意力机制融合的深度学习模型，结合SHAP可解释方法，提升检测准确率与可信度，在公开数据集上达到93.97%准确率，优于现有方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08636v1](https://arxiv.org/pdf/2511.08636v1)**
 
 > **作者:** Mohaiminul Islam Bhuiyan; Nur Shazwani Kamarudin; Nur Hafieza Ismail
 >
@@ -667,7 +667,7 @@
 
 - **简介: 该论文属于自动文本简化（ATS）任务，旨在探讨可读性指标与人工评价及自动评估指标间的关联性。研究发现三者相关性低，呼吁明确ATS的构建定义。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09536v1](https://arxiv.org/pdf/2511.09536v1)**
 
 > **作者:** Rémi Cardon; A. Seza Doğruöz
 >
@@ -679,7 +679,7 @@
 
 - **简介: 该论文提出HAUNT框架，用于测试大语言模型（LLMs）在对抗性诱导下的自洽性，解决其事实幻觉问题。通过让模型自生成并验证真假陈述，评估其抗干扰能力，发现不同模型抗诱导性差异显著。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08596v1](https://arxiv.org/pdf/2511.08596v1)**
 
 > **作者:** Arka Dutta; Sujan Dutta; Rijul Magu; Soumyajit Datta; Munmun De Choudhury; Ashiqur R. KhudaBukhsh
 >
@@ -691,7 +691,7 @@
 
 - **简介: 论文提出LiteraryTaste数据集，用于建模用户创意写作偏好，解决LLM忽视个人差异的问题。通过60人的真实阅读偏好数据，验证了个性化建模的可行性，并发现显式偏好比自报偏好更有效。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09310v1](https://arxiv.org/pdf/2511.09310v1)**
 
 > **作者:** John Joon Young Chung; Vishakh Padmakumar; Melissa Roemmele; Yi Wang; Yuqian Sun; Tiffany Wang; Shm Garanganao Almeda; Brett A. Halperin; Yuwen Lu; Max Kreminski
 >
@@ -703,7 +703,7 @@
 
 - **简介: 该论文研究动态学习子词切分的训练动态，解决传统固定切分不适配形态丰富语言的问题。扩展SSLM框架，分析三类语言在预训练与微调中子词演化规律，揭示其提升低资源语言生成与迁移性能的潜力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09197v1](https://arxiv.org/pdf/2511.09197v1)**
 
 > **作者:** Francois Meyer; Jan Buys
 >
@@ -715,7 +715,7 @@
 
 - **简介: 该论文提出一种基于检索增强生成（RAG）的系统，解决儿科言语病理学案例生成中LLM幻觉与知识不足问题，整合专业知识库与多模型生成，验证了自动化生成临床 vignettes 的可行性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08600v1](https://arxiv.org/pdf/2511.08600v1)**
 
 > **作者:** Yilan Liu
 >
@@ -729,7 +729,7 @@
 
 - **简介: 该论文针对GUI代理历史感知不足的问题，提出History-Aware Reasoning（HAR）框架，通过反思学习与混合奖励机制增强短时记忆，使代理能利用交互历史进行连贯推理，提升长任务自动化性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09127v1](https://arxiv.org/pdf/2511.09127v1)**
 
 > **作者:** Ziwei Wang; Leyang Yang; Xiaoxuan Tang; Sheng Zhou; Dajun Chen; Wei Jiang; Yong Li
 >
@@ -743,7 +743,7 @@
 
 - **简介: 该论文研究LLM代理在独裁者博弈中的行为，揭示系统提示对公平偏好决策的显著影响。提出LLM-ABS框架，通过中性提示和语言分析提升行为研究的鲁棒性，解决提示敏感性导致的结论不可靠问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08721v1](https://arxiv.org/pdf/2511.08721v1)**
 
 > **作者:** Andreas Einwiller; Kanishka Ghosh Dastidar; Artur Romazanov; Annette Hautli-Janisz; Michael Granitzer; Florian Lemmerich
 >
@@ -757,7 +757,7 @@
 
 - **简介: AdaCuRL是一种自适应课程强化学习框架，用于提升大语言模型的推理能力。它通过动态难度评估与历史样本重访，缓解梯度匮乏与策略退化，无需人工标注CoT，显著提升模型在多任务推理中的表现。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09478v1](https://arxiv.org/pdf/2511.09478v1)**
 
 > **作者:** Renda Li; Hailang Huang; Fei Wei; Feng Xiong; Yong Wang; Xiangxiang Chu
 >
@@ -769,7 +769,7 @@
 
 - **简介: 该论文属媒体研究，探讨Google NotebookLM生成的AI播客如何通过固定模板与文化同质化，将多元文本翻译为美式中产白人语境，消解了传统播客的社区性，揭示AI媒体对公共性的抽象化重塑。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08654v1](https://arxiv.org/pdf/2511.08654v1)**
 
 > **作者:** Jill Walker Rettberg
 >
@@ -783,7 +783,7 @@
 
 - **简介: PAN提出一种通用可交互的长时序世界模型，通过LLM驱动的潜变量动态与视频扩散解码器，实现自然语言动作引导的高保真未来状态预测，解决现有模型缺乏因果控制与泛化能力的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09057v1](https://arxiv.org/pdf/2511.09057v1)**
 
 > **作者:** PAN Team; Jiannan Xiang; Yi Gu; Zihan Liu; Zeyu Feng; Qiyue Gao; Yiyan Hu; Benhao Huang; Guangyi Liu; Yichi Yang; Kun Zhou; Davit Abrahamyan; Arif Ahmad; Ganesh Bannur; Junrong Chen; Kimi Chen; Mingkai Deng; Ruobing Han; Xinqi Huang; Haoqiang Kang; Zheqi Li; Enze Ma; Hector Ren; Yashowardhan Shinde; Rohan Shingre; Ramsundar Tanikella; Kaiming Tao; Dequan Yang; Xinle Yu; Cong Zeng; Binglin Zhou; Hector Liu; Zhiting Hu; Eric P. Xing
 >
@@ -795,7 +795,7 @@
 
 - **简介: 该论文提出通过多智能体递归优化实现渐进式搜索（GIS）以增强LLM推理能力，以历史人物智能体解决政治议题为实验，验证结构化管道显著优于线性管道，提升推理深度与质量。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09005v1](https://arxiv.org/pdf/2511.09005v1)**
 
 > **作者:** Alvin Chauhan
 >
@@ -809,7 +809,7 @@
 
 - **简介: 论文提出Routesplain，首个面向软件任务的可解释LLM路由系统，通过提取任务、领域等可解释概念进行路由，提升准确率与成本效率，优于黑盒模型并支持干预优化。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09373v1](https://arxiv.org/pdf/2511.09373v1)**
 
 > **作者:** Adam Štorek; Vikas Upadhyay; Marianne Menglin Liu; Daniel W. Peterson; Anshul Mittal; Sujeeth Bharadwaj; Fahad Shah; Dan Roth
 >
@@ -821,7 +821,7 @@
 
 - **简介: 论文提出对话代理SPARA，基于RAG与语言模型，为斯德哥尔摩住房合作社提供能源效率建议，解决其缺乏专业能力的问题，初步实现与专家相当的80%准确率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08587v1](https://arxiv.org/pdf/2511.08587v1)**
 
 > **作者:** Shadaab Ghani; Anne Håkansson; Oleksii Pasichnyi; Hossein Shahrokni
 >
@@ -833,7 +833,7 @@
 
 - **简介: 论文提出TransactionGPT，一个专为消费交易数据设计的3D-Transformer基础模型，解决交易序列建模与下游任务预测难题，通过高效多模态融合实现更准更快的交易生成与分类，超越现有模型与微调LLM。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08939v1](https://arxiv.org/pdf/2511.08939v1)**
 
 > **作者:** Yingtong Dou; Zhimeng Jiang; Tianyi Zhang; Mingzhi Hu; Zhichao Xu; Shubham Jain; Uday Singh Saini; Xiran Fan; Jiarui Sun; Menghai Pan; Junpeng Wang; Xin Dai; Liang Wang; Chin-Chia Michael Yeh; Yujie Fan; Vineeth Rakesh; Huiyuan Chen; Mangesh Bendre; Zhongfang Zhuang; Xiaoting Li; Prince Aboagye; Vivian Lai; Minghua Xu; Hao Yang; Yiwei Cai; Mahashweta Das; Yuzhong Chen
 >
@@ -847,7 +847,7 @@
 
 - **简介: 该论文针对递归模型训练成本高的问题，提出CGAR方法，通过课程学习动态调整递归深度与监督权重，实现训练加速42%且精度几乎不降，显著提升效率与推理性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08653v1](https://arxiv.org/pdf/2511.08653v1)**
 
 > **作者:** Kaleem Ullah Qasim; Jiashu Zhang
 >
@@ -859,7 +859,7 @@
 
 - **简介: 论文提出MAKER系统，通过极端任务分解与多代理投票纠错，首次实现百万步LLM任务零错误执行，解决大模型长程推理易出错问题，推动面向组织级复杂任务的模块化智能代理路径。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09030v1](https://arxiv.org/pdf/2511.09030v1)**
 
 > **作者:** Elliot Meyerson; Giuseppe Paolo; Roberto Dailey; Hormoz Shahrzad; Olivier Francon; Conor F. Hayes; Xin Qiu; Babak Hodjat; Risto Miikkulainen
 >
@@ -873,7 +873,7 @@
 
 - **简介: 论文呼吁构建安全的定性AI系统，解决当前通用AI工具在质性研究中偏见、不透明、隐私风险等问题，推动透明、可复现、隐私友好的定性AI发展，以补足科学发现中质性维度的缺失。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09325v1](https://arxiv.org/pdf/2511.09325v1)**
 
 > **作者:** Stine Beltoft; Lukas Galke
 >
@@ -887,7 +887,7 @@
 
 - **简介: BayesQ是一种不确定性引导的后训练量化框架，首次基于后验期望损失优化量化，通过高斯后验建模、码本设计与混合精度分配，在保持低比特下显著提升模型精度，适用于ResNet和BERT等模型。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08821v1](https://arxiv.org/pdf/2511.08821v1)**
 
 > **作者:** Ismail Lamaakal; Chaymae Yahyati; Yassine Maleh; Khalid El Makkaoui; Ibrahim Ouahbi
 >
@@ -899,7 +899,7 @@
 
 - **简介: 论文提出CLSR，一种端到端对比语言-语音检索器，用于长音频口语问答。通过将声学特征先转为类文本表示，提升跨模态对齐效果，显著优于现有语音检索方法，为长音频SQA提供新方案。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09282v1](https://arxiv.org/pdf/2511.09282v1)**
 
 > **作者:** Jiliang Hu; Zuchao Li; Baoyuan Qi; Liu Guoming; Ping Wang
 >
@@ -913,7 +913,7 @@
 
 - **简介: 该论文针对多模态大模型中的物体幻觉问题，提出TACO框架，通过原子化查询、自一致性与自置信度校准，无需外部模型即可提升回答真实性与置信度校准效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09228v1](https://arxiv.org/pdf/2511.09228v1)**
 
 > **作者:** Jiarui Liu; Weihao Xuan; Zhijing Jin; Mona Diab
 >
@@ -925,7 +925,7 @@
 
 - **简介: 该论文探讨AI在解读动物交流时因自身递归架构引发的“双重偶然性”问题，指出AI非中立检测器，而是会扭曲他者通信结构。主张将生物声学AI从模式识别转向递归认知间的“外交互动”，重构模型设计与评估范式。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08927v1](https://arxiv.org/pdf/2511.08927v1)**
 
 > **作者:** Graham L. Bishop
 >
@@ -939,7 +939,7 @@
 
 - **简介: 该论文提出Bayesian-MoE，用于大语言模型的后验不确定性估计。通过在MoE架构的专家路径上应用结构化Laplace近似，无需修改训练或增加参数，即可实现校准的不确定性预测，提升模型决策可靠性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08968v1](https://arxiv.org/pdf/2511.08968v1)**
 
 > **作者:** Maryam Dialameh; Hossein Rajabzadeh; Weiwei Zhang; Walid Ahmed; Hyock Ju Kwon
 >
@@ -951,7 +951,7 @@
 #### [replaced 001] Quantifying Edits Decay in Fine-tuned LLMs
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.05852v2](https://arxiv.org/pdf/2511.05852v2)**
 
 > **作者:** Yinjie Cheng; Paul Youssef; Christin Seifert; Jörg Schlötterer; Zhixue Zhao
 >
@@ -963,7 +963,7 @@
 #### [replaced 002] ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER
 - **分类: cs.IR; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.10975v2](https://arxiv.org/pdf/2509.10975v2)**
 
 > **作者:** Jielong Tang; Shuang Wang; Zhenxing Wang; Jianxing Yu; Jian Yin
 >
@@ -975,7 +975,7 @@
 #### [replaced 003] Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2502.21239v5](https://arxiv.org/pdf/2502.21239v5)**
 
 > **作者:** Xiaomin Li; Zhou Yu; Ziji Zhang; Yingying Zhuang; Swair Shah; Narayanan Sadagopan; Anurag Beniwal
 >
@@ -985,7 +985,7 @@
 #### [replaced 004] Evaluating Deep Unlearning in Large Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2410.15153v4](https://arxiv.org/pdf/2410.15153v4)**
 
 > **作者:** Ruihan Wu; Chhavi Yadav; Russ Salakhutdinov; Kamalika Chaudhuri
 >
@@ -995,7 +995,7 @@
 #### [replaced 005] Formalizing and Benchmarking Prompt Injection Attacks and Defenses
 - **分类: cs.CR; cs.AI; cs.CL; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2310.12815v5](https://arxiv.org/pdf/2310.12815v5)**
 
 > **作者:** Yupei Liu; Yuqi Jia; Runpeng Geng; Jinyuan Jia; Neil Zhenqiang Gong
 >
@@ -1007,7 +1007,7 @@
 #### [replaced 006] Multimodal LLMs Do Not Compose Skills Optimally Across Modalities
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08113v2](https://arxiv.org/pdf/2511.08113v2)**
 
 > **作者:** Paula Ontalvilla; Aitor Ormazabal; Gorka Azkune
 >
@@ -1017,7 +1017,7 @@
 #### [replaced 007] IndoPref: A Multi-Domain Pairwise Preference Dataset for Indonesian
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.22159v2](https://arxiv.org/pdf/2507.22159v2)**
 
 > **作者:** Vanessa Rebecca Wiyono; David Anugraha; Ayu Purwarianti; Genta Indra Winata
 >
@@ -1029,7 +1029,7 @@
 #### [replaced 008] Reasoning Up the Instruction Ladder for Controllable Language Models
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04694v2](https://arxiv.org/pdf/2511.04694v2)**
 
 > **作者:** Zishuo Zheng; Vidhisha Balachandran; Chan Young Park; Faeze Brahman; Sachin Kumar
 >
@@ -1039,7 +1039,7 @@
 #### [replaced 009] DigiData: Training and Evaluating General-Purpose Mobile Control Agents
 - **分类: cs.AI; cs.CL; cs.HC; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07413v2](https://arxiv.org/pdf/2511.07413v2)**
 
 > **作者:** Yuxuan Sun; Manchen Wang; Shengyi Qian; William R. Wong; Eric Gan; Pierluca D'Oro; Alejandro Castillejo Munoz; Sneha Silwal; Pedro Matias; Nitin Kamra; Satwik Kottur; Nick Raines; Xuanyi Zhao; Joy Chen; Joseph Greer; Andrea Madotto; Allen Bolourchi; James Valori; Kevin Carlberg; Karl Ridgeway; Joseph Tighe
 >
@@ -1051,7 +1051,7 @@
 #### [replaced 010] Trajectory Bellman Residual Minimization: A Simple Value-Based Method for LLM Reasoning
 - **分类: cs.LG; cs.AI; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.15311v2](https://arxiv.org/pdf/2505.15311v2)**
 
 > **作者:** Yurun Yuan; Fan Chen; Zeyu Jia; Alexander Rakhlin; Tengyang Xie
 >
@@ -1063,7 +1063,7 @@
 #### [replaced 011] Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation
 - **分类: cs.CV; cs.AI; cs.CL; cs.MM**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.08906v2](https://arxiv.org/pdf/2503.08906v2)**
 
 > **作者:** Xiwen Chen; Wenhui Zhu; Peijie Qiu; Hao Wang; Huayu Li; Haiyu Wu; Aristeidis Sotiras; Yalin Wang; Abolfazl Razi
 >
@@ -1075,7 +1075,7 @@
 #### [replaced 012] anyECG-chat: A Generalist ECG-MLLM for Flexible ECG Input and Multi-Task Understanding
 - **分类: cs.CL; cs.AI; eess.SP**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.00942v2](https://arxiv.org/pdf/2506.00942v2)**
 
 > **作者:** Haitao Li; Ziyu Li; Yiheng Mao; Ziyi Liu; Zhoujian Sun; Zhengxing Huang
 >
@@ -1087,7 +1087,7 @@
 #### [replaced 013] Leveraging Small LLMs for Argument Mining in Education: Argument Component Identification, Classification, and Assessment
 - **分类: cs.CL; cs.HC**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2502.14389v2](https://arxiv.org/pdf/2502.14389v2)**
 
 > **作者:** Lucile Favero; Juan Antonio Pérez-Ortiz; Tanja Käser; Nuria Oliver
 >
@@ -1097,7 +1097,7 @@
 #### [replaced 014] Training and Evaluating Language Models with Template-based Data Generation
 - **分类: cs.CL; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.18104v5](https://arxiv.org/pdf/2411.18104v5)**
 
 > **作者:** Yifan Zhang
 >
@@ -1109,7 +1109,7 @@
 #### [replaced 015] Tree-OPO: Off-policy Monte Carlo Tree-Guided Advantage Optimization for Multistep Reasoning
 - **分类: cs.AI; cs.CL; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.09284v2](https://arxiv.org/pdf/2509.09284v2)**
 
 > **作者:** Bingning Huang; Tu Nguyen; Matthieu Zimmer
 >
@@ -1119,7 +1119,7 @@
 #### [replaced 016] Mitigating Hallucinations in Large Language Models via Causal Reasoning
 - **分类: cs.CL; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.12495v2](https://arxiv.org/pdf/2508.12495v2)**
 
 > **作者:** Yuangang Li; Yiqing Shen; Yi Nian; Jiechao Gao; Ziyi Wang; Chenxiao Yu; Shawn Li; Jie Wang; Xiyang Hu; Yue Zhao
 >
@@ -1129,7 +1129,7 @@
 #### [replaced 017] Unveiling Super Experts in Mixture-of-Experts Large Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.23279v2](https://arxiv.org/pdf/2507.23279v2)**
 
 > **作者:** Zunhai Su; Qingyuan Li; Hao Zhang; Weihao Ye; Qibo Xue; YuLei Qian; Yuchen Xie; Ngai Wong; Kehong Yuan
 >
@@ -1139,7 +1139,7 @@
 #### [replaced 018] Understanding and Leveraging the Expert Specialization of Context Faithfulness in Mixture-of-Experts LLMs
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.19594v3](https://arxiv.org/pdf/2508.19594v3)**
 
 > **作者:** Jun Bai; Minghao Tong; Yang Liu; Zixia Jia; Zilong Zheng
 >
@@ -1151,7 +1151,7 @@
 #### [replaced 019] AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache
 - **分类: cs.CL; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.25979v3](https://arxiv.org/pdf/2510.25979v3)**
 
 > **作者:** Dinghong Song; Yuan Feng; Yiwei Wang; Shangye Chen; Cyril Guyot; Filip Blagojevic; Hyeran Jeon; Pengfei Su; Dong Li
 >
@@ -1163,7 +1163,7 @@
 #### [replaced 020] Categorical Emotions or Appraisals -- Which Emotion Model Explains Argument Convincingness Better?
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07162v2](https://arxiv.org/pdf/2511.07162v2)**
 
 > **作者:** Lynn Greschner; Meike Bauer; Sabine Weber; Roman Klinger
 >
@@ -1173,7 +1173,7 @@
 #### [replaced 021] HLPD: Aligning LLMs to Human Language Preference for Machine-Revised Text Detection
 - **分类: cs.CL; cs.CR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.06942v2](https://arxiv.org/pdf/2511.06942v2)**
 
 > **作者:** Fangqi Dai; Xingjian Jiang; Zizhuang Deng
 >
@@ -1185,7 +1185,7 @@
 #### [replaced 022] GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases
 - **分类: cs.LG; cs.CL; cs.IR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.05478v2](https://arxiv.org/pdf/2504.05478v2)**
 
 > **作者:** Alfred Clemedtson; Borun Shi
 >
@@ -1195,7 +1195,7 @@
 #### [replaced 023] Exploiting individual differences to bootstrap communication
 - **分类: cs.CL; physics.soc-ph; q-bio.PE**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.05211v3](https://arxiv.org/pdf/2504.05211v3)**
 
 > **作者:** Richard A. Blythe; Casimir Fisch
 >
@@ -1207,7 +1207,7 @@
 #### [replaced 024] Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.23015v2](https://arxiv.org/pdf/2505.23015v2)**
 
 > **作者:** Jinwen Chen; Hainan Zhang; Fei Sun; Qinnan Zhang; Sijia Wen; Ziwei Wang; Zhiming Zheng
 >
@@ -1219,7 +1219,7 @@
 #### [replaced 025] Are We Asking the Right Questions? On Ambiguity in Natural Language Queries for Tabular Data Analysis
 - **分类: cs.AI; cs.CL; cs.DB; cs.HC**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04584v2](https://arxiv.org/pdf/2511.04584v2)**
 
 > **作者:** Daniel Gomm; Cornelius Wolff; Madelon Hulsebos
 >
@@ -1231,7 +1231,7 @@
 #### [replaced 026] Large Language Model Benchmarks in Medical Tasks
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2410.21348v3](https://arxiv.org/pdf/2410.21348v3)**
 
 > **作者:** Lawrence K. Q. Yan; Qian Niu; Ming Li; Yichao Zhang; Caitlyn Heqi Yin; Cheng Fei; Benji Peng; Ziqian Bi; Pohsun Feng; Keyu Chen; Tianyang Wang; Yunze Wang; Silin Chen; Ming Liu; Junyu Liu; Xinyuan Song; Riyang Bao; Zekun Jiang; Ziyuan Qin
 >
@@ -1243,7 +1243,7 @@
 #### [replaced 027] Fine-Tuning on Noisy Instructions: Effects on Generalization and Performance
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.03528v2](https://arxiv.org/pdf/2510.03528v2)**
 
 > **作者:** Ahmed Alajrami; Xingwei Tan; Nikolaos Aletras
 >
@@ -1255,7 +1255,7 @@
 #### [replaced 028] OpenGenAlign: A Preference Dataset and Benchmark for Trustworthy Reward Modeling in Open-Ended, Long-Context Generation
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2501.13264v3](https://arxiv.org/pdf/2501.13264v3)**
 
 > **作者:** Hanning Zhang; Juntong Song; Juno Zhu; Yuanhao Wu; Tong Zhang; Cheng Niu
 >
@@ -1267,7 +1267,7 @@
 #### [replaced 029] FedP$^2$EFT: Federated Learning to Personalize PEFT for Multilingual LLMs
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2502.04387v3](https://arxiv.org/pdf/2502.04387v3)**
 
 > **作者:** Royson Lee; Minyoung Kim; Fady Rezk; Rui Li; Stylianos I. Venieris; Timothy Hospedales
 >
@@ -1279,7 +1279,7 @@
 #### [replaced 030] Beyond the Hype: Embeddings vs. Prompting for Multiclass Classification Tasks
 - **分类: cs.LG; cs.AI; cs.CL; stat.AP**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.04277v3](https://arxiv.org/pdf/2504.04277v3)**
 
 > **作者:** Marios Kokkodis; Richard Demsyn-Jones; Vijay Raghavan
 >
@@ -1289,7 +1289,7 @@
 #### [replaced 031] Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07752v2](https://arxiv.org/pdf/2511.07752v2)**
 
 > **作者:** Shiva Upadhye; Richard Futrell
 >
@@ -1301,7 +1301,7 @@
 #### [replaced 032] ConvMix: A Mixed-Criteria Data Augmentation Framework for Conversational Dense Retrieval
 - **分类: cs.IR; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.04001v2](https://arxiv.org/pdf/2508.04001v2)**
 
 > **作者:** Fengran Mo; Jinghan Zhang; Yuchen Hui; Jia Ao Sun; Zhichao Xu; Zhan Su; Jian-Yun Nie
 >
@@ -1313,7 +1313,7 @@
 #### [replaced 033] A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models
 - **分类: cs.CY; cs.CL; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.22493v4](https://arxiv.org/pdf/2506.22493v4)**
 
 > **作者:** Sadia Kamal; Lalu Prasad Yadav Prakash; S M Rafiuddin; Mohammed Rakib; Atriya Sen; Sagnik Ray Choudhury
 >
@@ -1323,7 +1323,7 @@
 #### [replaced 034] NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.25977v3](https://arxiv.org/pdf/2510.25977v3)**
 
 > **作者:** Dinghong Song; Jierui Xu; Weichu Yang; Pengfei Su; Dong Li
 >
@@ -1335,7 +1335,7 @@
 #### [replaced 035] Privacy-Preserving Retrieval-Augmented Generation with Differential Privacy
 - **分类: cs.CR; cs.AI; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2412.04697v3](https://arxiv.org/pdf/2412.04697v3)**
 
 > **作者:** Tatsuki Koga; Ruihan Wu; Zhiyuan Zhang; Kamalika Chaudhuri
 >
@@ -1345,7 +1345,7 @@
 #### [replaced 036] FS-DAG: Few Shot Domain Adapting Graph Networks for Visually Rich Document Understanding
 - **分类: cs.CV; cs.AI; cs.CL; cs.IR; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.17330v2](https://arxiv.org/pdf/2505.17330v2)**
 
 > **作者:** Amit Agarwal; Srikant Panda; Kulbhushan Pachauri
 >
@@ -1357,7 +1357,7 @@
 #### [replaced 037] Can Language Models Handle a Non-Gregorian Calendar? The Case of the Japanese wareki
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.04432v3](https://arxiv.org/pdf/2509.04432v3)**
 
 > **作者:** Mutsumi Sasaki; Go Kamoda; Ryosuke Takahashi; Kosuke Sato; Kentaro Inui; Keisuke Sakaguchi; Benjamin Heinzerling
 >
@@ -1369,7 +1369,7 @@
 #### [replaced 038] Teaching Large Language Models to Maintain Contextual Faithfulness via Synthetic Tasks and Reinforcement Learning
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.16483v3](https://arxiv.org/pdf/2505.16483v3)**
 
 > **作者:** Shuzheng Si; Haozhe Zhao; Cheng Gao; Yuzhuo Bai; Zhitong Wang; Bofei Gao; Kangyang Luo; Wenhao Li; Yufei Huang; Gang Chen; Fanchao Qi; Minjia Zhang; Baobao Chang; Maosong Sun
 >
@@ -1381,7 +1381,7 @@
 #### [replaced 039] Too Good to be Bad: On the Failure of LLMs to Role-Play Villains
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04962v2](https://arxiv.org/pdf/2511.04962v2)**
 
 > **作者:** Zihao Yi; Qingxuan Jiang; Ruotian Ma; Xingyu Chen; Qu Yang; Mengru Wang; Fanghua Ye; Ying Shen; Zhaopeng Tu; Xiaolong Li; Linus
 >
@@ -1391,7 +1391,7 @@
 #### [replaced 040] Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.01159v2](https://arxiv.org/pdf/2508.01159v2)**
 
 > **作者:** Liam G. McCoy; Fateme Nateghi Haredasht; Kanav Chopra; David Wu; David JH Wu; Abass Conteh; Sarita Khemani; Saloni Kumar Maharaj; Vishnu Ravi; Arth Pahwa; Yingjie Weng; Leah Rosengaus; Lena Giang; Kelvin Zhenghao Li; Olivia Jee; Daniel Shirvani; Ethan Goh; Jonathan H. Chen
 >
@@ -1401,7 +1401,7 @@
 #### [replaced 041] Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.04498v2](https://arxiv.org/pdf/2509.04498v2)**
 
 > **作者:** Krithi Shailya; Akhilesh Kumar Mishra; Gokul S Krishnan; Balaraman Ravindran
 >
@@ -1413,7 +1413,7 @@
 #### [replaced 042] A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms
 - **分类: cs.AI; cs.CL; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2409.16694v3](https://arxiv.org/pdf/2409.16694v3)**
 
 > **作者:** Ruihao Gong; Yifu Ding; Zining Wang; Chengtao Lv; Xingyu Zheng; Jinyang Du; Haotong Qin; Jinyang Guo; Michele Magno; Xianglong Liu
 >
@@ -1425,7 +1425,7 @@
 #### [replaced 043] TaoSR-AGRL: Adaptive Guided Reinforcement Learning Framework for E-commerce Search Relevance
 - **分类: cs.IR; cs.AI; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.08048v2](https://arxiv.org/pdf/2510.08048v2)**
 
 > **作者:** Jianhui Yang; Yiming Jin; Pengkun Jiao; Chenhe Dong; Zerui Huang; Shaowei Yao; Xiaojiang Zhou; Dan Ou; Haihong Tang
 >
@@ -1435,7 +1435,7 @@
 #### [replaced 044] LLM4AD: Large Language Models for Autonomous Driving - Concept, Review, Benchmark, Experiments, and Future Trends
 - **分类: cs.RO; cs.AI; cs.CL; cs.HC**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2410.15281v4](https://arxiv.org/pdf/2410.15281v4)**
 
 > **作者:** Can Cui; Yunsheng Ma; Sung-Yeon Park; Zichong Yang; Yupeng Zhou; Juanwu Lu; Juntong Peng; Jiaru Zhang; Ruqi Zhang; Lingxi Li; Yaobin Chen; Jitesh H. Panchal; Amr Abdelraouf; Rohit Gupta; Kyungtae Han; Ziran Wang
 >
@@ -1445,7 +1445,7 @@
 #### [replaced 045] NaturalTurn: A Method to Segment Speech into Psychologically Meaningful Conversational Turns
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2403.15615v4](https://arxiv.org/pdf/2403.15615v4)**
 
 > **作者:** Gus Cooney; Andrew Reece
 >
@@ -1457,7 +1457,7 @@
 #### [replaced 046] ReliableMath: Benchmark of Reliable Mathematical Reasoning on Large Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.03133v2](https://arxiv.org/pdf/2507.03133v2)**
 
 > **作者:** Boyang Xue; Qi Zhu; Rui Wang; Sheng Wang; Hongru Wang; Minda Hu; Fei Mi; Yasheng Wang; Lifeng Shang; Qun Liu; Kam-Fai Wong
 >
@@ -1469,7 +1469,7 @@
 #### [replaced 047] ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning
 - **分类: cs.CL; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.10419v3](https://arxiv.org/pdf/2508.10419v3)**
 
 > **作者:** Juyuan Wang; Rongchen Zhao; Wei Wei; Yufeng Wang; Mo Yu; Jie Zhou; Jin Xu; Liyan Xu
 >
@@ -1481,7 +1481,7 @@
 #### [replaced 048] SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning
 - **分类: cs.CL; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.15212v3](https://arxiv.org/pdf/2508.15212v3)**
 
 > **作者:** Huanxuan Liao; Yixing Xu; Shizhu He; Guanchen Li; Xuanwu Yin; Dong Li; Emad Barsoum; Jun Zhao; Kang Liu
 >
@@ -1493,7 +1493,7 @@
 #### [replaced 049] How Linguistics Learned to Stop Worrying and Love the Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2501.17047v3](https://arxiv.org/pdf/2501.17047v3)**
 
 > **作者:** Richard Futrell; Kyle Mahowald
 >
@@ -1503,7 +1503,7 @@
 #### [replaced 050] SeniorTalk: A Chinese Conversation Dataset with Rich Annotations for Super-Aged Seniors
 - **分类: cs.CL; cs.SD; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.16578v2](https://arxiv.org/pdf/2503.16578v2)**
 
 > **作者:** Yang Chen; Hui Wang; Shiyao Wang; Junyang Chen; Jiabei He; Jiaming Zhou; Xi Yang; Yequan Wang; Yonghua Lin; Yong Qin
 >
@@ -1513,7 +1513,7 @@
 #### [replaced 051] Information Capacity: Evaluating the Efficiency of Large Language Models via Text Compression
 - **分类: cs.AI; cs.CL; eess.SP**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08066v2](https://arxiv.org/pdf/2511.08066v2)**
 
 > **作者:** Cheng Yuan; Jiawei Shao; Chi Zhang; Xuelong Li
 >
@@ -1525,7 +1525,7 @@
 #### [replaced 052] Positional Bias in Long-Document Ranking: Impact, Assessment, and Mitigation
 - **分类: cs.IR; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2207.01262v4](https://arxiv.org/pdf/2207.01262v4)**
 
 > **作者:** Leonid Boytsov; David Akinpelu; Nipun Katyal; Tianyi Lin; Fangwei Gao; Yutian Zhao; Jeffrey Huang; Eric Nyberg
 >
@@ -1537,7 +1537,7 @@
 #### [replaced 053] IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.16774v2](https://arxiv.org/pdf/2505.16774v2)**
 
 > **作者:** Yiming Gao; Bin Wang; Chengwei Wei; Shuo Sun; AiTi Aw
 >
@@ -1549,7 +1549,7 @@
 #### [replaced 054] LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.22354v2](https://arxiv.org/pdf/2505.22354v2)**
 
 > **作者:** Judith Sieker; Clara Lachenmaier; Sina Zarrieß
 >
@@ -1561,7 +1561,7 @@
 #### [replaced 055] Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 - **分类: cs.LG; cs.AI; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.15538v4](https://arxiv.org/pdf/2506.15538v4)**
 
 > **作者:** Laura Kopf; Nils Feldhus; Kirill Bykov; Philine Lou Bommer; Anna Hedström; Marina M. -C. Höhne; Oliver Eberle
 >
@@ -1571,7 +1571,7 @@
 #### [replaced 056] When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models
 - **分类: cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.02087v4](https://arxiv.org/pdf/2508.02087v4)**
 
 > **作者:** Keyu Wang; Jin Li; Shu Yang; Zhuoran Zhang; Di Wang
 >
@@ -1581,7 +1581,7 @@
 #### [replaced 057] Token Hidden Reward: Steering Exploration-Exploitation in Group Relative Deep Reinforcement Learning
 - **分类: cs.LG; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.03669v3](https://arxiv.org/pdf/2510.03669v3)**
 
 > **作者:** Wenlong Deng; Yi Ren; Yushu Li; Boying Gong; Danica J. Sutherland; Xiaoxiao Li; Christos Thrampoulidis
 >
@@ -1593,7 +1593,7 @@
 #### [replaced 058] MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization
 - **分类: cs.CL; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.16874v2](https://arxiv.org/pdf/2503.16874v2)**
 
 > **作者:** Jian Zhang; Zhangqi Wang; Haiping Zhu; Kangda Cheng; Kai He; Bo Li; Qika Lin; Jun Liu; Erik Cambria
 >
@@ -1605,7 +1605,7 @@
 #### [replaced 059] MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?
 - **分类: cs.CR; cs.CL**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.05867v2](https://arxiv.org/pdf/2511.05867v2)**
 
 > **作者:** Jiayi Fu; Qiyao Sun
 >
@@ -1615,7 +1615,7 @@
 #### [replaced 060] Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers
 - **分类: cs.CL; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.19254v4](https://arxiv.org/pdf/2504.19254v4)**
 
 > **作者:** Dylan Bouchard; Mohit Singh Chauhan
 >

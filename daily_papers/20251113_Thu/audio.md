@@ -11,7 +11,7 @@
 
 - **简介: 论文提出CLSR，一种端到端对比语言-语音检索器，用于长音频口语问答。通过将声学特征先转为类文本表示，提升跨模态对齐效果，显著优于现有语音检索方法，为长音频SQA提供新方案。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09282v1](https://arxiv.org/pdf/2511.09282v1)**
 
 > **作者:** Jiliang Hu; Zuchao Li; Baoyuan Qi; Liu Guoming; Ping Wang
 >
@@ -25,7 +25,7 @@
 
 - **简介: 该论文研究和比较五种基于Transformer的和弦条件化旋律与贝斯生成方法，旨在提升生成音乐的和弦音使用与风格一致性，发现贝斯优先模型效果最佳。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08755v1](https://arxiv.org/pdf/2511.08755v1)**
 
 > **作者:** Alexandra C Salem; Mohammad Shokri; Johanna Devaney
 >
@@ -39,7 +39,7 @@
 
 - **简介: 论文提出ParaS2S，面向口语对话中的语用特征（如情绪、语调）建模，解决现有S2S模型忽视风格响应的问题。构建ParaS2SBench评估基准，结合RL框架GRPO，实现波形级风格与内容协同优化，显著超越监督微调方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08723v1](https://arxiv.org/pdf/2511.08723v1)**
 
 > **作者:** Shu-wen Yang; Ming Tu; Andy T. Liu; Xinghua Qu; Hung-yi Lee; Lu Lu; Yuxuan Wang; Yonghui Wu
 >
@@ -51,7 +51,7 @@
 
 - **简介: 该论文研究1755年Dulcken大键琴因木材老化导致阻尼变化对音色亮度的影响，通过FDTD模拟声板响应，发现高频弦亮度反而降低；并用FEM验证双弯边结构对声板张力无显著影响，揭示其设计另有原因。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09037v1](https://arxiv.org/pdf/2511.09037v1)**
 
 > **作者:** Rolf Bader; Niko Plath; Patrick Kontopidis
 >
@@ -63,7 +63,7 @@
 
 - **简介: 该论文研究非语言环境下人们对厅堂声学的感知，采用多维尺度（MDS）分析音乐与双耳脉冲响应卷积后的主观体验，识别出5个关键感知维度，解决传统主观评价依赖记忆或双极量表的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09029v1](https://arxiv.org/pdf/2511.09029v1)**
 
 > **作者:** Leonie Böhlke; Tim Ziemer; Rolf Bader
 >
@@ -75,7 +75,7 @@
 
 - **简介: 论文提出Diff-V2M，用于视频到音乐生成任务，解决节奏建模缺失与视觉特征融合困难问题。通过层次化扩散模型，结合显式节奏预测与多特征条件融合，实现音画时序对齐与情感一致生成。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09090v1](https://arxiv.org/pdf/2511.09090v1)**
 
 > **作者:** Shulei Ji; Zihao Wang; Jiaxing Yu; Xiangyuan Yang; Shuyu Li; Songruoyao Wu; Kejun Zhang
 >
@@ -89,7 +89,7 @@
 
 - **简介: 该论文面向语音识别（ASR）任务，提出一种基于块注意力掩码的非自回归解码器（AMD），在保持精度前提下提升Conformer和LLM模型的推理速度，实现并行解码与动态概率融合，显著加速解码过程。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09084v1](https://arxiv.org/pdf/2511.09084v1)**
 
 > **作者:** Tianzi Wang; Xurong Xie; Zengrui Jin; Mengzhe Geng; Jiajun Deng; Zhaoqing Li; Shoukang Hu; Shujie Hu; Guinan Li; Mingyu Cui; Helen Meng; Xunying Liu
 >
@@ -103,7 +103,7 @@
 
 - **简介: 该论文面向多模态任务型通信，解决噪声信道下模态冗余与语义可靠性矛盾问题，提出双阶段VIB框架，通过模态内压缩与互信息最小化抑制冗余，提升低信噪比下的情感识别准确率与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08642v1](https://arxiv.org/pdf/2511.08642v1)**
 
 > **作者:** Jingwen Fu; Ming Xiao; Zhonghao Lyu; Mikael Skoglund; Celimuge Wu
 >
@@ -115,7 +115,7 @@
 
 - **简介: 该论文研究空间音频渲染对实时语音翻译在虚拟会议中理解力、认知负荷与用户体验的影响。通过对比四种音频条件，发现空间音频使理解率翻倍，提升清晰度与参与感，推动包容性跨语言通信系统设计。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09525v1](https://arxiv.org/pdf/2511.09525v1)**
 
 > **作者:** Margarita Geleta; Hong Sodoma; Hannes Gamper
 >
@@ -129,7 +129,7 @@
 
 - **简介: POTSA提出一种跨语言语音对齐框架，用于低资源语音到文本翻译任务，解决源语言语义共性被忽视导致的偏差问题。通过最优传输与偏差补偿模块，实现跨语言表征对齐，在仅10小时数据下显著提升翻译性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09232v1](https://arxiv.org/pdf/2511.09232v1)**
 
 > **作者:** Xuanchen Li; Chenrui Cui; Tianrui Wang; Meng Ge; Zikang Huang; Jin Li; Yizhou Peng; Longbiao Wang; Jianwu Dang; Nyima Tashi
 >
@@ -143,7 +143,7 @@
 #### [replaced 001] Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR
 - **分类: cs.SD**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.01166v2](https://arxiv.org/pdf/2508.01166v2)**
 
 > **作者:** Bingshen Mu; Hexin Liu; Hongfei Xue; Kun Wei; Lei Xie
 >
@@ -155,7 +155,7 @@
 #### [replaced 002] MERaLiON-SER: Robust Speech Emotion Recognition Model for English and SEA Languages
 - **分类: cs.SD; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04914v3](https://arxiv.org/pdf/2511.04914v3)**
 
 > **作者:** Hardik B. Sailor; Aw Ai Ti; Chen Fang Yih Nancy; Chiu Ying Lay; Ding Yang; He Yingxu; Jiang Ridong; Li Jingtao; Liao Jingyi; Liu Zhuohan; Lu Yanfeng; Ma Yi; Manas Gupta; Muhammad Huzaifah Bin Md Shahrin; Nabilah Binte Md Johan; Nattadaporn Lertcheva; Pan Chunlei; Pham Minh Duc; Siti Maryam Binte Ahmad Subaidi; Siti Umairah Binte Mohammad Salleh; Sun Shuo; Tarun Kumar Vangani; Wang Qiongqiong; Won Cheng Yi Lewis; Wong Heng Meng Jeremy; Wu Jinyang; Zhang Huayun; Zhang Longyin; Zou Xunlong
 >
@@ -167,7 +167,7 @@
 #### [replaced 003] HQ-SVC: Towards High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios
 - **分类: cs.SD; cs.AI; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08496v2](https://arxiv.org/pdf/2511.08496v2)**
 
 > **作者:** Bingsong Bai; Yizhong Geng; Fengping Wang; Cong Wang; Puyuan Guo; Yingming Gao; Ya Li
 >
@@ -179,7 +179,7 @@
 #### [replaced 004] SteerMusic: Enhanced Musical Consistency for Zero-shot Text-Guided and Personalized Music Editing
 - **分类: cs.SD; cs.MM; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.10826v2](https://arxiv.org/pdf/2504.10826v2)**
 
 > **作者:** Xinlei Niu; Kin Wai Cheuk; Jing Zhang; Naoki Murata; Chieh-Hsin Lai; Michele Mancusi; Woosung Choi; Giorgio Fabbro; Wei-Hsiang Liao; Charles Patrick Martin; Yuki Mitsufuji
 >
@@ -191,7 +191,7 @@
 #### [replaced 005] Two-stage Audio-Visual Target Speaker Extraction System for Real-Time Processing On Edge Device
 - **分类: cs.SD; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.22229v2](https://arxiv.org/pdf/2505.22229v2)**
 
 > **作者:** Zixuan Li; Xueliang Zhang; Lei Miao; Zhipeng Yan; Ying Sun; Chong Zhu
 >
@@ -201,7 +201,7 @@
 #### [replaced 006] SeniorTalk: A Chinese Conversation Dataset with Rich Annotations for Super-Aged Seniors
 - **分类: cs.CL; cs.SD; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.16578v2](https://arxiv.org/pdf/2503.16578v2)**
 
 > **作者:** Yang Chen; Hui Wang; Shiyao Wang; Junyang Chen; Jiabei He; Jiaming Zhou; Xi Yang; Yequan Wang; Yonghua Lin; Yong Qin
 >

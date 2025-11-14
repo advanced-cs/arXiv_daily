@@ -11,7 +11,7 @@
 
 - **简介: 论文提出WDT-MD，用于眼底图像中微动脉瘤的检测，解决扩散模型易复制输入、误检其他病灶、正常结构重建差等问题，通过小波变换与Transformer结合，引入噪声条件与伪正常合成，提升检测精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08987v1](https://arxiv.org/pdf/2511.08987v1)**
 
 > **作者:** Yifei Sun; Yuzhi He; Junhao Jia; Jinhong Wang; Ruiquan Ge; Changmiao Wang; Hongxia Xu
 >
@@ -25,7 +25,7 @@
 
 - **简介: 该论文针对CLIP模型对抗攻击脆弱性问题，提出方向正交对抗反击（DOC），通过正交梯度与动量更新增强反击多样性，提升对各类对抗扰动的泛化防御能力，同时保持清洁样本性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09064v1](https://arxiv.org/pdf/2511.09064v1)**
 
 > **作者:** Chengze Jiang; Minjing Dong; Xinli Shi; Jie Gui
 >
@@ -39,7 +39,7 @@
 
 - **简介: 该论文针对含泊松与乘性噪声及强度不均匀的图像分割问题，提出ICTM-RMSAV框架，融合I散度与自适应TV正则化去噪，并引入空间自适应权重与偏置场校正，提升分割精度与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08988v1](https://arxiv.org/pdf/2511.08988v1)**
 
 > **作者:** Xinyu Wang; Wenjun Yao; Fanghui Song; Zhichang Guo
 >
@@ -51,7 +51,7 @@
 
 - **简介: 该论文针对移动红外小目标检测任务，提出TDCNet，通过新型时序差分卷积（TDC）融合运动线索与时空特征，并结合TDC引导的注意力机制，有效抑制背景干扰，提升检测精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09352v1](https://arxiv.org/pdf/2511.09352v1)**
 
 > **作者:** Houzhang Fang; Shukai Guo; Qiuhuan Chen; Yi Chang; Luxin Yan
 >
@@ -65,7 +65,7 @@
 
 - **简介: 该论文针对大视觉语言模型的上下文学习中示范样本选择效率低、效果差的问题，提出CoDR框架，通过聚类剪枝构建多样核集，并设计双检索机制，实现高效且有效的示范样本选择。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08977v1](https://arxiv.org/pdf/2511.08977v1)**
 
 > **作者:** Zihua Wang; Jiarui Wang; Haiyang Xu; Ming Yan; Fei Huang; Xu Yang; Xiu-Shen Wei; Siya Mi; Yu Zhang
 >
@@ -79,7 +79,7 @@
 
 - **简介: 该论文针对多模态大模型中的物体幻觉问题，提出TACO框架，通过原子化查询、自一致性与自置信度校准，无需外部模型即可提升回答真实性与置信度校准效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09228v1](https://arxiv.org/pdf/2511.09228v1)**
 
 > **作者:** Jiarui Liu; Weihao Xuan; Zhijing Jin; Mona Diab
 >
@@ -91,7 +91,7 @@
 
 - **简介: 论文提出Time-to-Move（TTM），一种无需训练的视频生成框架，通过双时钟去噪实现精准运动与外观控制，利用用户简易操作生成的粗略动画作为运动引导，兼容任意扩散模型，突破文本提示的局限。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08633v1](https://arxiv.org/pdf/2511.08633v1)**
 
 > **作者:** Assaf Singer; Noam Rotstein; Amir Mann; Ron Kimmel; Or Litany
 >
@@ -103,7 +103,7 @@
 
 - **简介: 该论文面向文档布局分析任务，提出LLM引导的概率融合框架，利用文本预训练LLM的结构先验与视觉检测结果进行自适应加权融合，显著降低标注数据需求，在仅5%标签下达到SOTA性能，且支持隐私保护部署。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08903v1](https://arxiv.org/pdf/2511.08903v1)**
 
 > **作者:** Ibne Farabi Shihab; Sanjeda Akter; Anuj Sharma
 >
@@ -115,7 +115,7 @@
 
 - **简介: 该论文提出NAMEA攻击方法，通过融合非注意力区域梯度提升跨架构对抗样本的迁移性，解决异构模型（CNN与ViT）梯度差异大导致攻击效果差的问题，首次实现非注意力区域的梯度解耦与元学习融合。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08937v1](https://arxiv.org/pdf/2511.08937v1)**
 
 > **作者:** Yipeng Zou; Qin Liu; Jie Wu; Yu Peng; Guo Chen; Hui Zhou; Guanghui Ye
 >
@@ -127,7 +127,7 @@
 
 - **简介: 该论文针对说话人脸生成中的身份泄露问题，提出一种通用评估框架，通过三种测试场景和新指标（如唇部同步偏差）量化音频驱动与参考图像间的非预期关联，提升生成真实性评估的可靠性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08613v1](https://arxiv.org/pdf/2511.08613v1)**
 
 > **作者:** Dogucan Yaman; Fevziye Irem Eyiokur; Hazım Kemal Ekenel; Alexander Waibel
 >
@@ -139,7 +139,7 @@
 
 - **简介: 论文提出OUGS，面向3D高斯泼溅（3DGS）的主动视图选择任务，解决背景干扰导致的对象重建效率低问题。通过物理参数传播构建对象感知不确定性模型，结合语义掩码精准聚焦目标对象，提升重建质量与效率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09397v1](https://arxiv.org/pdf/2511.09397v1)**
 
 > **作者:** Haiyi Li; Qi Chen; Denis Kalkofen; Hsiang-Ting Chen
 >
@@ -153,7 +153,7 @@
 
 - **简介: T-Rex-Omni面向开放集目标检测，引入负视觉提示抑制语义混淆的干扰物，提出无训练的NNC模块与NNH损失，实现正负提示联合建模，显著提升零样本检测性能，尤其在长尾场景下表现突出。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08997v1](https://arxiv.org/pdf/2511.08997v1)**
 
 > **作者:** Jiazhou Zhou; Qing Jiang; Kanghao Chen; Lutao Jiang; Yuanhuiyi Lyu; Ying-Cong Chen; Lei Zhang
 >
@@ -167,7 +167,7 @@
 
 - **简介: 该论文构建了首个美式橄榄球多目标跟踪数据集，解决现有数据集缺失导致方法难以公平评估的问题，并验证了微调检测与重识别模型可显著提升密集场景下的跟踪精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09455v1](https://arxiv.org/pdf/2511.09455v1)**
 
 > **作者:** Rintaro Otsubo; Kanta Sawafuji; Hideo Saito
 >
@@ -179,7 +179,7 @@
 
 - **简介: SIFT-Graph提出一种多模态防御框架，结合SIFT关键点与图注意力网络，提取鲁棒结构特征，融合至视觉模型以增强对抗攻击下的鲁棒性，同时保持高干净准确率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08810v1](https://arxiv.org/pdf/2511.08810v1)**
 
 > **作者:** Jingjie He; Weijie Liang; Zihan Shan; Matthew Caesar
 >
@@ -193,7 +193,7 @@
 
 - **简介: 该论文面向皮肤病诊断叙事生成任务，解决评估不可靠问题，提出DermBench基准与DermEval评估器，实现对多模态大模型生成文本的临床可解释、自动化、高精度评估。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09195v1](https://arxiv.org/pdf/2511.09195v1)**
 
 > **作者:** Yuhao Shen; Jiahe Qian; Shuping Zhang; Zhangtianyi Chen; Tao Lu; Juexiao Zhou
 >
@@ -205,7 +205,7 @@
 
 - **简介: 该论文面向几何深度学习，解决传统方法仅用静态单子空间表征导致的结构捕捉不足问题，提出拓扑驱动的多子空间融合框架，通过自适应加权与Fréchet均值融合，提升非欧氏空间中的判别力与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08628v1](https://arxiv.org/pdf/2511.08628v1)**
 
 > **作者:** Xuan Yu; Tianyang Xu
 >
@@ -219,7 +219,7 @@
 
 - **简介: 该论文提出Diff-FCHM框架，首次以机器视觉为导向重构人机协同压缩，解决传统方法依赖人眼感知导致的冗余问题，通过可变比特率策略与扩散先验融合，实现机器与人类视觉的高效高质量压缩。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08915v1](https://arxiv.org/pdf/2511.08915v1)**
 
 > **作者:** Zifu Zhang; Shengxi Li; Xiancheng Sun; Mai Xu; Zhengyuan Liu; Jingyuan Xia
 >
@@ -231,7 +231,7 @@
 
 - **简介: 该论文提出UL-TTA，一种无训练、无反传的视觉-语言模型在线自适应方法，仅调整logit层参数（原型、先验、温度），在域偏移下提升准确率与校准性，显著降低计算开销。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09101v1](https://arxiv.org/pdf/2511.09101v1)**
 
 > **作者:** Byunghyun Kim
 >
@@ -245,7 +245,7 @@
 
 - **简介: 该论文提出DKDS基准数据集，面向古日文草书文档的降质与印章干扰问题，构建了文本与印章检测、文档二值化两大任务，提供基线模型与开源代码，推动鲁棒OCR研究。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09117v1](https://arxiv.org/pdf/2511.09117v1)**
 
 > **作者:** Rui-Yang Ju; Kohei Yamashita; Hirotaka Kameko; Shinsuke Mori
 >
@@ -257,7 +257,7 @@
 
 - **简介: 该论文研究自回归像素预测在图像生成与分类中的扩展规律，发现两者最优缩放策略不同，且计算量而非数据量是主要瓶颈，预测五年内可实现高分辨率像素级建模。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08704v1](https://arxiv.org/pdf/2511.08704v1)**
 
 > **作者:** Xinchen Yan; Chen Liang; Lijun Yu; Adams Wei Yu; Yifeng Lu; Quoc V. Le
 >
@@ -269,7 +269,7 @@
 
 - **简介: 该论文提出BronchOpt框架，通过微调基础模型实现内窥镜图像与CT的跨域2D-3D配准，解决术中呼吸运动导致的定位偏差问题，并构建首个合成基准数据集，实现无需域适配的高精度导航。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09443v1](https://arxiv.org/pdf/2511.09443v1)**
 
 > **作者:** Hongchao Shu; Roger D. Soberanis-Mukul; Jiru Xu; Hao Ding; Morgan Ringel; Mali Shen; Saif Iftekar Sayed; Hedyeh Rafii-Tari; Mathias Unberath
 >
@@ -281,7 +281,7 @@
 
 - **简介: RF-DETR提出一种轻量级检测Transformer，通过权值共享的神经架构搜索，在不重新训练的情况下快速优化目标数据集的精度-延迟权衡，提升开放词汇目标检测的实时性能与泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09554v1](https://arxiv.org/pdf/2511.09554v1)**
 
 > **作者:** Isaac Robinson; Peter Robicheaux; Matvei Popov; Deva Ramanan; Neehar Peri
 >
@@ -295,7 +295,7 @@
 
 - **简介: vMFCoOp提出在超球面流形上对齐LLM与CLIP的语义偏差，通过von Mises-Fisher分布建模统一语义锚点，解决生物医学VLM提示学习中的模态鸿沟与泛化不足问题，提升少样本分类性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09540v1](https://arxiv.org/pdf/2511.09540v1)**
 
 > **作者:** Minye Shao; Sihan Guo; Xinrun Li; Xingyu Miao; Haoran Duan; Yang Long
 >
@@ -309,7 +309,7 @@
 
 - **简介: 该论文提出一种潜空间匿名化方法，针对视频基础模型在特征提取中泄露隐私信息的问题，设计轻量级适配器AAM，在不微调模型前提下消除敏感属性（如肤色、性别），同时保留任务性能，实现隐私与效用的平衡。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08666v1](https://arxiv.org/pdf/2511.08666v1)**
 
 > **作者:** Joseph Fioresi; Ishan Rajendrakumar Dave; Mubarak Shah
 >
@@ -321,7 +321,7 @@
 
 - **简介: 该论文面向图像生成任务，解决分形生成模型（FGM）输出多样性不足的问题，首次引入Hausdorff维度（HD）作为多样性度量，提出可学习HD估计、HD驱动的训练调度与推理采样策略，在保持画质前提下提升多样性39%。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08945v1](https://arxiv.org/pdf/2511.08945v1)**
 
 > **作者:** Haowei Zhang; Yuanpei Zhao; Jizhe Zhou; Mao Li
 >
@@ -335,7 +335,7 @@
 
 - **简介: 该论文提出CADIC框架，用于持续异常检测任务，解决传统方法因任务专属内存导致的灵活性差问题。通过共享统一核心集增量更新嵌入，实现高效知识累积与高精度检测，在多个数据集上表现最优。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08634v1](https://arxiv.org/pdf/2511.08634v1)**
 
 > **作者:** Gen Yang; Zhipeng Deng; Junfeng Man
 >
@@ -349,7 +349,7 @@
 
 - **简介: 该论文针对图像分类中的偏差问题，提出用微调扩散模型（如LoRA、DreamBooth+聚类）生成更精准的平衡合成数据，提升公平性。方法在高偏差场景下优于主流去偏技术。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08711v1](https://arxiv.org/pdf/2511.08711v1)**
 
 > **作者:** Abhipsa Basu; Aviral Gupta; Abhijnya Bhat; R. Venkatesh Babu
 >
@@ -361,7 +361,7 @@
 
 - **简介: 论文提出HitoMi-Cam，一种基于衣物光谱反射特性的形状无关人体检测方法，解决CNN在非训练姿态下性能下降问题，在无GPU边缘设备上实现23.2 fps实时检测，AP达93.5%，显著优于CNN，适用于灾害救援等复杂场景。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08908v1](https://arxiv.org/pdf/2511.08908v1)**
 
 > **作者:** Shuji Ono
 >
@@ -375,7 +375,7 @@
 
 - **简介: 4KDehazeFlow提出一种基于流匹配的超高清去雾方法，通过可学习3D LUT与RK4 ODE求解器实现高效、低失真去雾，兼容任意网络，显著提升密集雾霾场景下的图像质量与色彩保真度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09055v1](https://arxiv.org/pdf/2511.09055v1)**
 
 > **作者:** Xingchi Chen; Pu Wang; Xuerui Li; Chaopeng Li; Juxiang Zhou; Jianhou Gan; Dianjie Lu; Guijuan Zhang; Wenqi Ren; Zhuoran Zheng
 >
@@ -387,7 +387,7 @@
 
 - **简介: DreamPose3D提出一种基于扩散模型的3D人体姿态估计方法，通过动作提示学习与时空幻觉解码，提升模糊场景下的时序一致性与关节关系建模，显著优于现有方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09502v1](https://arxiv.org/pdf/2511.09502v1)**
 
 > **作者:** Jerrin Bright; Yuhao Chen; John S. Zelek
 >
@@ -399,7 +399,7 @@
 
 - **简介: 该论文面向3D点云旋转不变学习，解决因局部特征丢失全局姿态信息而导致的对称结构混淆问题。提出SiPF与RIAttnConv，引入全局“影子”参考点和注意力机制，提升旋转下细粒度空间判别能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08833v1](https://arxiv.org/pdf/2511.08833v1)**
 
 > **作者:** Jiaxun Guo; Manar Amayri; Nizar Bouguila; Xin Liu; Wentao Fan
 >
@@ -413,7 +413,7 @@
 
 - **简介: 该论文面向燃气电厂数字化，提出基于Transformer的AI方案，自动从P&ID图纸中提取设计数据与拓扑结构，融合OCR、视觉大模型与关系推理，实现91%文本与93%组件识别准确率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08609v1](https://arxiv.org/pdf/2511.08609v1)**
 
 > **作者:** I. Bailo; F. Buonora; G. Ciarfaglia; L. T. Consoli; A. Evangelista; M. Gabusi; M. Ghiani; C. Petracca Ciavarella; F. Picariello; F. Sarcina; F. Tuosto; V. Zullo; L. Airoldi; G. Bruno; D. D. Gobbo; S. Pezzenati; G. A. Tona
 >
@@ -425,7 +425,7 @@
 
 - **简介: 该论文针对视频动作识别中ViT与轻量CNN间的性能差距，提出双教师自适应知识蒸馏框架，通过动态加权与残差特征学习，高效迁移ViT知识至CNN，显著提升轻量模型精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09469v1](https://arxiv.org/pdf/2511.09469v1)**
 
 > **作者:** Ying Peng; Hongsen Ye; Changxin Huang; Xiping Hu; Jian Chen; Runhao Zeng
 >
@@ -439,7 +439,7 @@
 
 - **简介: 该论文提出分层蒸馏（HD）框架，解决扩散模型单步推理中结构与细节难以兼顾的问题。通过轨迹蒸馏构建结构骨架，再用自适应加权判别器（AWD）精细优化细节，实现单步生成媲美多步模型的高保真效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08930v1](https://arxiv.org/pdf/2511.08930v1)**
 
 > **作者:** Hanbo Cheng; Peng Wang; Kaixiang Lei; Qi Li; Zhen Zou; Pengfei Hu; Jun Du
 >
@@ -451,7 +451,7 @@
 
 - **简介: 该论文面向图像聚类任务，提出多融合增强ViT模块（MFAVBs），通过显式融合正样本对特征并迭代增强，提升对比聚类性能，结合CLIP预训练特征预处理，在七大数据集上超越SOTA方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08883v1](https://arxiv.org/pdf/2511.08883v1)**
 
 > **作者:** Cheng Wang; Shuisheng Zhou; Fengjiao Peng; Jin Sheng; Feng Ye; Yinli Dong
 >
@@ -463,7 +463,7 @@
 
 - **简介: 该论文针对大视觉语言模型（LVLMs）中的对象幻觉问题，提出Owl框架，通过因果图建模视觉与文本注意力交互，引入VTACR指标识别模态失衡，并设计双路径注意力干预与对比解码，显著降低幻觉并保持理解能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09018v1](https://arxiv.org/pdf/2511.09018v1)**
 
 > **作者:** Liu Yu; Zhonghao Chen; Ping Kuang; Zhikun Feng; Fan Zhou; Lan Wang; Gillian Dobbie
 >
@@ -477,7 +477,7 @@
 
 - **简介: 该论文提出Asymmetric Cross-Modal Knowledge Distillation（ACKD），解决弱语义一致性下跨模态知识迁移难题，构建SemBridge框架，通过动态匹配与最优传输实现高效知识传递，并在遥感图像分类任务中取得SOTA效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08901v1](https://arxiv.org/pdf/2511.08901v1)**
 
 > **作者:** Riling Wei; Kelu Yao; Chuanguang Yang; Jin Wang; Zhuoyan Gao; Chao Li
 >
@@ -491,7 +491,7 @@
 
 - **简介: 该论文提出SPEED-Q，首次实现小规模亿级VLM的低比特权重量化，解决视觉与语言模块敏感度差异及训练不稳问题，通过分阶段自适应与增强蒸馏，在2-bit下精度提升6倍，实现高效边缘部署。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08914v1](https://arxiv.org/pdf/2511.08914v1)**
 
 > **作者:** Tianyu Guo; Shanwei Zhao; Shiai Zhu; Chenguang Ma
 >
@@ -503,7 +503,7 @@
 
 - **简介: 该论文属于知识蒸馏任务，旨在解决单模态教师模型知识多样性不足的问题。提出RichKD框架，融合CLIP的视觉-语言多模态信息，增强学生模型的监督信号，提升蒸馏质量与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09286v1](https://arxiv.org/pdf/2511.09286v1)**
 
 > **作者:** Amir M. Mansourian; Amir Mohammad Babaei; Shohreh Kasaei
 >
@@ -517,7 +517,7 @@
 
 - **简介: DT-NVS提出一种基于Transformer的3D扩散模型，实现从单张真实场景图像生成多样新视角，突破传统方法对小幅度运动或人工场景的限制，首次在非对齐真实视频数据上训练，提升泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08823v1](https://arxiv.org/pdf/2511.08823v1)**
 
 > **作者:** Wonbong Jang; Jonathan Tremblay; Lourdes Agapito
 >
@@ -531,7 +531,7 @@
 
 - **简介: 该论文提出PoseKAN，一种自适应图Kolmogorov-Arnold网络，用于单图像2D到3D人体姿态估计。通过可学习边函数与多跳聚合，突破GCN的局部感知与频谱偏差限制，提升对遮挡和深度模糊的建模能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08809v1](https://arxiv.org/pdf/2511.08809v1)**
 
 > **作者:** Abu Taib Mohammed Shahjahan; A. Ben Hamza
 >
@@ -543,7 +543,7 @@
 
 - **简介: 该论文面向边缘计算，提出一种基于FPGA的生成式人脸视频编码器（AGC）部署方案，解决其高功耗与部署困难问题，通过量化、融合与软硬件协同设计，实现能效提升24.9倍，单像素重构仅需11.7μJ。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09272v1](https://arxiv.org/pdf/2511.09272v1)**
 
 > **作者:** Rui Wan; Qi Zheng; Ruoyu Zhang; Bu Chen; Jiaming Liu; Min Li; Minge Jing; Jinjia Zhou; Yibo Fan
 >
@@ -555,7 +555,7 @@
 
 - **简介: 论文提出VietMEAgent，面向越南语视觉问答的少样本多模态可解释框架，解决文化知识缺失与解释性不足问题，通过文化知识库与程序生成模块，实现融合视觉证据与人文理据的透明推理，支持文化敏感的AI应用。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09058v1](https://arxiv.org/pdf/2511.09058v1)**
 
 > **作者:** Hai-Dang Nguyen; Minh-Anh Dang; Minh-Tan Le; Minh-Tuan Le
 >
@@ -569,7 +569,7 @@
 
 - **简介: 该论文面向零样本骨架动作识别任务，解决现有方法对齐脆弱、分类僵化问题，提出Flora模型，通过邻域感知语义调准与开放流分类器，实现鲁棒的跨模态对齐与细粒度决策。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09388v1](https://arxiv.org/pdf/2511.09388v1)**
 
 > **作者:** Yang Chen; Miaoge Li; Zhijie Rao; Deze Zeng; Song Guo; Jingcai Guo
 >
@@ -583,7 +583,7 @@
 
 - **简介: 该论文提出Composition-Incremental Learning（CompIL）任务，解决模型在持续学习新组合时保持 compositional generalization 能力的问题，构建了两个基准，并提出基于视觉合成与语言原语蒸馏的伪回放框架以提升持续学习效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09082v1](https://arxiv.org/pdf/2511.09082v1)**
 
 > **作者:** Zhen Li; Yuwei Wu; Chenchen Jing; Che Sun; Chuanhao Li; Yunde Jia
 >
@@ -597,7 +597,7 @@
 
 - **简介: 该论文针对胶质母细胞瘤（GBM）组织切片的六类亚区分类任务，采用EfficientNet架构实现自动化病理识别，旨在提升病理分析的效率与一致性。在BraTS-Path 2024数据集上验证，EfficientNet-B1/B4表现最优，但模型泛化能力仍待提升。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08896v1](https://arxiv.org/pdf/2511.08896v1)**
 
 > **作者:** Sanyukta Adap; Ujjwal Baid; Spyridon Bakas
 >
@@ -609,7 +609,7 @@
 
 - **简介: 本文是WiCV@CVPR 2025 workshop的总结报告，旨在记录并评估其在促进女性与少数群体在计算机视觉领域参与度方面的成效，涵盖论文录用、导师配对、参会规模与资助情况，为后续多样性倡议提供参考。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08748v1](https://arxiv.org/pdf/2511.08748v1)**
 
 > **作者:** Estefania Talavera; Deblina Bhattacharjee; Himangi Mittal; Mengwei Ren; Karen Sanchez; Carla Muntean; JungEun Kim; Mona Jalal
 >
@@ -621,7 +621,7 @@
 
 - **简介: HOTFLoc++提出一种端到端LiDAR定位框架，用于森林等复杂环境中的场景识别、重排序与6自由度精确定位。通过八叉树变换器提取多尺度特征，结合可学习几何验证模块，显著提升鲁棒性与效率，Recall@1达90.7%以上。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09170v1](https://arxiv.org/pdf/2511.09170v1)**
 
 > **作者:** Ethan Griffiths; Maryam Haghighat; Simon Denman; Clinton Fookes; Milad Ramezani
 >
@@ -635,7 +635,7 @@
 
 - **简介: 该论文提出USF-Net，用于地面遥感云序列外推任务，解决现有方法特征提取静态、时序建模弱和计算开销大等问题，通过自适应大核卷积与低复杂度注意力机制，实现高效高精度的时空联合预测，并发布新数据集ASI-CIS。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09045v1](https://arxiv.org/pdf/2511.09045v1)**
 
 > **作者:** Penghui Niu; Taotao Cai; Jiashuai She; Yajuan Zhang; Junhua Gua; Ping Zhanga; Jungong Hane; Jianxin Li
 >
@@ -647,7 +647,7 @@
 
 - **简介: 该论文针对半监督医学图像分割中的误差传播问题，提出DualFete框架，引入师生反馈机制，让学生反馈伪标签扰动以修正教师标签，并设计双教师反馈模型提升纠错能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09319v1](https://arxiv.org/pdf/2511.09319v1)**
 
 > **作者:** Le Yi; Wei Huang; Lei Zhang; Kefu Zhao; Yan Wang; Zizhou Wang
 >
@@ -661,7 +661,7 @@
 
 - **简介: PAN提出一种通用可交互的长时序世界模型，通过LLM驱动的潜变量动态与视频扩散解码器，实现自然语言动作引导的高保真未来状态预测，解决现有模型缺乏因果控制与泛化能力的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09057v1](https://arxiv.org/pdf/2511.09057v1)**
 
 > **作者:** PAN Team; Jiannan Xiang; Yi Gu; Zihan Liu; Zeyu Feng; Qiyue Gao; Yiyan Hu; Benhao Huang; Guangyi Liu; Yichi Yang; Kun Zhou; Davit Abrahamyan; Arif Ahmad; Ganesh Bannur; Junrong Chen; Kimi Chen; Mingkai Deng; Ruobing Han; Xinqi Huang; Haoqiang Kang; Zheqi Li; Enze Ma; Hector Ren; Yashowardhan Shinde; Rohan Shingre; Ramsundar Tanikella; Kaiming Tao; Dequan Yang; Xinle Yu; Cong Zeng; Binglin Zhou; Hector Liu; Zhiting Hu; Eric P. Xing
 >
@@ -673,7 +673,7 @@
 
 - **简介: 该论文提出MATRIX数据集与深度学习框架，解决动态多无人机视角下行人检测与跟踪难题，通过BEV特征融合与实时校准，在复杂遮挡环境中实现约90%精度，显著优于静态相机方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08615v1](https://arxiv.org/pdf/2511.08615v1)**
 
 > **作者:** Kosta Dakic; Kanchana Thilakarathna; Rodrigo N. Calheiros; Teng Joon Lim
 >
@@ -687,7 +687,7 @@
 
 - **简介: 论文提出RS-Net，用于动态场景图生成（DSGG），解决关系稀疏导致的长尾分布预测难题。通过融合空间与时间上下文对物体对进行关系评分，提升关系预测精度与召回率，可无缝集成至现有模型。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08651v1](https://arxiv.org/pdf/2511.08651v1)**
 
 > **作者:** Hae-Won Jo; Yeong-Jun Cho
 >
@@ -699,7 +699,7 @@
 
 - **简介: 该论文针对零样本图像描述（ZIC）中的幻觉问题，提出负实体抑制（NES）方法，利用合成图像增强检索一致性，过滤并抑制与图像无关的实体，提升跨域泛化能力，降低幻觉率，达到新SOTA。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08909v1](https://arxiv.org/pdf/2511.08909v1)**
 
 > **作者:** Zimao Lu; Hui Xu; Bing Liu; Ke Wang
 >
@@ -713,7 +713,7 @@
 
 - **简介: 该论文提出Spatial Information Bottleneck（S-IB），通过信息论框架优化梯度反传（VJP）的时空结构，解耦前景与背景特征，提升视觉解释的可解释性与鲁棒性，无需调参即可通用提升六种解释方法效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09239v1](https://arxiv.org/pdf/2511.09239v1)**
 
 > **作者:** Kaixiang Shu; Kai Meng; Junqin Luo
 >
@@ -725,7 +725,7 @@
 
 - **简介: DensiCrafter针对3D生成模型忽视物理可制造性的问题，提出一种无需重训练的密度场优化框架，通过物理约束损失函数自动生成轻量化、自支撑中空结构，实现材料减重43%并保障可打印性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09298v1](https://arxiv.org/pdf/2511.09298v1)**
 
 > **作者:** Shengqi Dang; Fu Chai; Jiaxin Li; Chao Yuan; Wei Ye; Nan Cao
 >
@@ -737,7 +737,7 @@
 
 - **简介: 论文提出PressTrack-HMR，面向多人群体人体网格重建任务，解决压力信号混叠难以分离的问题，通过跟踪检测分离个体压力信号并重建三维人体网格，构建MIP数据集，实现隐私友好的多人体动作感知。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09147v1](https://arxiv.org/pdf/2511.09147v1)**
 
 > **作者:** Jiayue Yuan; Fangting Xie; Guangwen Ouyang; Changhai Ma; Ziyu Wu; Heyu Ding; Quan Wan; Yi Ke; Yuchen Wu; Xiaohui Cai
 >
@@ -751,7 +751,7 @@
 
 - **简介: 该论文研究利用深度学习从生物信号估算代谢率，系统比较不同神经架构与信号组合的性能，发现通气量最有效，Transformer模型表现最优，并揭示个体差异需自适应建模。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09276v1](https://arxiv.org/pdf/2511.09276v1)**
 
 > **作者:** Sarvenaz Babakhani; David Remy; Alina Roitberg
 >
@@ -765,7 +765,7 @@
 
 - **简介: 该论文面向自动驾驶安全，解决传感器噪声下事故预测的延迟与误报问题。提出融合扩散去噪与时间感知强化学习的框架，提升噪声环境下的预测准确性与响应时效性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08640v1](https://arxiv.org/pdf/2511.08640v1)**
 
 > **作者:** Xingcheng Liu; Bin Rao; Yanchen Guan; Chengyue Wang; Haicheng Liao; Jiaxun Zhang; Chengyu Lin; Meixin Zhu; Zhenning Li
 >
@@ -779,7 +779,7 @@
 
 - **简介: 论文面向3D人体姿态估计任务，针对现有SSM方法破坏骨骼空间结构的问题，提出SAS-SSM模块，通过结构感知卷积与步幅扫描策略，保留时空结构并实现线性复杂度建模，构建轻量模型SasMamba，性能优越且参数更少。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08872v1](https://arxiv.org/pdf/2511.08872v1)**
 
 > **作者:** Hu Cui; Wenqiang Hua; Renjing Huang; Shurui Jia; Tessai Hayama
 >
@@ -793,7 +793,7 @@
 
 - **简介: 该论文针对无监督图像对齐任务，提出一种稠密跨尺度对齐模型，利用全空间相关性与JND引导，提升精度并降低计算复杂度，实现精度与效率的灵活平衡。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09028v1](https://arxiv.org/pdf/2511.09028v1)**
 
 > **作者:** Jinkun You; Jiaxue Li; Jie Zhang; Yicong Zhou
 >
@@ -805,7 +805,7 @@
 
 - **简介: 该论文针对无监督遥感变化检测中生成器过拟合问题，提出一致性变化检测框架（CCDF），引入循环一致性和语义一致性模块，提升重建精度与变化检测性能，无需标注数据即可有效识别地表变化区域。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08904v1](https://arxiv.org/pdf/2511.08904v1)**
 
 > **作者:** Yating Liu; Yan Lu
 >
@@ -819,7 +819,7 @@
 
 - **简介: 论文针对多视角3D目标检测中PETR模型量化导致精度骤降的问题，提出FQ-PETR框架，通过LiDAR引导位置编码、双查表非线性近似和量化前数值稳定化，实现W8A8全量化下接近浮点精度，延迟降低75%。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09347v1](https://arxiv.org/pdf/2511.09347v1)**
 
 > **作者:** Jiangyong Yu; Changyong Shu; Sifan Zhou; Zichen Yu; Xing Hu; Yan Chen; Dawei Yang
 >
@@ -831,7 +831,7 @@
 
 - **简介: 该论文提出BRHVC，解决神经B帧视频压缩中双向参考帧贡献不平衡问题，通过双向运动收敛与上下文融合，提升运动补偿精度与参考信息利用效率，性能超越传统编码与现有神经方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08938v1](https://arxiv.org/pdf/2511.08938v1)**
 
 > **作者:** Yuxi Liu; Dengchao Jin; Shuai Huo; Jiawen Gu; Chao Zhou; Huihui Bai; Ming Lu; Zhan Ma
 >
@@ -843,7 +843,7 @@
 
 - **简介: 论文提出DBINDS，用于检测AI生成视频。通过扩散模型逆向恢复初始噪声，发现其在真实与生成视频中存在系统差异，构建INDS特征并用LightGBM分类，实现跨生成器的强泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09184v1](https://arxiv.org/pdf/2511.09184v1)**
 
 > **作者:** Yanlin Wu; Xiaogang Yuan; Dezhi An
 >
@@ -857,7 +857,7 @@
 
 - **简介: MACEval提出一种多智能体持续评估网络，解决大模型评估中数据污染、人工依赖与静态基准问题，实现自动化、低成本、可扩展的动态评估，支持长期性能追踪与现有基准集成。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09139v1](https://arxiv.org/pdf/2511.09139v1)**
 
 > **作者:** Zijian Chen; Yuze Sun; Yuan Tian; Wenjun Zhang; Guangtao Zhai
 >
@@ -871,7 +871,7 @@
 
 - **简介: PIFF提出一种物理信息生成流模型，用于实时洪水深度预测，解决传统方法效率低问题。通过融合DEM、降雨时序与简化水动力先验，实现从地形与降雨到洪水图的高效映射，替代昂贵数值模拟。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09130v1](https://arxiv.org/pdf/2511.09130v1)**
 
 > **作者:** ChunLiang Wu; Tsunhua Yang; Hungying Chen
 >
@@ -883,7 +883,7 @@
 
 - **简介: 论文提出AuthSig，解决静态扫描签名易被复制滥用的问题，通过生成模型与隐式水印绑定身份信息，实现“一签一用”，并用关键点增强数据提升鲁棒性，可在多种失真下保持98%以上水印提取准确率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08967v1](https://arxiv.org/pdf/2511.08967v1)**
 
 > **作者:** RuiQiang Zhang; Zehua Ma; Guanjie Wang; Chang Liu; Hengyi Wang; Weiming Zhang
 >
@@ -895,7 +895,7 @@
 
 - **简介: 该论文针对物体识别任务，改进生物启发的VisNet模型，引入RBF神经元、马氏距离学习和视网膜预处理，提升其对变换不变特征的提取能力，在多个数据集上显著提高识别与对称性分类准确率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08897v1](https://arxiv.org/pdf/2511.08897v1)**
 
 > **作者:** Mehdi Fatan Serj; C. Alejandro Parraga; Xavier Otazu
 >
@@ -907,7 +907,7 @@
 
 - **简介: FSampler是一种无训练、与采样器无关的加速框架，通过二至四阶外推历史噪声信号（epsilon）减少扩散模型采样中的函数调用次数，在保持采样规则不变的前提下，显著提升推理效率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09180v1](https://arxiv.org/pdf/2511.09180v1)**
 
 > **作者:** Michael A. Vladimir
 >
@@ -921,7 +921,7 @@
 
 - **简介: 该论文针对毫米波雷达稀疏点云的人体活动识别任务，提出轻量级OG-PCL网络，通过三视图并行结构与占用门控卷积（OGConv）提升精度与效率，在RadHAR数据集上以0.83M参数达到91.75%准确率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08910v1](https://arxiv.org/pdf/2511.08910v1)**
 
 > **作者:** Jiuqi Yan; Chendong Xu; Dongyu Liu
 >
@@ -933,7 +933,7 @@
 
 - **简介: 该论文针对GUI代理历史感知不足的问题，提出History-Aware Reasoning（HAR）框架，通过反思学习与混合奖励机制增强短时记忆，使代理能利用交互历史进行连贯推理，提升长任务自动化性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09127v1](https://arxiv.org/pdf/2511.09127v1)**
 
 > **作者:** Ziwei Wang; Leyang Yang; Xiaoxuan Tang; Sheng Zhou; Dajun Chen; Wei Jiang; Yong Li
 >
@@ -947,7 +947,7 @@
 
 - **简介: 该论文针对具身视觉导航任务，提出SCOPE框架，利用视觉-语言模型挖掘前沿信息构建时空势能图，结合自反思机制提升决策可靠性，实现零样本下更精准的长程导航。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08935v1](https://arxiv.org/pdf/2511.08935v1)**
 
 > **作者:** Ningnan Wang; Weihuang Chen; Liming Chen; Haoxuan Ji; Zhongyu Guo; Xuchong Zhang; Hongbin Sun
 >
@@ -959,7 +959,7 @@
 
 - **简介: 该论文提出RadHARSimulator V2，实现从视频到雷达多普勒谱的生成，解决现有HAR仿真灵活性不足问题。结合计算机视觉与雷达仿真模块，构建端到端模拟系统，并提出新型神经网络用于动作识别。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09022v1](https://arxiv.org/pdf/2511.09022v1)**
 
 > **作者:** Weicheng Gao
 >
@@ -973,7 +973,7 @@
 
 - **简介: 论文提出SAMora，面向医学图像分割任务，解决SAM在少量标注数据下性能不足的问题。通过层级自监督预训练与HL-Attn模块，融合图像、块、像素级知识，显著提升分割精度并减少90%微调迭代。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08626v1](https://arxiv.org/pdf/2511.08626v1)**
 
 > **作者:** Shuhang Chen; Hangjie Yuan; Pengwei Liu; Hanxue Gu; Tao Feng; Dong Ni
 >
@@ -985,7 +985,7 @@
 
 - **简介: 该论文提出基于持久同调的3D-TDA方法，从脑部MRI中提取拓扑特征，用于阿尔茨海默病分类。相比深度学习模型，其无需复杂预处理，在ADNI数据集上实现更高准确率，适用于小样本场景。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08663v1](https://arxiv.org/pdf/2511.08663v1)**
 
 > **作者:** Faisal Ahmed; Taymaz Akan; Fatih Gelir; Owen T. Carmichael; Elizabeth A. Disbrow; Steven A. Conrad; Mohammad A. N. Bhuiyan
 >
@@ -999,7 +999,7 @@
 
 - **简介: 该论文提出一种零样本多模态框架Plug-and-Play Clarifier，用于解决第一人称视角下语言、视觉与手势模糊导致的意图歧义问题，通过三模块协同提升小模型意图理解与交互准确性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08971v1](https://arxiv.org/pdf/2511.08971v1)**
 
 > **作者:** Sicheng Yang; Yukai Huang; Weitong Cai; Shitong Sun; You He; Jiankang Deng; Hang Zhang; Jifei Song; Zhensong Zhang
 >
@@ -1013,7 +1013,7 @@
 
 - **简介: 该论文针对脉冲神经网络（SNN）直接训练中的时序协变量偏移和阈值敏感梯度问题，提出MP-Init初始化膜电位与TrSG鲁棒替代梯度方法，显著提升训练稳定性与精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08708v1](https://arxiv.org/pdf/2511.08708v1)**
 
 > **作者:** Hyunho Kook; Byeongho Yu; Jeong Min Oh; Eunhyeok Park
 >
@@ -1027,7 +1027,7 @@
 
 - **简介: 论文提出SpatialActor，面向机器人操作任务，解决深度噪声下语义与几何纠缠导致的定位不准问题，通过解耦语义与几何表示，融合多源几何信息与低层空间线索，提升操作鲁棒性与泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09555v1](https://arxiv.org/pdf/2511.09555v1)**
 
 > **作者:** Hao Shi; Bin Xie; Yingfei Liu; Yang Yue; Tiancai Wang; Haoqiang Fan; Xiangyu Zhang; Gao Huang
 >
@@ -1041,7 +1041,7 @@
 
 - **简介: 该论文提出IFG框架，结合互联网规模视觉模型的语义理解与仿真驱动的力闭合抓取生成，实现无需人工标注的实时高精度3D抓取规划，解决机器人抓取中语义与几何精度脱节的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09558v1](https://arxiv.org/pdf/2511.09558v1)**
 
 > **作者:** Ray Muxin Liu; Mingxuan Li; Kenneth Shaw; Deepak Pathak
 >
@@ -1055,7 +1055,7 @@
 
 - **简介: 该论文面向机器人长时程操作任务，解决预训练VLA模型缺乏记忆导致的性能不足问题，提出MAP-VLA框架，通过可学习的演示记忆提示实现即插即用的动态增强，显著提升任务成功率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09516v1](https://arxiv.org/pdf/2511.09516v1)**
 
 > **作者:** Runhao Li; Wenkai Guo; Zhenyu Wu; Changyuan Wang; Haoyuan Deng; Zhenyu Weng; Yap-Peng Tan; Ziwei Wang
 >
@@ -1067,7 +1067,7 @@
 
 - **简介: UniMM-V2X提出一种端到端协同自动驾驶框架，通过多级融合与MoE架构，实现感知、预测与规划的协同优化，解决单体智能感知受限与任务脱节问题，在DAIR-V2X上显著提升性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09013v1](https://arxiv.org/pdf/2511.09013v1)**
 
 > **作者:** Ziyi Song; Chen Xia; Chenbing Wang; Haibao Yu; Sheng Zhou; Zhisheng Niu
 >
@@ -1079,7 +1079,7 @@
 
 - **简介: 该论文针对超低场MRI图像质量差的问题，利用有限配对数据，在无外部数据约束下，通过多样化任务自适应数据增强提升图像重建质量，显著改善SSIM指标，实现接近高场MRI的视觉效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09366v1](https://arxiv.org/pdf/2511.09366v1)**
 
 > **作者:** Felix F Zimmermann
 >
@@ -1093,7 +1093,7 @@
 
 - **简介: 论文提出MicroEvoEval框架，首次系统评估图像驱动的微观结构演化预测模型，解决现有研究忽视物理保真与长期误差传播的问题，通过14种模型对比，揭示现代架构在精度、效率与物理一致性上的优势。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08955v1](https://arxiv.org/pdf/2511.08955v1)**
 
 > **作者:** Qinyi Zhang; Duanyu Feng; Ronghui Han; Yangshuai Wang; Hao Wang
 >
@@ -1107,7 +1107,7 @@
 
 - **简介: 该论文提出一种基于Fréchet映射的快速k-means聚类方法，将高维黎曼流形（如SPD矩阵）数据映射到低维欧氏空间，从而高效应用标准聚类算法，显著降低计算成本并保持高精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08993v1](https://arxiv.org/pdf/2511.08993v1)**
 
 > **作者:** Ji Shi; Nicolas Charon; Andreas Mang; Demetrio Labate; Robert Azencott
 >
@@ -1121,7 +1121,7 @@
 
 - **简介: 该论文评估图像质量（如模糊、构图不佳）对视觉语言模型（VLMs）生成产品描述准确性的影响，聚焦盲低视人群的信息需求，发现质量下降显著降低识别准确率，呼吁面向残障用户优化模型评估与设计。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08917v1](https://arxiv.org/pdf/2511.08917v1)**
 
 > **作者:** Kapil Garg; Xinru Tang; Jimin Heo; Dwayne R. Morgan; Darren Gergle; Erik B. Sudderth; Anne Marie Piper
 >
@@ -1135,7 +1135,7 @@
 
 - **简介: SPIDER提出一种物理驱动的灵巧重定向框架，将人类运动数据转化为机器人可执行的动态可行轨迹，解决人机本体差异与数据稀缺问题，实现跨9种机器人、6类数据的高效规模化生成，显著提升策略学习效率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09484v1](https://arxiv.org/pdf/2511.09484v1)**
 
 > **作者:** Chaoyi Pan; Changhao Wang; Haozhi Qi; Zixi Liu; Homanga Bharadhwaj; Akash Sharma; Tingfan Wu; Guanya Shi; Jitendra Malik; Francois Hogan
 >
@@ -1149,7 +1149,7 @@
 
 - **简介: 该论文提出一种新型区间ARX模型（IARX），用于处理区间数据，解决传统ARX模型无法有效建模不确定数据的问题，并将其应用于移动模式建模，在烧结过程中验证了其鲁棒性与优越性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2307.04402v2](https://arxiv.org/pdf/2307.04402v2)**
 
 > **作者:** Changping Sun
 >
@@ -1161,7 +1161,7 @@
 
 - **简介: 该论文面向深度图像压缩任务，解决显式比特分配破坏熵模型的问题，提出隐式比特分配方法，通过MGFE模块与双解码器实现ROI自适应编码，在COCO2017上显著提升率失真性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08918v1](https://arxiv.org/pdf/2511.08918v1)**
 
 > **作者:** Kai Hu; Han Wang; Renhe Liu; Zhilin Li; Shenghui Song; Yu Liu
 >
@@ -1175,7 +1175,7 @@
 
 - **简介: 论文提出SMF-VO，一种轻量级视觉里程计方法，直接从稀疏光流估计相机瞬时速度，规避传统位姿估计与地图优化，提升实时性。适用于资源受限设备，实现超100 FPS的CPU推理。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09072v1](https://arxiv.org/pdf/2511.09072v1)**
 
 > **作者:** Sangheon Yang; Yeongin Yoon; Hong Mo Jung; Jongwoo Lim
 >
@@ -1187,7 +1187,7 @@
 
 - **简介: 该论文针对神经SDF学习中曲率正则化计算昂贵的问题，提出用有限差分近似二阶导数，替代高阶自动微分，显著降低内存与训练开销，同时保持重建精度，实现高效可扩展的曲率感知SDF学习。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08980v1](https://arxiv.org/pdf/2511.08980v1)**
 
 > **作者:** Haotian Yin; Aleksander Plocharski; Michal Jan Wlodarczyk; Przemyslaw Musialski
 >
@@ -1201,7 +1201,7 @@
 
 - **简介: BayesQ是一种不确定性引导的后训练量化框架，首次基于后验期望损失优化量化，通过高斯后验建模、码本设计与混合精度分配，在保持低比特下显著提升模型精度，适用于ResNet和BERT等模型。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08821v1](https://arxiv.org/pdf/2511.08821v1)**
 
 > **作者:** Ismail Lamaakal; Chaymae Yahyati; Yassine Maleh; Khalid El Makkaoui; Ibrahim Ouahbi
 >
@@ -1213,7 +1213,7 @@
 
 - **简介: 该论文提出一种基于Swin-UNETR的深度学习方法，实现从CT与轮廓直接预测IMRT九束流强图，替代传统耗时优化，提升自动化、准确性与效率，临床剂量验证结果优异。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08645v1](https://arxiv.org/pdf/2511.08645v1)**
 
 > **作者:** Ujunwa Mgboh; Rafi Sultan; Dongxiao Zhu; Joshua Kim
 >
@@ -1225,7 +1225,7 @@
 
 - **简介: 该论文提出ST-CLIP模型，首次将时空数据融入视觉-语言模型，提升交通场景理解（TSU）性能。通过动态时空上下文表示与多方面提示学习，解决传统方法忽略时空信息与场景关联的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08978v1](https://arxiv.org/pdf/2511.08978v1)**
 
 > **作者:** Jingtian Ma; Jingyuan Wang; Wayne Xin Zhao; Guoping Liu; Xiang Wen
 >
@@ -1237,7 +1237,7 @@
 #### [replaced 001] Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks
 - **分类: cs.LG; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04494v2](https://arxiv.org/pdf/2511.04494v2)**
 
 > **作者:** Alper Kalle; Theo Rudkiewicz; Mohamed-Oumar Ouerfelli; Mohamed Tamaazousti
 >
@@ -1249,7 +1249,7 @@
 #### [replaced 002] DG-DETR: Toward Domain Generalized Detection Transformer
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.19574v2](https://arxiv.org/pdf/2504.19574v2)**
 
 > **作者:** Seongmin Hwang; Daeyoung Han; Moongu Jeon
 >
@@ -1261,7 +1261,7 @@
 #### [replaced 003] Exploring the Adversarial Robustness of Face Forgery Detection with Decision-based Black-box Attacks
 - **分类: cs.CV; cs.CY**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2310.12017v2](https://arxiv.org/pdf/2310.12017v2)**
 
 > **作者:** Zhaoyu Chen; Bo Li; Kaixun Jiang; Shuang Wu; Shouhong Ding; Wenqiang Zhang
 >
@@ -1273,7 +1273,7 @@
 #### [replaced 004] Domain Adaptation from Generated Multi-Weather Images for Unsupervised Maritime Object Classification
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2501.15503v3](https://arxiv.org/pdf/2501.15503v3)**
 
 > **作者:** Dan Song; Shumeng Huo; Wenhui Li; Lanjun Wang; Chao Xue; An-An Liu
 >
@@ -1283,7 +1283,7 @@
 #### [replaced 005] DcMatch: Unsupervised Multi-Shape Matching with Dual-Level Consistency
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.01204v2](https://arxiv.org/pdf/2509.01204v2)**
 
 > **作者:** Tianwei Ye; Yong Ma; Xiaoguang Mei
 >
@@ -1295,7 +1295,7 @@
 #### [replaced 006] SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.06298v2](https://arxiv.org/pdf/2511.06298v2)**
 
 > **作者:** Xin Zuo; Yuchen Qu; Haibo Zhan; Jifeng Shen; Wankou Yang
 >
@@ -1307,7 +1307,7 @@
 #### [replaced 007] Weakly Supervised Pneumonia Localization from Chest X-Rays Using Deep Neural Network and Grad-CAM Explanations
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.00456v2](https://arxiv.org/pdf/2511.00456v2)**
 
 > **作者:** Kiran Shahi; Anup Bagale
 >
@@ -1319,7 +1319,7 @@
 #### [replaced 008] CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.18145v4](https://arxiv.org/pdf/2411.18145v4)**
 
 > **作者:** Xiao An; Jiaxing Sun; Zihan Gui; Wei He
 >
@@ -1331,7 +1331,7 @@
 #### [replaced 009] TiS-TSL: Image-Label Supervised Surgical Video Stereo Matching via Time-Switchable Teacher-Student Learning
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.06817v3](https://arxiv.org/pdf/2511.06817v3)**
 
 > **作者:** Rui Wang; Ying Zhou; Hao Wang; Wenwei Zhang; Qiang Li; Zhiwei Wang
 >
@@ -1343,7 +1343,7 @@
 #### [replaced 010] Differentiable, Bit-shifting, and Scalable Quantization without training neural network from scratch
 - **分类: cs.CV; cs.LG; stat.ML**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.16088v2](https://arxiv.org/pdf/2510.16088v2)**
 
 > **作者:** Zia Badar
 >
@@ -1353,7 +1353,7 @@
 #### [replaced 011] LMSeg: An end-to-end geometric message-passing network on barycentric dual graphs for large-scale landscape mesh segmentation
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2407.04326v4](https://arxiv.org/pdf/2407.04326v4)**
 
 > **作者:** Zexian Huang; Kourosh Khoshelham; Martin Tomko
 >
@@ -1363,7 +1363,7 @@
 #### [replaced 012] Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface
 - **分类: cs.CV; cs.GR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04029v3](https://arxiv.org/pdf/2511.04029v3)**
 
 > **作者:** Yihao Luo; Xianglong He; Chuanyu Pan; Yiwen Chen; Jiaqi Wu; Yangguang Li; Wanli Ouyang; Yuanming Hu; Guang Yang; ChoonHwai Yap
 >
@@ -1373,7 +1373,7 @@
 #### [replaced 013] SynWeather: Weather Observation Data Synthesis across Multiple Regions and Variables via a General Diffusion Transformer
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08291v2](https://arxiv.org/pdf/2511.08291v2)**
 
 > **作者:** Kaiyi Xu; Junchao Gong; Zhiwang Zhou; Zhangrui Li; Yuandong Pu; Yihao Liu; Ben Fei; Fenghua Ling; Wenlong Zhang; Lei Bei
 >
@@ -1385,7 +1385,7 @@
 #### [replaced 014] EvRWKV: A Continuous Interactive RWKV Framework for Effective Event-Guided Low-Light Image Enhancement
 - **分类: eess.IV; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.03184v3](https://arxiv.org/pdf/2507.03184v3)**
 
 > **作者:** Wenjie Cai; Qingguo Meng; Zhenyu Wang; Xingbo Dong; Zhe Jin
 >
@@ -1395,7 +1395,7 @@
 #### [replaced 015] Knowledge-Guided Brain Tumor Segmentation via Synchronized Visual-Semantic-Topological Prior Fusion
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.08574v2](https://arxiv.org/pdf/2507.08574v2)**
 
 > **作者:** Mingda Zhang; Kaiwen Pan
 >
@@ -1407,7 +1407,7 @@
 #### [replaced 016] LBMamba: Locally Bi-directional Mamba
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.15976v2](https://arxiv.org/pdf/2506.15976v2)**
 
 > **作者:** Jingwei Zhang; Xi Han; Hong Qin; Mahdi S. Hosseini; Dimitris Samaras
 >
@@ -1419,7 +1419,7 @@
 #### [replaced 017] evMLP: An Efficient Event-Driven MLP Architecture for Vision
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.01927v2](https://arxiv.org/pdf/2507.01927v2)**
 
 > **作者:** Zhentan Zheng
 >
@@ -1429,7 +1429,7 @@
 #### [replaced 018] Background Invariance Testing According to Semantic Proximity
 - **分类: cs.CV; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2208.09286v2](https://arxiv.org/pdf/2208.09286v2)**
 
 > **作者:** Zukang Liao; Min Chen
 >
@@ -1439,7 +1439,7 @@
 #### [replaced 019] A Bayesian Approach to Segmentation with Noisy Labels via Spatially Correlated Distributions
 - **分类: eess.IV; cs.CV; cs.LG; stat.ML**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.14795v2](https://arxiv.org/pdf/2504.14795v2)**
 
 > **作者:** Ryu Tadokoro; Tsukasa Takagi; Shin-ichi Maeda
 >
@@ -1449,7 +1449,7 @@
 #### [replaced 020] Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation
 - **分类: cs.CV; cs.AI; cs.CL; cs.MM**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.08906v2](https://arxiv.org/pdf/2503.08906v2)**
 
 > **作者:** Xiwen Chen; Wenhui Zhu; Peijie Qiu; Hao Wang; Huayu Li; Haiyu Wu; Aristeidis Sotiras; Yalin Wang; Abolfazl Razi
 >
@@ -1461,7 +1461,7 @@
 #### [replaced 021] Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models
 - **分类: cs.CV; cs.GR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.16602v2](https://arxiv.org/pdf/2411.16602v2)**
 
 > **作者:** Ronghuan Wu; Wanchao Su; Jing Liao
 >
@@ -1473,7 +1473,7 @@
 #### [replaced 022] Foam Segmentation in Wastewater Treatment Plants: A Federated Learning Approach with Segment Anything Model 2
 - **分类: cs.CV; cs.DC; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08130v2](https://arxiv.org/pdf/2511.08130v2)**
 
 > **作者:** Mehmet Batuhan Duman; Alejandro Carnero; Cristian Martín; Daniel Garrido; Manuel Díaz
 >
@@ -1485,7 +1485,7 @@
 #### [replaced 023] Rethinking Pan-sharpening: A New Training Process for Full-Resolution Generalization
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.15059v3](https://arxiv.org/pdf/2507.15059v3)**
 
 > **作者:** Ran Zhang; Xuanhua He; Li Xueheng; Ke Cao; Liu Liu; Wenbo Xu; Fang Jiabin; Yang Qize; Jie Zhang
 >
@@ -1495,7 +1495,7 @@
 #### [replaced 024] vS-Graphs: Tightly Coupling Visual SLAM and 3D Scene Graphs Exploiting Hierarchical Scene Understanding
 - **分类: cs.RO; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.01783v2](https://arxiv.org/pdf/2503.01783v2)**
 
 > **作者:** Ali Tourani; Saad Ejaz; Hriday Bavle; Miguel Fernandez-Cortizas; David Morilla-Cabello; Jose Luis Sanchez-Lopez; Holger Voos
 >
@@ -1507,7 +1507,7 @@
 #### [replaced 025] Trustworthy Pedestrian Trajectory Prediction via Pattern-Aware Interaction Modeling
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.13397v3](https://arxiv.org/pdf/2507.13397v3)**
 
 > **作者:** Kaiyuan Zhai; Juan Chen; Chao Wang; Zeyi Xu; Guoming Tang
 >
@@ -1517,7 +1517,7 @@
 #### [replaced 026] Synth-Align: Improving Trustworthiness in Vision-Language Model with Synthetic Preference Data Alignment
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2412.17417v2](https://arxiv.org/pdf/2412.17417v2)**
 
 > **作者:** Robert Wijaya; Ngoc-Bao Nguyen; Ngai-Man Cheung
 >
@@ -1527,7 +1527,7 @@
 #### [replaced 027] SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM
 - **分类: cs.RO; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.13713v4](https://arxiv.org/pdf/2504.13713v4)**
 
 > **作者:** Samuel Cerezo; Gaetano Meli; Tomás Berriel Martins; Kirill Safronov; Javier Civera
 >
@@ -1539,7 +1539,7 @@
 #### [replaced 028] Multimodal Adversarial Defense for Vision-Language Models by Leveraging One-To-Many Relationships
 - **分类: cs.CV; cs.AI; cs.IR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2405.18770v4](https://arxiv.org/pdf/2405.18770v4)**
 
 > **作者:** Futa Waseda; Antonio Tejero-de-Pablos; Isao Echizen
 >
@@ -1551,7 +1551,7 @@
 #### [replaced 029] PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography
 - **分类: eess.IV; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.04062v2](https://arxiv.org/pdf/2508.04062v2)**
 
 > **作者:** Yichi Zhang; Wenbo Zhang; Zehui Ling; Gang Feng; Sisi Peng; Deshu Chen; Yuchen Liu; Hongwei Zhang; Shuqi Wang; Lanlan Li; Limei Han; Yuan Cheng; Zixin Hu; Yuan Qi; Le Xue
 >
@@ -1563,7 +1563,7 @@
 #### [replaced 030] The Visual Counter Turing Test (VCT2): A Benchmark for Evaluating AI-Generated Image Detection and the Visual AI Index (VAI)
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.16754v2](https://arxiv.org/pdf/2411.16754v2)**
 
 > **作者:** Nasrin Imanpour; Abhilekh Borah; Shashwat Bajpai; Subhankar Ghosh; Sainath Reddy Sankepally; Hasnat Md Abdullah; Nishoak Kosaraju; Shreyas Dixit; Ashhar Aziz; Shwetangshu Biswas; Vinija Jain; Aman Chadha; Song Wang; Amit Sheth; Amitava Das
 >
@@ -1575,7 +1575,7 @@
 #### [replaced 031] A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning
 - **分类: cs.LG; cs.AI; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.00897v5](https://arxiv.org/pdf/2503.00897v5)**
 
 > **作者:** Shashank Gupta; Chaitanya Ahuja; Tsung-Yu Lin; Sreya Dutta Roy; Harrie Oosterhuis; Maarten de Rijke; Satya Narayan Shukla
 >
@@ -1585,7 +1585,7 @@
 #### [replaced 032] CART: Compositional Auto-Regressive Transformer for Image Generation
 - **分类: cs.CV; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.10180v3](https://arxiv.org/pdf/2411.10180v3)**
 
 > **作者:** Siddharth Roheda; Rohit Chowdhury; Aniruddha Bala; Rohan Jaiswal
 >
@@ -1597,7 +1597,7 @@
 #### [replaced 033] Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.16476v5](https://arxiv.org/pdf/2507.16476v5)**
 
 > **作者:** Ardhendu Sekhar; Vasu Soni; Keshav Aske; Garima Jain; Pranav Jeevan; Amit Sethi
 >
@@ -1607,7 +1607,7 @@
 #### [replaced 034] FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.23325v4](https://arxiv.org/pdf/2507.23325v4)**
 
 > **作者:** Yiming Yang; Hongbin Lin; Yueru Luo; Suzhong Fu; Chao Zheng; Xinrui Yan; Shuqi Mei; Kun Tang; Shuguang Cui; Zhen Li
 >
@@ -1617,7 +1617,7 @@
 #### [replaced 035] Multi-scale Cascaded Foundation Model for Whole-body Organs-at-risk Segmentation
 - **分类: eess.IV; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.15526v2](https://arxiv.org/pdf/2411.15526v2)**
 
 > **作者:** Rui Hao; Dayu Tan; Qiankun Li; Chunhou Zheng; Weimin Zhong; Zhigang Zeng
 >
@@ -1627,7 +1627,7 @@
 #### [replaced 036] Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2412.02054v2](https://arxiv.org/pdf/2412.02054v2)**
 
 > **作者:** Lizhen Xu; Zehao Wu; Wenzhao Qiu; Shanmin Pang; Xiuxiu Bai; Kuizhi Mei; Jianru Xue
 >
@@ -1639,7 +1639,7 @@
 #### [replaced 037] Robust Bayesian Scene Reconstruction with Retrieval-Augmented Priors for Precise Grasping and Planning
 - **分类: cs.CV; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.19461v3](https://arxiv.org/pdf/2411.19461v3)**
 
 > **作者:** Herbert Wright; Weiming Zhi; Martin Matak; Matthew Johnson-Roberson; Tucker Hermans
 >
@@ -1649,7 +1649,7 @@
 #### [replaced 038] What's Producible May Not Be Reachable: Measuring the Steerability of Generative Models
 - **分类: cs.LG; cs.AI; cs.CV; cs.HC**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.17482v2](https://arxiv.org/pdf/2503.17482v2)**
 
 > **作者:** Keyon Vafa; Sarah Bentley; Jon Kleinberg; Sendhil Mullainathan
 >
@@ -1659,7 +1659,7 @@
 #### [replaced 039] LangPose: Language-Aligned Motion for Robust 3D Human Pose Estimation
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2409.00449v2](https://arxiv.org/pdf/2409.00449v2)**
 
 > **作者:** Longyun Liao; Rong Zheng
 >
@@ -1671,7 +1671,7 @@
 #### [replaced 040] MOSformer: Momentum encoder-based inter-slice fusion transformer for medical image segmentation
 - **分类: eess.IV; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2401.11856v4](https://arxiv.org/pdf/2401.11856v4)**
 
 > **作者:** De-Xing Huang; Xiao-Hu Zhou; Mei-Jiang Gui; Xiao-Liang Xie; Shi-Qi Liu; Shuang-Yi Wang; Zhen-Qiu Feng; Zhi-Chao Lai; Zeng-Guang Hou
 >
@@ -1683,7 +1683,7 @@
 #### [replaced 041] LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization
 - **分类: cs.CV; cs.GR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.23740v2](https://arxiv.org/pdf/2505.23740v2)**
 
 > **作者:** Ronghuan Wu; Wanchao Su; Jing Liao
 >
@@ -1695,7 +1695,7 @@
 #### [replaced 042] Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04864v2](https://arxiv.org/pdf/2511.04864v2)**
 
 > **作者:** Kyle Fogarty; Chenyue Cai; Jing Yang; Zhilin Guo; Cengiz Öztireli
 >
@@ -1707,7 +1707,7 @@
 #### [replaced 043] Improving Adversarial Transferability with Neighbourhood Gradient Information
 - **分类: cs.CV; cs.CR**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2408.05745v2](https://arxiv.org/pdf/2408.05745v2)**
 
 > **作者:** Haijing Guo; Jiafeng Wang; Zhaoyu Chen; Kaixun Jiang; Lingyi Hong; Pinxue Guo; Jinglun Li; Wenqiang Zhang
 >
@@ -1719,7 +1719,7 @@
 #### [replaced 044] OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.05427v3](https://arxiv.org/pdf/2507.05427v3)**
 
 > **作者:** Shiting Xiao; Rishabh Kabra; Yuhang Li; Donghyun Lee; Joao Carreira; Priyadarshini Panda
 >
@@ -1729,7 +1729,7 @@
 #### [replaced 045] A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.17004v2](https://arxiv.org/pdf/2506.17004v2)**
 
 > **作者:** Hanlin Wu; Pengfei Lin; Ehsan Javanmardi; Naren Bao; Bo Qian; Hao Si; Manabu Tsukada
 >
@@ -1739,7 +1739,7 @@
 #### [replaced 046] Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models
 - **分类: cs.LG; cs.AI; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.04834v2](https://arxiv.org/pdf/2511.04834v2)**
 
 > **作者:** Jiwoo Shin; Byeonghu Na; Mina Kang; Wonhyeok Choi; Il-Chul Moon
 >
@@ -1751,7 +1751,7 @@
 #### [replaced 047] FS-DAG: Few Shot Domain Adapting Graph Networks for Visually Rich Document Understanding
 - **分类: cs.CV; cs.AI; cs.CL; cs.IR; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.17330v2](https://arxiv.org/pdf/2505.17330v2)**
 
 > **作者:** Amit Agarwal; Srikant Panda; Kulbhushan Pachauri
 >
@@ -1763,7 +1763,7 @@
 #### [replaced 048] LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics
 - **分类: cs.LG; cs.AI; cs.CV; stat.ML**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08544v2](https://arxiv.org/pdf/2511.08544v2)**
 
 > **作者:** Randall Balestriero; Yann LeCun
 >
@@ -1773,7 +1773,7 @@
 #### [replaced 049] Procedure Learning via Regularized Gromov-Wasserstein Optimal Transport
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.15540v2](https://arxiv.org/pdf/2507.15540v2)**
 
 > **作者:** Syed Ahmed Mahmood; Ali Shah Ali; Umer Ahmed; Fawad Javed Fateh; M. Zeeshan Zia; Quoc-Huy Tran
 >
@@ -1785,7 +1785,7 @@
 #### [replaced 050] Raw Data Matters: Enhancing Prompt Tuning by Internal Augmentation on Vision-Language Models
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.02671v2](https://arxiv.org/pdf/2508.02671v2)**
 
 > **作者:** Haoyang Li; Liang Wang; Chao Wang; Siyu Zhou; Jing Jiang; Yan Peng; Guodong Long
 >
@@ -1797,7 +1797,7 @@
 #### [replaced 051] Bridging Synthetic and Real-World Domains: A Human-in-the-Loop Weakly-Supervised Framework for Industrial Toxic Emission Segmentation
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.22002v2](https://arxiv.org/pdf/2507.22002v2)**
 
 > **作者:** Yida Tao; Yen-Chia Hsu
 >
@@ -1807,7 +1807,7 @@
 #### [replaced 052] DiffRegCD: Integrated Registration and Change Detection with Diffusion Features
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07935v2](https://arxiv.org/pdf/2511.07935v2)**
 
 > **作者:** Seyedehanita Madani; Rama Chellappa; Vishal M. Patel
 >
@@ -1819,7 +1819,7 @@
 #### [replaced 053] Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.05999v3](https://arxiv.org/pdf/2507.05999v3)**
 
 > **作者:** Xinyu Wang; Muhammad Ibrahim; Haitian Wang; Atif Mansoor; Xiuping Jia; Ajmal Mian
 >
@@ -1831,7 +1831,7 @@
 #### [replaced 054] Mapping Hidden Heritage: Self-supervised Pre-training for Archaeological Stone Wall Mapping in Historic Landscapes Using High-Resolution DEM Derivatives
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.17644v2](https://arxiv.org/pdf/2510.17644v2)**
 
 > **作者:** Zexian Huang; Mashnoon Islam; Brian Armstrong; Billy Bell; Kourosh Khoshelham; Martin Tomko
 >
@@ -1841,7 +1841,7 @@
 #### [replaced 055] UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets
 - **分类: eess.IV; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.16222v2](https://arxiv.org/pdf/2411.16222v2)**
 
 > **作者:** Adrien Meyer; Aditya Murali; Farahdiba Zarin; Didier Mutter; Nicolas Padoy
 >
@@ -1853,7 +1853,7 @@
 #### [replaced 056] MAUGIF: Mechanism-Aware Unsupervised General Image Fusion via Dual Cross-Image Autoencoders
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08272v2](https://arxiv.org/pdf/2511.08272v2)**
 
 > **作者:** Kunjing Yang; Zhiwei Wang; Minru Bai
 >
@@ -1863,7 +1863,7 @@
 #### [replaced 057] The Power of Many: Synergistic Unification of Diverse Augmentations for Efficient Adversarial Robustness
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.03213v2](https://arxiv.org/pdf/2508.03213v2)**
 
 > **作者:** Wang Yu-Hang; Shiwei Li; Jianxiang Liao; Li Bohan; Jian Liu; Wenfei Yin
 >
@@ -1875,7 +1875,7 @@
 #### [replaced 058] Mapping Reduced Accessibility to WASH Facilities in Rohingya Refugee Camps with Sub-Meter Imagery
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07231v2](https://arxiv.org/pdf/2511.07231v2)**
 
 > **作者:** Kyeongjin Ahn; YongHun Suh; Sungwon Han; Jeasurk Yang; Hannes Taubenböck; Meeyoung Cha
 >
@@ -1887,7 +1887,7 @@
 #### [replaced 059] VPN: Visual Prompt Navigation
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.01766v5](https://arxiv.org/pdf/2508.01766v5)**
 
 > **作者:** Shuo Feng; Zihan Wang; Yuchen Li; Rui Kong; Hengyi Cai; Shuaiqiang Wang; Gim Hee Lee; Piji Li; Shuqiang Jiang
 >
@@ -1899,7 +1899,7 @@
 #### [replaced 060] A Mixture-of-Experts Framework with Log-Logistic Components for Survival Analysis on Histopathology Images
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.06266v2](https://arxiv.org/pdf/2511.06266v2)**
 
 > **作者:** Ardhendu Sekhar; Vasu Soni; Keshav Aske; Shivam Madnoorkar; Pranav Jeevan; Amit Sethi
 >
@@ -1909,7 +1909,7 @@
 #### [replaced 061] EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08007v2](https://arxiv.org/pdf/2511.08007v2)**
 
 > **作者:** Yifei Cao; Yu Liu; Guolong Wang; Zhu Liu; Kai Wang; Xianjie Zhang; Jizhe Yu; Xun Tu
 >
@@ -1921,7 +1921,7 @@
 #### [replaced 062] Learning More by Seeing Less: Structure First Learning for Efficient, Transferable, and Human-Aligned Vision
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.06696v2](https://arxiv.org/pdf/2508.06696v2)**
 
 > **作者:** Tianqin Li; George Liu; Tai Sing Lee
 >
@@ -1931,7 +1931,7 @@
 #### [replaced 063] GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.22397v3](https://arxiv.org/pdf/2503.22397v3)**
 
 > **作者:** Vida Adeli; Soroush Mehraban; Majid Mirmehdi; Alan Whone; Benjamin Filtjens; Amirhossein Dadashzadeh; Alfonso Fasano; Andrea Iaboni; Babak Taati
 >
@@ -1943,7 +1943,7 @@
 #### [replaced 064] Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.16479v2](https://arxiv.org/pdf/2505.16479v2)**
 
 > **作者:** Yuetong Liu; Yunqiu Xu; Yang Wei; Xiuli Bi; Bin Xiao
 >
@@ -1955,7 +1955,7 @@
 #### [replaced 065] HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.03536v2](https://arxiv.org/pdf/2504.03536v2)**
 
 > **作者:** Boyuan Wang; Runqi Ouyang; Xiaofeng Wang; Zheng Zhu; Guosheng Zhao; Chaojun Ni; Xiaopei Zhang; Guan Huang; Yijie Ren; Lihong Liu; Xingang Wang
 >
@@ -1967,7 +1967,7 @@
 #### [replaced 066] Surgical AI Copilot: Energy-Based Fourier Gradient Low-Rank Adaptation for Surgical LLM Agent Reasoning and Planning
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.09474v2](https://arxiv.org/pdf/2503.09474v2)**
 
 > **作者:** Jiayuan Huang; Runlong He; Danyal Zaman Khan; Evangelos B. Mazomenos; Danail Stoyanov; Hani Marcus; Linzhe Jiang; Matthew J Clarkson; Mobarak I. Hoque
 >
@@ -1979,7 +1979,7 @@
 #### [replaced 067] Sim-to-Real: An Unsupervised Noise Layer for Screen-Camera Watermarking Robustness
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.18906v3](https://arxiv.org/pdf/2504.18906v3)**
 
 > **作者:** Yufeng Wu; Xin Liao; Baowei Wang; Han Fang; Xiaoshuai Wu; Mingyue Chen; Guiling Wang
 >
@@ -1991,7 +1991,7 @@
 #### [replaced 068] SASG-DA: Sparse-Aware Semantic-Guided Diffusion Augmentation For Myoelectric Gesture Recognition
 - **分类: cs.CV; cs.AI; cs.HC**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08344v2](https://arxiv.org/pdf/2511.08344v2)**
 
 > **作者:** Chen Liu; Can Han; Weishi Xu; Yaqi Wang; Dahong Qian
 >
@@ -2003,7 +2003,7 @@
 #### [replaced 069] Improved Wildfire Spread Prediction with Time-Series Data and the WSTS+ Benchmark
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2502.12003v3](https://arxiv.org/pdf/2502.12003v3)**
 
 > **作者:** Saad Lahrichi; Jake Bova; Jesse Johnson; Jordan Malof
 >
@@ -2015,7 +2015,7 @@
 #### [replaced 070] TopoStreamer: Temporal Lane Segment Topology Reasoning in Autonomous Driving
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.00709v5](https://arxiv.org/pdf/2507.00709v5)**
 
 > **作者:** Yiming Yang; Yueru Luo; Bingkun He; Hongbin Lin; Suzhong Fu; Chao Zheng; Zhipeng Cao; Erlong Li; Chao Yan; Shuguang Cui; Zhen Li
 >
@@ -2025,7 +2025,7 @@
 #### [replaced 071] DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.04323v2](https://arxiv.org/pdf/2507.04323v2)**
 
 > **作者:** Paul Hill; Zhiming Liu; Alin Achim; Dave Bull; Nantheera Anantrasirichai
 >
@@ -2037,7 +2037,7 @@
 #### [replaced 072] GreedyPixel: Fine-Grained Black-Box Adversarial Attack Via Greedy Algorithm
 - **分类: cs.CV; cs.CR; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2501.14230v3](https://arxiv.org/pdf/2501.14230v3)**
 
 > **作者:** Hanrui Wang; Ching-Chun Chang; Chun-Shien Lu; Christopher Leckie; Isao Echizen
 >
@@ -2049,7 +2049,7 @@
 #### [replaced 073] GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.14891v2](https://arxiv.org/pdf/2508.14891v2)**
 
 > **作者:** Licheng Shen; Saining Zhang; Honghan Li; Peilin Yang; Zihao Huang; Zongzheng Zhang; Hao Zhao
 >
@@ -2061,7 +2061,7 @@
 #### [replaced 074] PISA-Bench: The PISA Index as a Multilingual and Multimodal Metric for the Evaluation of Vision-Language Models
 - **分类: cs.CV; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.24792v2](https://arxiv.org/pdf/2510.24792v2)**
 
 > **作者:** Patrick Haller; Fabio Barth; Jonas Golde; Georg Rehm; Alan Akbik
 >
@@ -2073,7 +2073,7 @@
 #### [replaced 075] Adjacent-view Transformers for Supervised Surround-view Depth Estimation
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2303.07759v4](https://arxiv.org/pdf/2303.07759v4)**
 
 > **作者:** Xianda Guo; Wenjie Yuan; Yunpeng Zhang; Tian Yang; Chenming Zhang; Zheng Zhu; Qin Zou; Long Chen
 >
@@ -2085,7 +2085,7 @@
 #### [replaced 076] ACDC: The Adverse Conditions Dataset with Correspondences for Robust Semantic Driving Scene Perception
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2104.13395v5](https://arxiv.org/pdf/2104.13395v5)**
 
 > **作者:** Christos Sakaridis; Haoran Wang; Ke Li; René Zurbrügg; Arpit Jadon; Wim Abbeloos; Daniel Olmeda Reino; Luc Van Gool; Dengxin Dai
 >
@@ -2097,7 +2097,7 @@
 #### [replaced 077] An Instance-Aware Prompting Framework for Training-free Camouflaged Object Segmentation
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.06904v3](https://arxiv.org/pdf/2508.06904v3)**
 
 > **作者:** Chao Yin; Jide Li; Hang Yao; Xiaoqiang Li
 >
@@ -2109,7 +2109,7 @@
 #### [replaced 078] ArchCAD-400K: A Large-Scale CAD drawings Dataset and New Baseline for Panoptic Symbol Spotting
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.22346v3](https://arxiv.org/pdf/2503.22346v3)**
 
 > **作者:** Ruifeng Luo; Zhengjie Liu; Tianxiao Cheng; Jie Wang; Tongjie Wang; Xingguang Wei; Haomin Wang; YanPeng Li; Fu Chai; Fei Cheng; Shenglong Ye; Wenhai Wang; Yanting Zhang; Yu Qiao; Hongjie Zhang; Xianzhong Zhao
 >
@@ -2119,7 +2119,7 @@
 #### [replaced 079] RL-U$^2$Net: A Dual-Branch UNet with Reinforcement Learning-Assisted Multimodal Feature Fusion for Accurate 3D Whole-Heart Segmentation
 - **分类: eess.IV; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.02557v2](https://arxiv.org/pdf/2508.02557v2)**
 
 > **作者:** Jierui Qu; Jianchun Zhao
 >
@@ -2129,7 +2129,7 @@
 #### [replaced 080] RAFT - A Domain Adaptation Framework for RGB & LiDAR Semantic Segmentation
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.04529v4](https://arxiv.org/pdf/2505.04529v4)**
 
 > **作者:** Edward Humes; Xiaomin Lin; Boxun Hu; Rithvik Jonna; Tinoosh Mohsenin
 >
@@ -2141,7 +2141,7 @@
 #### [replaced 081] DI3CL: Contrastive Learning With Dynamic Instances and Contour Consistency for SAR Land-Cover Classification Foundation Model
 - **分类: cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07808v2](https://arxiv.org/pdf/2511.07808v2)**
 
 > **作者:** Zhongle Ren; Hui Ding; Kai Wang; Biao Hou; Xingyu Luo; Weibin Li; Licheng Jiao
 >
@@ -2153,7 +2153,7 @@
 #### [replaced 082] FlowLensing: Simulating Gravitational Lensing with Flow Matching
 - **分类: astro-ph.IM; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.07878v2](https://arxiv.org/pdf/2510.07878v2)**
 
 > **作者:** Hamees Sayed; Pranath Reddy; Michael W. Toomey; Sergei Gleyzer
 >

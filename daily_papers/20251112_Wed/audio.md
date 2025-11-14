@@ -11,7 +11,7 @@
 
 - **简介: 该论文研究Whisper-small的后训练量化（PTQ），旨在解决其在边缘设备部署难的问题。对比四类库的量化方案，发现动态int8量化在压缩57%模型体积下仍提升词错误率，实现高效无重训练部署。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08093v1](https://arxiv.org/pdf/2511.08093v1)**
 
 > **作者:** Arthur Söhler; Julian Irigoyen; Andreas Søeborg Kirkedal
 >
@@ -25,7 +25,7 @@
 
 - **简介: 论文提出MutterMeter，首次实现耳戴设备对日常环境中自言自语的自动检测，解决传统语音模型难以处理其碎片化、非规则性的问题，通过多模态层次分类实现高精度识别（F1=0.84）。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07493v1](https://arxiv.org/pdf/2511.07493v1)**
 
 > **作者:** Euihyeok Lee; Seonghyeon Kim; SangHun Im; Heung-Seon Oh; Seungwoo Kang
 >
@@ -37,7 +37,7 @@
 
 - **简介: 该论文将剪枝视为ASR中的正则化手段，提出敏感性感知的一次性剪枝方法，识别模型冗余结构（如编码器末层），在不微调下显著降低WER，提升泛化能力，并在高稀疏度下保持性能，重塑剪枝为架构设计工具。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08092v1](https://arxiv.org/pdf/2511.08092v1)**
 
 > **作者:** Julian Irigoyen; Arthur Söhler; Andreas Søeborg Kirkedal
 >
@@ -51,7 +51,7 @@
 
 - **简介: 该论文研究生物声学中多标签鸟鸣分类器的不确定性校准问题，系统评估四类模型的校准性能，发现其存在欠置信或过置信现象，并证明简单后校准方法（如Platt缩放）可显著提升校准效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08261v1](https://arxiv.org/pdf/2511.08261v1)**
 
 > **作者:** Raphael Schwinger; Ben McEwen; Vincent S. Kather; René Heinrich; Lukas Rauch; Sven Tomforde
 >
@@ -65,7 +65,7 @@
 
 - **简介: 该论文研究基于LLM生成的更真实声学场景的DOA估计任务，提出轻量级模型LightDOA，利用深度可分离卷积提升多通道音频在复杂环境中的估计精度与效率，解决传统方法泛化性差与计算开销大的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08012v1](https://arxiv.org/pdf/2511.08012v1)**
 
 > **作者:** Haowen Li; Zhengding Luo; Dongyuan Shi; Boxiang Wang; Junwei Ji; Ziyi Yang; Woon-Seng Gan
 >
@@ -77,7 +77,7 @@
 
 - **简介: 该论文提出MEGAMI，一种生成式音乐混音框架，解决传统方法将混音视为确定性回归而忽略多解性的问题。通过条件生成嵌入与排列等变架构，实现对未标注音轨的高质量自动混音，逼近人耳水平。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08040v1](https://arxiv.org/pdf/2511.08040v1)**
 
 > **作者:** Eloi Moliner; Marco A. Martínez-Ramírez; Junghyun Koo; Wei-Hsiang Liao; Kin Wai Cheuk; Joan Serrà; Vesa Välimäki; Yuki Mitsufuji
 >
@@ -91,7 +91,7 @@
 
 - **简介: 论文提出SpeechJudge，面向语音自然度评估，解决人类偏好数据稀缺问题。构建99K语音对数据集、评估基准与生成奖励模型GRM，显著提升模型对人类判断的对齐能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07931v1](https://arxiv.org/pdf/2511.07931v1)**
 
 > **作者:** Xueyao Zhang; Chaoren Wang; Huan Liao; Ziniu Li; Yuancheng Wang; Li Wang; Dongya Jia; Yuanzhe Chen; Xiulin Li; Zhuo Chen; Zhizheng Wu
 >
@@ -105,7 +105,7 @@
 
 - **简介: 该论文面向语音情感识别（SER）任务，旨在利用语音产生的生理信息（发声激励与发音动力学）提升识别性能。作者构建了含EGG/EMA数据的STEM-E2VA数据集，并探索了通过语音逆推生理信号的可行性，验证了生理信息对SER的有效性与实用潜力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07955v1](https://arxiv.org/pdf/2511.07955v1)**
 
 > **作者:** Ziqian Zhang; Min Huang; Zhongzhe Xiao
 >
@@ -117,7 +117,7 @@
 
 - **简介: 该论文提出SynTTS-Commands，一个基于TTS合成的多语言语音命令数据集，解决边缘设备KWS训练数据稀缺问题，实现英语99.5%、中文98%的识别准确率，验证合成语音可替代真人录音。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07821v1](https://arxiv.org/pdf/2511.07821v1)**
 
 > **作者:** Lu Gan; Xi Li
 >
@@ -129,7 +129,7 @@
 
 - **简介: 该论文针对听障儿童在教室环境中语音分离困难的问题，提出基于MIMO-TasNet的多通道语音分离模型，利用空间线索并结合教室场景数据训练，实现高效迁移学习，显著提升对儿童语音的分离效果与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07677v1](https://arxiv.org/pdf/2511.07677v1)**
 
 > **作者:** Feyisayo Olalere; Kiki van der Heijden; H. Christiaan Stronks; Jeroen Briaire; Johan H. M. Frijns; Yagmur Güçlütürk
 >
@@ -143,7 +143,7 @@
 
 - **简介: 该论文提出一种统一的接口模块，融合多模型多层表征，解决语音基础模型中模型间与层间融合割裂问题，在ASR和副语言分析等任务上超越现有方法，提升性能与可扩展性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08389v1](https://arxiv.org/pdf/2511.08389v1)**
 
 > **作者:** Yi-Jen Shih; David Harwath
 >
@@ -157,7 +157,7 @@
 
 - **简介: 该论文提出Melodia，一种无训练的音乐编辑方法，通过干预扩散模型中的自注意力图，保留源音乐的时序结构（如旋律、节奏），同时精准修改乐器、风格等属性，无需文本描述，显著提升编辑效果。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08252v1](https://arxiv.org/pdf/2511.08252v1)**
 
 > **作者:** Yi Yang; Haowen Li; Tianxiang Li; Boyu Cao; Xiaohan Zhang; Liqun Chen; Qi Liu
 >
@@ -171,7 +171,7 @@
 
 - **简介: 论文提出SpikCommander，一种高效脉冲Transformer，用于语音命令识别。通过多视角脉冲时序注意力（MSTASA）和脉冲上下文细化模块，提升时序建模能力，解决传统脉冲网络信息表达不足问题，在多个数据集上以更少参数超越SOTA。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07883v1](https://arxiv.org/pdf/2511.07883v1)**
 
 > **作者:** Jiaqi Wang; Liutao Yu; Xiongri Shen; Sihang Guo; Chenlin Zhou; Leilei Zhao; Yi Zhong; Zhengyu Ma; Zhiguo Zhang
 >
@@ -185,7 +185,7 @@
 
 - **简介: 该论文提出HQ-SVC，用于低资源场景下的零样本歌唱语音转换，解决传统方法信息丢失与计算昂贵问题。通过联合编码与可微信号处理，提升音质与效率，并支持语音超分辨率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08496v1](https://arxiv.org/pdf/2511.08496v1)**
 
 > **作者:** Bingsong Bai; Yizhong Geng; Fengping Wang; Cong Wang; Puyuan Guo; Yingming Gao; Ya Li
 >
@@ -199,7 +199,7 @@
 #### [replaced 001] TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data
 - **分类: cs.SD**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.15614v3](https://arxiv.org/pdf/2506.15614v3)**
 
 > **作者:** Kentaro Seki; Shinnosuke Takamichi; Takaaki Saeki; Hiroshi Saruwatari
 >
@@ -211,7 +211,7 @@
 #### [replaced 002] AcousTools: A 'Full-Stack', Python-Based, Acoustic Holography Library
 - **分类: cs.SD; cs.ET**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07336v2](https://arxiv.org/pdf/2511.07336v2)**
 
 > **作者:** Joshua Mukherjee; Giorgos Christopoulos; Zhouyang Shen; Sriram Subramanian; Ryuji Hirayama
 >
@@ -223,7 +223,7 @@
 #### [replaced 003] Quality Over Quantity? LLM-Based Curation for a Data-Efficient Audio-Video Foundation Model
 - **分类: cs.MM; cs.CL; cs.IR; cs.SD; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.09205v4](https://arxiv.org/pdf/2503.09205v4)**
 
 > **作者:** Ali Vosoughi; Dimitra Emmanouilidou; Hannes Gamper
 >
@@ -235,7 +235,7 @@
 #### [replaced 004] Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding
 - **分类: eess.AS; cs.SD**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.04685v2](https://arxiv.org/pdf/2509.04685v2)**
 
 > **作者:** Rui-Chen Zheng; Wenrui Liu; Hui-Peng Du; Qinglin Zhang; Chong Deng; Qian Chen; Wen Wang; Yang Ai; Zhen-Hua Ling
 >
@@ -247,7 +247,7 @@
 #### [replaced 005] UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation
 - **分类: cs.CV; cs.SD; eess.AS**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.04134v4](https://arxiv.org/pdf/2506.04134v4)**
 
 > **作者:** Jinting Wang; Shan Yang; Chenxing Li; Dong Yu; Li Liu
 >

@@ -11,7 +11,7 @@
 
 - **简介: 该论文提出Game-Theoretic Nested Search（GTNS），用于在多智能体交互中高效计算纳什均衡，解决传统方法因动态简化或轨迹枚举导致的可扩展性差与局部最优问题，实现复杂动态系统下的实时安全规划。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08001v1](https://arxiv.org/pdf/2511.08001v1)**
 
 > **作者:** Avishav Engle; Andrey Zhitnikov; Oren Salzman; Omer Ben-Porat; Kiril Solovey
 >
@@ -23,7 +23,7 @@
 
 - **简介: 该论文提出一种双层静电薄膜执行器，解决传统执行器应力低、需外置制动的问题。通过上下层交错电极设计，实现241 N/m²的高驱动力（提升90.5%），并集成静电吸附制动，验证了其在机器人中的高效驱动与锁紧能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08005v1](https://arxiv.org/pdf/2511.08005v1)**
 
 > **作者:** Huacen Wang; Hongqiang Wang
 >
@@ -35,7 +35,7 @@
 
 - **简介: 该论文提出一种触觉编码的脑机接口，通过激活感觉传入通路实现对超数机械肢的直观控制，解决多自由度辅助运动与自然动作冲突问题，实验证明其可无干扰地实时控制双臂辅助双手法任务。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08454v1](https://arxiv.org/pdf/2511.08454v1)**
 
 > **作者:** Tianyu Jia; Xingchen Yang; Ciaran McGeady; Yifeng Li; Jinzhi Lin; Kit San Ho; Feiyu Pan; Linhong Ji; Chong Li; Dario Farina
 >
@@ -47,7 +47,7 @@
 
 - **简介: 该论文属于多智能体协作任务，旨在解决LLM缺乏视角采择与主动视觉理解的问题。通过扩展ReAct框架并引入七种复杂场景，结合主动视觉探索与视角提示，显著提升了LLM对他人观点的理解与协作能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08098v1](https://arxiv.org/pdf/2511.08098v1)**
 
 > **作者:** Sabrina Patania; Luca Annese; Anita Pellegrini; Silvia Serino; Anna Lambiase; Luca Pallonetto; Silvia Rossi; Simone Colombani; Tom Foulsham; Azzurra Ruggeri; Dimitri Ognibene
 >
@@ -61,7 +61,7 @@
 
 - **简介: 该论文提出一种多保真残差物理信息神经过程（MFR-PINP）方法，用于机器人实时状态估计，解决传统模型失配与不确定性量化问题，结合分裂共形预测框架提供可靠误差界，实验表明其性能优于经典卡尔曼滤波器。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08231v1](https://arxiv.org/pdf/2511.08231v1)**
 
 > **作者:** Devin Hunter; Chinwendu Enyioha
 >
@@ -75,7 +75,7 @@
 
 - **简介: 该论文针对非结构化环境中无人车的局部路径规划问题，提出融合切线规划与轨迹外推的算法，实现在动态障碍物（多项式轨迹）中的安全避障，仿真验证了其有效性和实时性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07927v1](https://arxiv.org/pdf/2511.07927v1)**
 
 > **作者:** Okan Arif Guvenkaya; Selim Ahmet Iz; Mustafa Unel
 >
@@ -87,7 +87,7 @@
 
 - **简介: 该论文提出基于HoloOcean 2.0的软硬件在环（HIL/SIL）仿真系统，解决水下机器人在有限空间内难以测试传感器与控制算法的问题，通过ROS 2桥接实现实物AUV与高保真仿真交互，并验证仿真结果与实测数据的一致性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07687v1](https://arxiv.org/pdf/2511.07687v1)**
 
 > **作者:** Braden Meyers; Joshua G. Mangelson
 >
@@ -101,7 +101,7 @@
 
 - **简介: 该论文提出一种去中心化 swarm 智能策略，解决长铰接车辆集群的侧翻（jackknifing）与碰撞问题，首次实现纯反应式避障控制，仿真验证其在单车与多车场景下高效规避侧翻（>98%）并避免碰撞（>99%）。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08016v1](https://arxiv.org/pdf/2511.08016v1)**
 
 > **作者:** Adrian Schönnagel; Michael Dubé; Christoph Steup; Felix Keppler; Sanaz Mostaghim
 >
@@ -115,7 +115,7 @@
 
 - **简介: 该论文提出时间感知策略学习，将时间作为可控变量引入强化学习，使机器人能自适应调整动作节奏，提升效率、鲁棒性与人机协同能力，解决传统方法忽视时间维度的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07654v1](https://arxiv.org/pdf/2511.07654v1)**
 
 > **作者:** Yinsen Jia; Boyuan Chen
 >
@@ -127,7 +127,7 @@
 
 - **简介: 该论文研究高空浮空器定点控制问题，提出基于可微分模型预测控制（FOMPC），通过在线优化实现比强化学习更优的定点精度，无需离线训练，验证了模型基方法在复杂风场下的有效性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07761v1](https://arxiv.org/pdf/2511.07761v1)**
 
 > **作者:** Myles Pasetsky; Jiawei Lin; Bradley Guo; Sarah Dean
 >
@@ -139,7 +139,7 @@
 
 - **简介: 该论文属于控制理论与机器学习交叉任务，旨在解决传统MPC在非线性、非可微系统中优化困难的问题。通过概率推断框架，统一阐述并推导了MPPI等采样驱动方法，提供了一套可扩展的非梯度优化指南。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08019v1](https://arxiv.org/pdf/2511.08019v1)**
 
 > **作者:** Kohei Honda
 >
@@ -153,7 +153,7 @@
 
 - **简介: 该论文对比硅胶与聚氨酯基视觉触觉传感器的耐久性与灵敏度，提出标准化评估协议，解决硅胶易磨损问题，证实聚氨酯在高负载场景下更具鲁棒性，同时保持实用灵敏度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07797v1](https://arxiv.org/pdf/2511.07797v1)**
 
 > **作者:** Benjamin Davis; Hannah Stuart
 >
@@ -165,7 +165,7 @@
 
 - **简介: 该论文提出基于加权时序逻辑（WSTL）的偏好学习方法，解决安全关键系统中从人类反馈学习最优行为但缺乏安全保证的问题，通过结构剪枝与对数变换将其转化为混合整数线性规划，确保安全性与高效性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08502v1](https://arxiv.org/pdf/2511.08502v1)**
 
 > **作者:** Ruya Karagulle; Cristian-Ioan Vasile; Necmiye Ozay
 >
@@ -179,7 +179,7 @@
 
 - **简介: 论文提出LLM-GROP框架，结合大语言模型与视觉感知，解决多物体移动机器人任务与运动规划（TAMP）问题，利用常识知识与基位选择策略，实现复杂场景下的自适应物体重组。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07727v1](https://arxiv.org/pdf/2511.07727v1)**
 
 > **作者:** Xiaohan Zhang; Yan Ding; Yohei Hayamizu; Zainab Altaweel; Yifeng Zhu; Yuke Zhu; Peter Stone; Chris Paxton; Shiqi Zhang
 >
@@ -191,7 +191,7 @@
 
 - **简介: 该论文针对边缘环境下自主移动机器人（AMR）的容器编排问题，对比CODECO与Kubernetes的性能，验证CODECO在降低CPU开销、稳定通信方面的优势，虽有轻微内存与延迟代价，更适合资源受限的边缘场景。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08354v1](https://arxiv.org/pdf/2511.08354v1)**
 
 > **作者:** H. Zhu; T. Samizadeh; R. C. Sofia
 >
@@ -203,7 +203,7 @@
 
 - **简介: 论文提出EquiMus框架，解决软硬混合肌骨机器人动态建模与仿真难题，通过能量等效方法实现高效模拟，并在仿生腿上验证其在控制设计与学习中的有效性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07887v1](https://arxiv.org/pdf/2511.07887v1)**
 
 > **作者:** Yinglei Zhu; Xuguang Dong; Qiyao Wang; Qi Shao; Fugui Xie; Xinjun Liu; Huichan Zhao
 >
@@ -215,7 +215,7 @@
 
 - **简介: 该论文研究机械层锁定系统，旨在解决软体机器人刚度调控问题。通过双层带齿结构实现弯曲和扭转下的刚度调制，系统测试了齿形参数对性能的影响，发现刚度可提升5倍（弯曲）和3.2倍（扭转），并量化了层间分离力，为设计提供指导。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07882v1](https://arxiv.org/pdf/2511.07882v1)**
 
 > **作者:** Jessica Gumowski; Krishna Manaswi Digumarti; David Howard
 >
@@ -229,7 +229,7 @@
 
 - **简介: 该论文针对蝾螈型四足机器人，提出一种无参考轨迹的强化学习框架，通过相位变量与对称性数据增强，自主学习22种全向步态，解决传统方法依赖预设轨迹、灵活性不足的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08299v1](https://arxiv.org/pdf/2511.08299v1)**
 
 > **作者:** Zhiang Liu; Yang Liu; Yongchun Fang; Xian Guo
 >
@@ -241,7 +241,7 @@
 
 - **简介: 该论文提出Psychic框架，用于遥操作中的人体运动意图推断，通过SINDy模型结合跳跃-漂移-扩散方程，检测轨迹突变并融合连续/离散动力学，实现未结构化场景下的意图早期识别与行为建模。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08377v1](https://arxiv.org/pdf/2511.08377v1)**
 
 > **作者:** Michael Bowman; Xiaoli Zhang
 >
@@ -255,7 +255,7 @@
 
 - **简介: 该论文提出一种轻量级图像空间导航框架，解决传统方法依赖地图或大量数据、泛化差的问题，融合语义理解、帕累托最优决策与视觉伺服，实现无需地图的实时自适应视觉导航。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07750v1](https://arxiv.org/pdf/2511.07750v1)**
 
 > **作者:** Durgakant Pushp; Weizhe Chen; Zheng Chen; Chaomin Luo; Jason M. Gregory; Lantao Liu
 >
@@ -267,7 +267,7 @@
 
 - **简介: 论文提出RoboTAG，用于从单目图像估计机器人位姿，解决标注数据稀缺与3D先验缺失问题。通过双分支图结构融合2D/3D表示，利用拓扑一致性实现无监督训练，提升跨机器人类型泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07717v1](https://arxiv.org/pdf/2511.07717v1)**
 
 > **作者:** Yifan Liu; Fangneng Zhan; Wanhua Li; Haowen Sun; Katerina Fragkiadaki; Hanspeter Pfister
 >
@@ -279,7 +279,7 @@
 
 - **简介: CAVER是一种好奇驱动的音频视觉机器人，通过专用末端执行器激发物体声音，构建融合视觉与声学特征的表征，并采用好奇心算法高效探索，提升材料分类与听音模仿性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07619v1](https://arxiv.org/pdf/2511.07619v1)**
 
 > **作者:** Luca Macesanu; Boueny Folefack; Samik Singh; Ruchira Ray; Ben Abbatematteo; Roberto Martín-Martín
 >
@@ -293,7 +293,7 @@
 
 - **简介: 该论文提出一种监督式自主系统，用于经尿道前列腺中叶切除。结合基于模型的切除规划器与学习型牵拉网络（PushCVAE），在仿生前列腺模型上实现97.1%的精准切除，推动微创机器人手术自动化。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08490v1](https://arxiv.org/pdf/2511.08490v1)**
 
 > **作者:** Mariana Smith; Tanner Watts; Susheela Sharma Stern; Brendan Burkhart; Hao Li; Alejandro O. Chara; Nithesh Kumar; James Ferguson; Ayberk Acar; Jesse F. d'Almeida; Lauren Branscombe; Lauren Shepard; Ahmed Ghazi; Ipek Oguz; Jie Ying Wu; Robert J. Webster; Axel Krieger; Alan Kuntz
 >
@@ -307,7 +307,7 @@
 
 - **简介: 该论文针对端到端自动驾驶中的因果混淆问题，提出感知引导自监督（PGS）方法，利用感知输出（如车道线、车辆轨迹）作为监督信号，替代专家轨迹，提升决策模型的因果建模能力，在Bench2Drive上显著超越现有方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08214v1](https://arxiv.org/pdf/2511.08214v1)**
 
 > **作者:** Yi Huang; Zhan Qu; Lihui Jiang; Bingbing Liu; Hongbo Zhang
 >
@@ -321,7 +321,7 @@
 
 - **简介: 该论文提出SeFA-Policy，用于机器人模仿学习中的视觉运动策略学习，解决流模型迭代蒸馏中动作与观测脱节导致的误差累积问题。通过选择性流对齐机制，在保持单步推理效率的同时，确保动作与观测一致，显著提升精度与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08583v1](https://arxiv.org/pdf/2511.08583v1)**
 
 > **作者:** Rong Xue; Jiageng Mao; Mingtong Zhang; Yue Wang
 >
@@ -333,7 +333,7 @@
 
 - **简介: X-IONet面向跨平台惯性里程计任务，解决人与四足机器人运动差异导致的模型性能下降问题，提出双阶段注意力网络与专家选择机制，仅用单IMU实现高精度位姿估计，显著提升两类平台的定位精度。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08277v1](https://arxiv.org/pdf/2511.08277v1)**
 
 > **作者:** Dehan Shen; Changhao Chen
 >
@@ -345,7 +345,7 @@
 
 - **简介: 该论文提出一种混合多机器人协调框架，解决集中式规划僵化与分布式规划易冲突的问题。通过分布式路径规划+集中式虚拟红绿灯冲突仲裁，仅下发停止指令而非完整路径，提升成功率并减少死锁，已在仿真与真实机器人中验证。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07811v1](https://arxiv.org/pdf/2511.07811v1)**
 
 > **作者:** Sagar Gupta; Thanh Vinh Nguyen; Thieu Long Phan; Vidul Attri; Archit Gupta; Niroshinie Fernando; Kevin Lee; Seng W. Loke; Ronny Kutadinata; Benjamin Champion; Akansel Cosgun
 >
@@ -357,7 +357,7 @@
 
 - **简介: ViPRA提出一种预训练-微调框架，利用无动作标注的视频学习机器人连续控制。通过视频语言模型预测视觉观测与物理一致的潜在动作，再用少量演示映射为机器人动作，实现高效泛化与高频控制。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07732v1](https://arxiv.org/pdf/2511.07732v1)**
 
 > **作者:** Sandeep Routray; Hengkai Pan; Unnat Jain; Shikhar Bahl; Deepak Pathak
 >
@@ -371,7 +371,7 @@
 
 - **简介: 该论文面向无人水面艇（USV）在海洋环境中的障碍物检测与跟踪任务，提出一种融合相机与LiDAR的混合方法，评估并优化了原有系统在真实数据集上的性能，实现高精度实时环境感知。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07950v1](https://arxiv.org/pdf/2511.07950v1)**
 
 > **作者:** Yara AlaaEldin; Enrico Simetti; Francesca Odone
 >
@@ -383,7 +383,7 @@
 
 - **简介: 该论文提出一种双模型预测控制（Dual-MPC）步态规划方法，解决四足机器人因忽略角速度导致的体姿态不稳定问题，通过协同优化足端位置与地面反力，实现更鲁棒、低振荡的复杂地形行走。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07921v1](https://arxiv.org/pdf/2511.07921v1)**
 
 > **作者:** Byeong-Il Ham; Hyun-Bin Kim; Jeonguk Kang; Keun Ha Choi; Kyung-Soo Kim
 >
@@ -397,7 +397,7 @@
 
 - **简介: 该论文研究城市环境中无人机搜索移动目标的任务，解决遮挡导致感知失效问题。提出基于概率可见体积与迭代深化A*的路径规划方法，通过最大化观测概率提升搜索效率，优于传统方法，尤其在高误报场景下。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07822v1](https://arxiv.org/pdf/2511.07822v1)**
 
 > **作者:** Collin Hague; Artur Wolek
 >
@@ -411,7 +411,7 @@
 
 - **简介: 该论文面向机器人遥操作数据采集任务，解决不同设备与控制器组合导致的数据质量差异问题，提出一种基于QP的自适应控制器，通过阻抗跟踪与零空间优化提升轨迹精度与平滑性，量化设备-控制器性能对数据质量的影响。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07720v1](https://arxiv.org/pdf/2511.07720v1)**
 
 > **作者:** Yuxuan Zhao; Yuanchen Tang; Jindi Zhang; Hongyu Yu
 >
@@ -423,7 +423,7 @@
 
 - **简介: 论文提出SONIC，通过大规模扩展模型、数据与算力，将运动追踪作为通用任务，构建能自然控制人形机器人的基础模型，支持多模态输入与实时任务执行，无需人工奖励设计。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07820v1](https://arxiv.org/pdf/2511.07820v1)**
 
 > **作者:** Zhengyi Luo; Ye Yuan; Tingwu Wang; Chenran Li; Sirui Chen; Fernando Castañeda; Zi-Ang Cao; Jiefeng Li; David Minor; Qingwei Ben; Xingye Da; Runyu Ding; Cyrus Hogg; Lina Song; Edy Lim; Eugene Jeong; Tairan He; Haoru Xue; Wenli Xiao; Zi Wang; Simon Yuen; Jan Kautz; Yan Chang; Umar Iqbal; Linxi "Jim" Fan; Yuke Zhu
 >
@@ -437,7 +437,7 @@
 
 - **简介: 该论文挑战了机器人强化学习中动态模型的通用稀疏性假设，通过分析MuJoCo环境的真实动力学，发现稀疏性是状态依赖且局部时变的，而非全局稳定，呼吁构建更贴合实际的归纳偏差。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08086v1](https://arxiv.org/pdf/2511.08086v1)**
 
 > **作者:** Muthukumar Pandaram; Jakob Hollenstein; David Drexel; Samuele Tosatto; Antonio Rodríguez-Sánchez; Justus Piater
 >
@@ -449,7 +449,7 @@
 
 - **简介: ARGUS是一个面向战术无人地面载具（UGV）的风险感知路径规划框架，旨在将战场态势与指挥意图转化为安全高效的动态路径。通过融合地形与威胁数据，实现任务目标与风险的平衡，并支持实时重规划与系统集成。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07565v1](https://arxiv.org/pdf/2511.07565v1)**
 
 > **作者:** Nuno Soares; António Grilo
 >
@@ -461,7 +461,7 @@
 
 - **简介: 该论文针对随机控制系统的安全保证问题，将安全约束满足转化为平均回报MDP优化任务，提出新算法通过线性规划高效计算高置信度安全策略，并在双积分器与倒立摆上验证其优越性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08419v1](https://arxiv.org/pdf/2511.08419v1)**
 
 > **作者:** Saber Omidi; Marek Petrik; Se Young Yoon; Momotaz Begum
 >
@@ -475,7 +475,7 @@
 
 - **简介: 该论文针对学习型控制系统的安全保证问题，提出基于共形预测与集成HJ值函数的安全滤波框架，为学习得到的策略提供概率性安全保证，解决传统方法计算昂贵且学习结果不可靠的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07899v1](https://arxiv.org/pdf/2511.07899v1)**
 
 > **作者:** Ihab Tabbara; Yuxuan Yang; Hussein Sibai
 >
@@ -487,7 +487,7 @@
 
 - **简介: 该论文提出一种基于双目视觉的无人机图像路径规划算法，解决二维图像无法识别地形凹凸（如陨石坑、山丘）导致路径不安全的问题。通过立体匹配生成深度图，结合视觉特征检测与ArUco标记定位，实现自动路径规划，并与A*、PRM算法对比验证有效性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07928v1](https://arxiv.org/pdf/2511.07928v1)**
 
 > **作者:** Selim Ahmet Iz; Mustafa Unel
 >
@@ -499,7 +499,7 @@
 
 - **简介: 该论文提出Function-as-Subtask（FasS）API，替代ROS 2的发布/订阅机制，以强制保证DAG任务的优先级语义。通过函数式接口绑定输入输出边，消除人为约定依赖，实现内核级DAG调度，并为Linux sched_ext提供设计指导。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08297v1](https://arxiv.org/pdf/2511.08297v1)**
 
 > **作者:** Takahiro Ishikawa-Aso; Atsushi Yano; Yutaro Kobayashi; Takumi Jin; Yuuki Takano; Shinpei Kato
 >
@@ -513,7 +513,7 @@
 
 - **简介: 该论文面向长周期目标条件强化学习任务，解决时序距离估计难题，提出多步拟度量学习方法，融合蒙特卡洛返回与局部更新，首次在真实机器人操作中实现端到端的多步拼接，显著提升长 horizon 性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07730v1](https://arxiv.org/pdf/2511.07730v1)**
 
 > **作者:** Bill Chunyuan Zheng; Vivek Myers; Benjamin Eysenbach; Sergey Levine
 >
@@ -525,7 +525,7 @@
 #### [replaced 001] Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees
 - **分类: cs.RO; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.00191v2](https://arxiv.org/pdf/2503.00191v2)**
 
 > **作者:** Xinhang Ma; Junlin Wu; Hussein Sibai; Yiannis Kantaros; Yevgeniy Vorobeychik
 >
@@ -535,7 +535,7 @@
 #### [replaced 002] MiniBEE: A New Form Factor for Compact Bimanual Dexterity
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.01603v2](https://arxiv.org/pdf/2510.01603v2)**
 
 > **作者:** Sharfin Islam; Zewen Chen; Zhanpeng He; Swapneel Bhatt; Andres Permuy; Brock Taylor; James Vickery; Zhengbin Lu; Cheng Zhang; Pedro Piacenza; Matei Ciocarlie
 >
@@ -545,7 +545,7 @@
 #### [replaced 003] Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.06371v2](https://arxiv.org/pdf/2511.06371v2)**
 
 > **作者:** Yingnan Zhao; Xinmiao Wang; Dewei Wang; Xinzhe Liu; Dan Lu; Qilong Han; Peng Liu; Chenjia Bai
 >
@@ -555,7 +555,7 @@
 #### [replaced 004] Token Is All You Need: Cognitive Planning through Belief-Intent Co-Evolution
 - **分类: cs.CV; cs.AI; cs.LG; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.05540v2](https://arxiv.org/pdf/2511.05540v2)**
 
 > **作者:** Shiyao Sang
 >
@@ -567,7 +567,7 @@
 #### [replaced 005] When To Seek Help: Trust-Aware Assistance Seeking in Human-Supervised Autonomy
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2410.20496v3](https://arxiv.org/pdf/2410.20496v3)**
 
 > **作者:** Dong Hae Mangalindan; Ericka Rovira; Vaibhav Srivastava
 >
@@ -577,7 +577,7 @@
 #### [replaced 006] 3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.03078v2](https://arxiv.org/pdf/2511.03078v2)**
 
 > **作者:** Rohan Kota; Kaival Shah; J. Edward Colgate; Gregory Reardon
 >
@@ -587,7 +587,7 @@
 #### [replaced 007] Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems
 - **分类: cs.RO; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.26656v2](https://arxiv.org/pdf/2510.26656v2)**
 
 > **作者:** Georgios Kamaras; Craig Innes; Subramanian Ramamoorthy
 >
@@ -599,7 +599,7 @@
 #### [replaced 008] On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems
 - **分类: cs.RO; eess.SY**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2412.01168v5](https://arxiv.org/pdf/2412.01168v5)**
 
 > **作者:** Hanyao Guo; Yunhai Han; Harish Ravichandar
 >
@@ -609,7 +609,7 @@
 #### [replaced 009] JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes
 - **分类: cs.RO; cs.LG; cs.MA**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.06771v3](https://arxiv.org/pdf/2505.06771v3)**
 
 > **作者:** Shalin Anand Jain; Jiazhen Liu; Siva Kailas; Harish Ravichandar
 >
@@ -621,7 +621,7 @@
 #### [replaced 010] QP Chaser: Polynomial Trajectory Generation for Autonomous Aerial Tracking
 - **分类: cs.RO; eess.SY**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2302.14273v3](https://arxiv.org/pdf/2302.14273v3)**
 
 > **作者:** Yunwoo Lee; Jungwon Park; Seungwoo Jung; Boseong Jeon; Dahyun Oh; H. Jin Kim
 >
@@ -633,7 +633,7 @@
 #### [replaced 011] SCoTT: Strategic Chain-of-Thought Tasking for Wireless-Aware Robot Navigation in Digital Twins
 - **分类: cs.LG; cs.AI; cs.RO; eess.SY**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.18212v3](https://arxiv.org/pdf/2411.18212v3)**
 
 > **作者:** Aladin Djuhera; Amin Seffo; Vlad C. Andrei; Holger Boche; Walid Saad
 >
@@ -643,7 +643,7 @@
 #### [replaced 012] Residual Rotation Correction using Tactile Equivariance
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.07381v2](https://arxiv.org/pdf/2511.07381v2)**
 
 > **作者:** Yizhe Zhu; Zhang Ye; Boce Hu; Haibo Zhao; Yu Qi; Dian Wang; Robert Platt
 >
@@ -655,7 +655,7 @@
 #### [replaced 013] Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.08303v2](https://arxiv.org/pdf/2507.08303v2)**
 
 > **作者:** Yang Zhang; Zhanxiang Cao; Buqing Nie; Haoyang Li; Zhong Jiangwei; Qiao Sun; Xiaoyi Hu; Xiaokang Yang; Yue Gao
 >
@@ -667,7 +667,7 @@
 #### [replaced 014] Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.01219v2](https://arxiv.org/pdf/2511.01219v2)**
 
 > **作者:** Muhua Zhang; Lei Ma; Ying Wu; Kai Shen; Deqing Huang; Henry Leung
 >
@@ -679,7 +679,7 @@
 #### [replaced 015] EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion
 - **分类: eess.IV; cs.AI; cs.CV; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.05873v2](https://arxiv.org/pdf/2511.05873v2)**
 
 > **作者:** Tong Chen; Xinyu Ma; Long Bai; Wenyang Wang; Yue Sun; Luping Zhou
 >
@@ -689,7 +689,7 @@
 #### [replaced 016] Uncertainty-Aware Active Source Tracking of Marine Pollution using Unmanned Surface Vehicles
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.20593v2](https://arxiv.org/pdf/2509.20593v2)**
 
 > **作者:** Song Ma; Yanchao Wang; Richard Bucknall; Yuanchang Liu
 >
@@ -699,7 +699,7 @@
 #### [replaced 017] Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction
 - **分类: cs.RO; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.05294v3](https://arxiv.org/pdf/2508.05294v3)**
 
 > **作者:** Sahar Salimpour; Lei Fu; Farhad Keramat; Leonardo Militano; Giovanni Toffetti; Harry Edelman; Jorge Peña Queralta
 >
@@ -709,7 +709,7 @@
 #### [replaced 018] Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for Efficient 3D Reconstruction
 - **分类: cs.RO; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.01014v2](https://arxiv.org/pdf/2508.01014v2)**
 
 > **作者:** Cheng-You Lu; Zhuoli Zhuang; Nguyen Thanh Trung Le; Da Xiao; Yu-Cheng Chang; Thomas Do; Srinath Sridhar; Chin-teng Lin
 >
@@ -719,7 +719,7 @@
 #### [replaced 019] Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.08896v4](https://arxiv.org/pdf/2508.08896v4)**
 
 > **作者:** Haoyu Zhao; Linghao Zhuang; Xingyue Zhao; Cheng Zeng; Haoran Xu; Yuming Jiang; Jun Cen; Kexiang Wang; Jiayan Guo; Siteng Huang; Xin Li; Deli Zhao; Hua Zou
 >
@@ -731,7 +731,7 @@
 #### [replaced 020] Accelerating Visual-Policy Learning through Parallel Differentiable Simulation
 - **分类: cs.LG; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.10646v2](https://arxiv.org/pdf/2505.10646v2)**
 
 > **作者:** Haoxiang You; Yilang Liu; Ian Abraham
 >

@@ -11,7 +11,7 @@
 
 - **简介: 论文提出CoRL-MPPI，将强化学习策略嵌入MPPI框架，以提升多机器人分布式避障的采样效率与安全性，兼顾理论保障与导航性能，解决传统MPPI随机采样低效的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09331v1](https://arxiv.org/pdf/2511.09331v1)**
 
 > **作者:** Stepan Dergachev; Artem Pshenitsyn; Aleksandr Panov; Alexey Skrynnik; Konstantin Yakovlev
 >
@@ -25,7 +25,7 @@
 
 - **简介: 论文提出UMIGen，解决机器人模仿学习中数据采集成本高、缺乏3D几何信息的问题。通过手持设备Cloud-UMI采集点云动作对，并结合可见性优化生成符合视角的3D观测，实现跨机器人形态的高效数据生成与迁移。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09302v1](https://arxiv.org/pdf/2511.09302v1)**
 
 > **作者:** Yan Huang; Shoujie Li; Xingting Li; Wenbo Ding
 >
@@ -37,7 +37,7 @@
 
 - **简介: APEX提出一种无需参考数据的强化学习框架，通过衰减动作先验引导机器人探索，实现高效、鲁棒的多地形运动跟踪，提升样本效率与泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09091v1](https://arxiv.org/pdf/2511.09091v1)**
 
 > **作者:** Shivam Sood; Laukik Nakhwa; Sun Ge; Yuhong Cao; Jin Cheng; Fatemah Zargarbashi; Taerim Yoon; Sungjoon Choi; Stelian Coros; Guillaume Sartoretti
 >
@@ -49,7 +49,7 @@
 
 - **简介: 论文提出SMF-VO，一种轻量级视觉里程计方法，直接从稀疏光流估计相机瞬时速度，规避传统位姿估计与地图优化，提升实时性。适用于资源受限设备，实现超100 FPS的CPU推理。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09072v1](https://arxiv.org/pdf/2511.09072v1)**
 
 > **作者:** Sangheon Yang; Yeongin Yoon; Hong Mo Jung; Jongwoo Lim
 >
@@ -61,7 +61,7 @@
 
 - **简介: SPIDER提出一种物理驱动的灵巧重定向框架，将人类运动数据转化为机器人可执行的动态可行轨迹，解决人机本体差异与数据稀缺问题，实现跨9种机器人、6类数据的高效规模化生成，显著提升策略学习效率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09484v1](https://arxiv.org/pdf/2511.09484v1)**
 
 > **作者:** Chaoyi Pan; Changhao Wang; Haozhi Qi; Zixi Liu; Homanga Bharadhwaj; Akash Sharma; Tingfan Wu; Guanya Shi; Jitendra Malik; Francois Hogan
 >
@@ -75,7 +75,7 @@
 
 - **简介: 该论文面向具身智能，解决数据集多样性与可学习性评估难题，提出统一多模态表征与无训练的可学习性度量方法，实现对数据集信息量与学习效率的高效、可解释评估。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09119v1](https://arxiv.org/pdf/2511.09119v1)**
 
 > **作者:** Jiahao Xiao; Bowen Yan; Jianbo Zhang; Jia Wang; Chunyi Li; Zhengxue Cheng; Guangtao Zhai
 >
@@ -87,7 +87,7 @@
 
 - **简介: 论文提出WMPO，一种基于世界模型的视觉-语言-动作策略优化方法，解决VLA模型依赖专家数据、样本效率低的问题，通过像素级仿真预测实现无真实交互的在线强化学习，提升性能与自修正能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09515v1](https://arxiv.org/pdf/2511.09515v1)**
 
 > **作者:** Fangqi Zhu; Zhengyang Yan; Zicong Hong; Quanxin Shou; Xiao Ma; Song Guo
 >
@@ -101,7 +101,7 @@
 
 - **简介: UniMM-V2X提出一种端到端协同自动驾驶框架，通过多级融合与MoE架构，实现感知、预测与规划的协同优化，解决单体智能感知受限与任务脱节问题，在DAIR-V2X上显著提升性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09013v1](https://arxiv.org/pdf/2511.09013v1)**
 
 > **作者:** Ziyi Song; Chen Xia; Chenbing Wang; Haibao Yu; Sheng Zhou; Zhisheng Niu
 >
@@ -113,7 +113,7 @@
 
 - **简介: 该论文面向机器人长时程操作任务，解决预训练VLA模型缺乏记忆导致的性能不足问题，提出MAP-VLA框架，通过可学习的演示记忆提示实现即插即用的动态增强，显著提升任务成功率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09516v1](https://arxiv.org/pdf/2511.09516v1)**
 
 > **作者:** Runhao Li; Wenkai Guo; Zhenyu Wu; Changyuan Wang; Haoyuan Deng; Zhenyu Weng; Yap-Peng Tan; Ziwei Wang
 >
@@ -125,7 +125,7 @@
 
 - **简介: 该论文提出IFG框架，结合互联网规模视觉模型的语义理解与仿真驱动的力闭合抓取生成，实现无需人工标注的实时高精度3D抓取规划，解决机器人抓取中语义与几何精度脱节的问题。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09558v1](https://arxiv.org/pdf/2511.09558v1)**
 
 > **作者:** Ray Muxin Liu; Mingxuan Li; Kenneth Shaw; Deepak Pathak
 >
@@ -139,7 +139,7 @@
 
 - **简介: 论文提出RGMP框架，面向通用人形机器人操作任务，解决数据效率低与几何推理缺失问题。通过几何先验技能选择与自适应高斯递归网络，实现稀疏演示下的高效跨域泛化，成功率87%，数据效率提升5倍。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09141v1](https://arxiv.org/pdf/2511.09141v1)**
 
 > **作者:** Xuetao Li; Wenke Huang; Nengyuan Pan; Kaiyan Zhao; Songhua Yang; Yiming Wang; Mengde Li; Mang Ye; Jifeng Xuan; Miao Li
 >
@@ -151,7 +151,7 @@
 
 - **简介: 论文提出MirrorLimb系统，基于PICO与RealMirror实现低成本、实时手部位姿获取与机器人遥操作，解决传统视觉追踪成本高、精度不足问题，支持多类型末端执行器控制，助力VLA数据集构建与上肢机器人研究。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08865v1](https://arxiv.org/pdf/2511.08865v1)**
 
 > **作者:** Cong Tai; Hansheng Wu; Haixu Long; Zhengbin Long; Zhaoyu Zheng; Haodong Xiang; Tao Shen
 >
@@ -163,7 +163,7 @@
 
 - **简介: 该论文提出一种基于规划层意图预测的移动机器人共享控制框架，通过深度强化学习联合建模意图域预测与路径重规划，利用Voronoi算法生成仿真训练数据，无需真实人机数据，显著降低操作负荷并提升安全性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08912v1](https://arxiv.org/pdf/2511.08912v1)**
 
 > **作者:** Jinyu Zhang; Lijun Han; Feng Jian; Lingxi Zhang; Hesheng Wang
 >
@@ -175,7 +175,7 @@
 
 - **简介: 论文提出SpatialActor，面向机器人操作任务，解决深度噪声下语义与几何纠缠导致的定位不准问题，通过解耦语义与几何表示，融合多源几何信息与低层空间线索，提升操作鲁棒性与泛化能力。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09555v1](https://arxiv.org/pdf/2511.09555v1)**
 
 > **作者:** Hao Shi; Bin Xie; Yingfei Liu; Yang Yue; Tiancai Wang; Haoqiang Fan; Xiangyu Zhang; Gao Huang
 >
@@ -189,7 +189,7 @@
 
 - **简介: 该论文提出一种统一建模与控制框架，实现人工肌肉的扭矩与刚度独立调控，解决动态接触中解耦失效问题。通过解析逆动力学与生物启发坐标，显著提升响应速度与交互稳定性，适用于人机安全交互。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09104v1](https://arxiv.org/pdf/2511.09104v1)**
 
 > **作者:** Amirhossein Kazemipour; Robert K. Katzschmann
 >
@@ -201,7 +201,7 @@
 
 - **简介: 该论文提出XPRESS算法，解决X波段雷达分辨率低、信息少导致的自主导航难题，通过椭圆扫描整形与密度规则优化，实现仅依赖X波段雷达的地点识别，显著提升检索鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08863v1](https://arxiv.org/pdf/2511.08863v1)**
 
 > **作者:** Hyesu Jang; Wooseong Yang; Ayoung Kim; Dongje Lee; Hanguen Kim
 >
@@ -215,7 +215,7 @@
 
 - **简介: LODESTAR提出一种抗退化LiDAR-惯性里程计方法，针对走廊、高空等场景中测量稀疏与不平衡问题，设计退化感知的自适应Schmidt-Kalman滤波与数据利用模块，提升状态估计的精度与鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09142v1](https://arxiv.org/pdf/2511.09142v1)**
 
 > **作者:** Eungchang Mason Lee; Kevin Christiansen Marsim; Hyun Myung
 >
@@ -229,7 +229,7 @@
 
 - **简介: 该论文提出EDMO算法，用于解决无人机三维轨迹规划与工程优化问题，通过量子隧穿、生物趋光性和正交学习策略提升收敛性与多样性，显著优于14种主流算法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09020v1](https://arxiv.org/pdf/2511.09020v1)**
 
 > **作者:** Mingyang Yu; Haorui Yang; Kangning An; Xinjian Wei; Xiaoxuan Xu; Jing Xu
 >
@@ -241,7 +241,7 @@
 
 - **简介: 该论文综述人机协作中实现直观交互的关键技术，解决人类被动、机器人缺乏适应性的问题，构建从多模态指令理解、自适应任务规划到动态角色分配与反馈闭环的完整交互框架。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08732v1](https://arxiv.org/pdf/2511.08732v1)**
 
 > **作者:** Marta Lagomarsino; Elena Merlo; Andrea Pupa; Timo Birr; Franziska Krebs; Cristian Secchi; Tamim Asfour; Arash Ajoudani
 >
@@ -255,7 +255,7 @@
 
 - **简介: CENIC是一种面向接触动力学的连续时间数值积分器，融合凸时步与误差控制技术，解决传统离散模拟器在精度与效率间的权衡难题，实现媲美MuJoCo等工具的实时速度与收敛保证。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08771v1](https://arxiv.org/pdf/2511.08771v1)**
 
 > **作者:** Vince Kurtz; Alejandro Castro
 >
@@ -269,7 +269,7 @@
 
 - **简介: 该论文针对双臂机器人高维构型空间中的实时运动规划难题，提出利用共用关节约束构建动态路网，高效联合搜索左右臂-躯干链，显著降低维度诅咒，在19自由度机器人上实现0.4秒平均规划时间与99.9%成功率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08778v1](https://arxiv.org/pdf/2511.08778v1)**
 
 > **作者:** Richard Cheng; Peter Werner; Carolyn Matl
 >
@@ -283,7 +283,7 @@
 
 - **简介: 该论文面向人形机器人高层控制，解决数据稀缺与表示学习难题，提出Humanoid-Union数据集与SCHUR框架，利用人类视频生成大规模机器人运动数据，实现数据与模型扩展下的高质量运动生成与文本-动作对齐。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09241v1](https://arxiv.org/pdf/2511.09241v1)**
 
 > **作者:** Yuxi Wei; Zirui Wang; Kangning Yin; Yue Hu; Jingbo Wang; Siheng Chen
 >
@@ -295,7 +295,7 @@
 
 - **简介: 该论文提出一种零样本目标导航方法，利用VLM作为主动规划者，通过结构化推理、动作历史反馈和地图融合，提升机器人在未知环境中的导航效率与逻辑性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08942v1](https://arxiv.org/pdf/2511.08942v1)**
 
 > **作者:** Mobin Habibpour; Fatemeh Afghah
 >
@@ -307,7 +307,7 @@
 
 - **简介: 论文提出ATOM-CBF，面向高维感知输入的安全控制任务，解决OoD测量导致的感知不确定性威胁系统安全问题，通过自适应误差边界与安全滤波器实现实时自适应安全控制，无需真值或分布先验。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08741v1](https://arxiv.org/pdf/2511.08741v1)**
 
 > **作者:** Kai S. Yun; Navid Azizan
 >
@@ -319,7 +319,7 @@
 
 - **简介: 该论文面向图结构在线状态估计，解决MAC算法计算慢、需人工设边的问题。提出高效求解器、优化步长策略与自动连通保障机制，显著提升算法速度与实用性，支持实时应用。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08694v1](https://arxiv.org/pdf/2511.08694v1)**
 
 > **作者:** Leonard Jung; Alan Papalia; Kevin Doherty; Michael Everett
 >
@@ -333,7 +333,7 @@
 
 - **简介: 该论文针对具身视觉导航任务，提出SCOPE框架，利用视觉-语言模型挖掘前沿信息构建时空势能图，结合自反思机制提升决策可靠性，实现零样本下更精准的长程导航。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08935v1](https://arxiv.org/pdf/2511.08935v1)**
 
 > **作者:** Ningnan Wang; Weihuang Chen; Liming Chen; Haoxuan Ji; Zhongyu Guo; Xuchong Zhang; Hongbin Sun
 >
@@ -345,7 +345,7 @@
 
 - **简介: 该论文提出低成本可配置水下多智能体平台CoUGARs，解决水下协同定位研究成本高、难部署问题，基于商用与3D打印部件构建系统，集成声学定位与通信软件，并在仿真与实湖试验中验证。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08822v1](https://arxiv.org/pdf/2511.08822v1)**
 
 > **作者:** Nelson Durrant; Braden Meyers; Matthew McMurray; Clayton Smith; Brighton Anderson; Tristan Hodgins; Kalliyan Velasco; Joshua G. Mangelson
 >
@@ -357,7 +357,7 @@
 
 - **简介: 论文提出D-AWSIM分布式自动驾驶仿真平台，解决大规模交通与传感器仿真成本高、单机容量不足问题，通过分布式架构支持动态地图生成，实现高效仿真与算法验证。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09080v1](https://arxiv.org/pdf/2511.09080v1)**
 
 > **作者:** Shunsuke Ito; Chaoran Zhao; Ryo Okamura; Takuya Azumi
 >
@@ -371,7 +371,7 @@
 
 - **简介: 该论文提出MATRIX数据集与深度学习框架，解决动态多无人机视角下行人检测与跟踪难题，通过BEV特征融合与实时校准，在复杂遮挡环境中实现约90%精度，显著优于静态相机方法。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08615v1](https://arxiv.org/pdf/2511.08615v1)**
 
 > **作者:** Kosta Dakic; Kanchana Thilakarathna; Rodrigo N. Calheiros; Teng Joon Lim
 >
@@ -385,7 +385,7 @@
 
 - **简介: HOTFLoc++提出一种端到端LiDAR定位框架，用于森林等复杂环境中的场景识别、重排序与6自由度精确定位。通过八叉树变换器提取多尺度特征，结合可学习几何验证模块，显著提升鲁棒性与效率，Recall@1达90.7%以上。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09170v1](https://arxiv.org/pdf/2511.09170v1)**
 
 > **作者:** Ethan Griffiths; Maryam Haghighat; Simon Denman; Clinton Fookes; Milad Ramezani
 >
@@ -399,7 +399,7 @@
 
 - **简介: 该论文针对多航天器协同在轨巡检任务，提出一种信息驱动的故障检测与识别框架，通过统一成本函数联动任务分配与局部决策，实现传感器、执行器与状态估计器的故障定位与分类，提升系统鲁棒性。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08752v1](https://arxiv.org/pdf/2511.08752v1)**
 
 > **作者:** Akshita Gupta; Arna Bhardwaj; Yashwanth Kumar Nakka; Changrak Choi; Amir Rahmani
 >
@@ -413,7 +413,7 @@
 
 - **简介: 该论文面向离线强化学习，解决因OOD动作导致的价值高估问题。提出DIVO方法，利用优势值加权扩散模型，精准引导高回报动作生成，在保持保守性的同时提升探索效率，显著提升D4RL基准性能。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.08922v1](https://arxiv.org/pdf/2511.08922v1)**
 
 > **作者:** Yunchang Ma; Tenglong Liu; Yixing Lan; Xin Yin; Changxin Zhang; Xinglong Zhang; Xin Xu
 >
@@ -427,7 +427,7 @@
 
 - **简介: 论文提出Argus框架，面向端到端自动驾驶系统（ADS），解决其在复杂场景中安全性不足的问题。通过实时监控轨迹并动态接管控制，显著提升系统韧性，减少64.38%违规，提升驾驶评分达150.30%。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.09032v1](https://arxiv.org/pdf/2511.09032v1)**
 
 > **作者:** Dingji Wang; You Lu; Bihuan Chen; Shuo Hao; Haowen Jiang; Yifan Tian; Xin Peng
 >
@@ -441,7 +441,7 @@
 
 - **简介: 该论文研究部分可观测城市环境中双无人机协同追捕未知行为逃逸无人机的问题，提出一种基于有界理性的神经符号算法，离线训练多级策略，在线分类对手并响应，显著提升追捕成功率。**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.05812v1](https://arxiv.org/pdf/2511.05812v1)**
 
 > **作者:** Addison Kalanther; Daniel Bostwick; Chinmay Maheshwari; Shankar Sastry
 >
@@ -453,7 +453,7 @@
 #### [replaced 001] Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.25822v4](https://arxiv.org/pdf/2509.25822v4)**
 
 > **作者:** Jing Wang; Weiting Peng; Jing Tang; Zeyu Gong; Xihua Wang; Bo Tao; Li Cheng
 >
@@ -465,7 +465,7 @@
 #### [replaced 002] Evolutionary Policy Optimization
 - **分类: cs.LG; cs.AI; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.19037v3](https://arxiv.org/pdf/2503.19037v3)**
 
 > **作者:** Jianren Wang; Yifan Su; Abhinav Gupta; Deepak Pathak
 >
@@ -477,7 +477,7 @@
 #### [replaced 003] SafeFlow: Safe Robot Motion Planning with Flow Matching via Control Barrier Functions
 - **分类: cs.RO; eess.SY**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.08661v3](https://arxiv.org/pdf/2504.08661v3)**
 
 > **作者:** Xiaobing Dai; Zewen Yang; Dian Yu; Fangzhou Liu; Hamid Sadeghian; Sami Haddadin; Sandra Hirche
 >
@@ -487,7 +487,7 @@
 #### [replaced 004] Mixed-Density Diffuser: Efficient Planning with Non-Uniform Temporal Resolution
 - **分类: cs.AI; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2510.23026v3](https://arxiv.org/pdf/2510.23026v3)**
 
 > **作者:** Crimson Stambaugh; Rajesh P. N. Rao
 >
@@ -499,7 +499,7 @@
 #### [replaced 005] Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.20043v3](https://arxiv.org/pdf/2505.20043v3)**
 
 > **作者:** Marcello Cellina; Matteo Corno; Sergio Matteo Savaresi
 >
@@ -511,7 +511,7 @@
 #### [replaced 006] Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2506.07823v2](https://arxiv.org/pdf/2506.07823v2)**
 
 > **作者:** Lorenzo Amatucci; João Sousa-Pinto; Giulio Turrisi; Dominique Orban; Victor Barasuol; Claudio Semini
 >
@@ -521,7 +521,7 @@
 #### [replaced 007] vS-Graphs: Tightly Coupling Visual SLAM and 3D Scene Graphs Exploiting Hierarchical Scene Understanding
 - **分类: cs.RO; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2503.01783v2](https://arxiv.org/pdf/2503.01783v2)**
 
 > **作者:** Ali Tourani; Saad Ejaz; Hriday Bavle; Miguel Fernandez-Cortizas; David Morilla-Cabello; Jose Luis Sanchez-Lopez; Holger Voos
 >
@@ -533,7 +533,7 @@
 #### [replaced 008] SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM
 - **分类: cs.RO; cs.CV**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.13713v4](https://arxiv.org/pdf/2504.13713v4)**
 
 > **作者:** Samuel Cerezo; Gaetano Meli; Tomás Berriel Martins; Kirill Safronov; Javier Civera
 >
@@ -545,7 +545,7 @@
 #### [replaced 009] 4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2412.13639v4](https://arxiv.org/pdf/2412.13639v4)**
 
 > **作者:** Fernando Amodeo; Luis Merino; Fernando Caballero
 >
@@ -557,7 +557,7 @@
 #### [replaced 010] KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning
 - **分类: cs.RO; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2509.09074v2](https://arxiv.org/pdf/2509.09074v2)**
 
 > **作者:** Alice Kate Li; Thales C Silva; Victoria Edwards; Vijay Kumar; M. Ani Hsieh
 >
@@ -569,7 +569,7 @@
 #### [replaced 011] Certified Training with Branch-and-Bound for Lyapunov-stable Neural Control
 - **分类: cs.LG; cs.AI; cs.RO; eess.SY**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.18235v2](https://arxiv.org/pdf/2411.18235v2)**
 
 > **作者:** Zhouxing Shi; Haoyu Li; Cho-Jui Hsieh; Huan Zhang
 >
@@ -581,7 +581,7 @@
 #### [replaced 012] Robust Bayesian Scene Reconstruction with Retrieval-Augmented Priors for Precise Grasping and Planning
 - **分类: cs.CV; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2411.19461v3](https://arxiv.org/pdf/2411.19461v3)**
 
 > **作者:** Herbert Wright; Weiming Zhi; Martin Matak; Matthew Johnson-Roberson; Tucker Hermans
 >
@@ -591,7 +591,7 @@
 #### [replaced 013] Gaussian-Process-based Adaptive Tracking Control with Dynamic Active Learning for Autonomous Ground Vehicles
 - **分类: eess.SY; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2501.14672v3](https://arxiv.org/pdf/2501.14672v3)**
 
 > **作者:** Kristóf Floch; Tamás Péni; Roland Tóth
 >
@@ -603,7 +603,7 @@
 #### [replaced 014] Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper
 - **分类: cs.RO; cs.AI; cs.LG**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2507.15062v2](https://arxiv.org/pdf/2507.15062v2)**
 
 > **作者:** Xinyue Zhu; Binghao Huang; Yunzhu Li
 >
@@ -615,7 +615,7 @@
 #### [replaced 015] Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2511.06434v2](https://arxiv.org/pdf/2511.06434v2)**
 
 > **作者:** Wenkang Hu; Xincheng Tang; Yanzhi E; Yitong Li; Zhengjie Shu; Wei Li; Huamin Wang; Ruigang Yang
 >
@@ -627,7 +627,7 @@
 #### [replaced 016] Survey of Vision-Language-Action Models for Embodied Manipulation
 - **分类: cs.RO; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.15201v2](https://arxiv.org/pdf/2508.15201v2)**
 
 > **作者:** Haoran Li; Yuhui Chen; Wenbo Cui; Weiheng Liu; Kai Liu; Mingcai Zhou; Zhengtao Zhang; Dongbin Zhao
 >
@@ -639,7 +639,7 @@
 #### [replaced 017] ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow
 - **分类: cs.RO; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.01288v3](https://arxiv.org/pdf/2505.01288v3)**
 
 > **作者:** Changhe Chen; Quantao Yang; Xiaohao Xu; Nima Fazeli; Olov Andersson
 >
@@ -649,7 +649,7 @@
 #### [replaced 018] MLM: Learning Multi-task Loco-Manipulation Whole-Body Control for Quadruped Robot with Arm
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2508.10538v2](https://arxiv.org/pdf/2508.10538v2)**
 
 > **作者:** Xin Liu; Bida Ma; Chenkun Qi; Yan Ding; Nuo Xu; Zhaxizhuoma; Guorong Zhang; Pengan Chen; Kehui Liu; Zhongjie Jia; Chuyue Guan; Yule Mo; Jiaqi Liu; Feng Gao; Jiangwei Zhong; Bin Zhao; Xuelong Li
 >
@@ -659,7 +659,7 @@
 #### [replaced 019] MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning
 - **分类: cs.RO; cs.AI**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2504.16738v2](https://arxiv.org/pdf/2504.16738v2)**
 
 > **作者:** Itamar Mishani; Yorai Shaoul; Maxim Likhachev
 >
@@ -671,7 +671,7 @@
 #### [replaced 020] Military AI Needs Technically-Informed Regulation to Safeguard AI Research and its Applications
 - **分类: cs.CY; cs.AI; cs.HC; cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.18371v2](https://arxiv.org/pdf/2505.18371v2)**
 
 > **作者:** Riley Simmons-Edler; Jean Dong; Paul Lushenko; Kanaka Rajan; Ryan P. Badman
 >
@@ -683,7 +683,7 @@
 #### [replaced 021] LLM4AD: Large Language Models for Autonomous Driving - Concept, Review, Benchmark, Experiments, and Future Trends
 - **分类: cs.RO; cs.AI; cs.CL; cs.HC**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2410.15281v4](https://arxiv.org/pdf/2410.15281v4)**
 
 > **作者:** Can Cui; Yunsheng Ma; Sung-Yeon Park; Zichong Yang; Yupeng Zhou; Juanwu Lu; Juntong Peng; Jiaru Zhang; Ruqi Zhang; Lingxi Li; Yaobin Chen; Jitesh H. Panchal; Amr Abdelraouf; Rohit Gupta; Kyungtae Han; Ziran Wang
 >
@@ -693,7 +693,7 @@
 #### [replaced 022] Trends in Motion Prediction Toward Deployable and Generalizable Autonomy: A Revisit and Perspectives
 - **分类: cs.RO**
 
-- **链接: []()**
+- **链接: [https://arxiv.org/pdf/2505.09074v4](https://arxiv.org/pdf/2505.09074v4)**
 
 > **作者:** Letian Wang; Marc-Antoine Lavoie; Sandro Papais; Barza Nisar; Yuxiao Chen; Wenhao Ding; Boris Ivanovic; Hao Shao; Abulikemu Abuduweili; Evan Cook; Yang Zhou; Peter Karkus; Jiachen Li; Changliu Liu; Marco Pavone; Steven Waslander
 >

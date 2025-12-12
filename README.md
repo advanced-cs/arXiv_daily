@@ -1,3 +1,15 @@
+# 20251212_Fri
+
+- **计算机视觉：[20251212_Fri_cv](./daily_papers/20251212_Fri/video.md)**
+
+- **自然语言处理：[20251212_Fri_nlp](./daily_papers/20251212_Fri/text.md)**
+
+- **音频：[20251212_Fri_audio](./daily_papers/20251212_Fri/audio.md)**
+
+- **机器人：[20251212_Fri_robotics](./daily_papers/20251212_Fri/robotics.md)**
+
+- **计算机与社会：[20251212_Fri_society](./daily_papers/20251212_Fri/society.md)**
+
 # 20251211_Thu
 
 - **计算机视觉：[20251211_Thu_cv](./daily_papers/20251211_Thu/video.md)**
